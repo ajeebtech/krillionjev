@@ -1,0 +1,4442 @@
+{
+  "squads": {
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/bangalore-royal-challengers-squad-338086/series-squads": {
+      "season": "2008",
+      "players": 25
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/chennai-super-kings-squad-338085/series-squads": {
+      "season": "2008",
+      "players": 26
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/deccan-chargers-squad-338087/series-squads": {
+      "season": "2008",
+      "players": 20
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/delhi-daredevils-squad-338089/series-squads": {
+      "season": "2008",
+      "players": 26
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/kings-xi-punjab-squad-338083/series-squads": {
+      "season": "2008",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/kolkata-knight-riders-squad-338088/series-squads": {
+      "season": "2008",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/mumbai-indians-squad-338082/series-squads": {
+      "season": "2008",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2007-08-313494/rajasthan-royals-squad-338084/series-squads": {
+      "season": "2008",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/chennai-super-kings-squad-394492/series-squads": {
+      "season": "2009",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/deccan-chargers-squad-394490/series-squads": {
+      "season": "2009",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/delhi-daredevils-squad-394493/series-squads": {
+      "season": "2009",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/kings-xi-punjab-squad-394486/series-squads": {
+      "season": "2009",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/kolkata-knight-riders-squad-394485/series-squads": {
+      "season": "2009",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/mumbai-indians-squad-394483/series-squads": {
+      "season": "2009",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/rajasthan-royals-squad-394481/series-squads": {
+      "season": "2009",
+      "players": 45
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-374163/royal-challengers-bangalore-squad-394477/series-squads": {
+      "season": "2009",
+      "players": 47
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/chennai-super-kings-squad-448325/series-squads": {
+      "season": "2010",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/deccan-chargers-squad-448345/series-squads": {
+      "season": "2010",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/delhi-daredevils-squad-448331/series-squads": {
+      "season": "2010",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/kings-xi-punjab-squad-448324/series-squads": {
+      "season": "2010",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/kolkata-knight-riders-squad-448335/series-squads": {
+      "season": "2010",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/mumbai-indians-squad-448339/series-squads": {
+      "season": "2010",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2009-10-418064/rajasthan-royals-squad-448341/series-squads": {
+      "season": "2010",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/chennai-super-kings-squad-495836/series-squads": {
+      "season": "2011",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/deccan-chargers-squad-495842/series-squads": {
+      "season": "2011",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/delhi-daredevils-squad-495838/series-squads": {
+      "season": "2011",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/kings-xi-punjab-squad-495843/series-squads": {
+      "season": "2011",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/kochi-tuskers-kerala-squad-495847/series-squads": {
+      "season": "2011",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/kolkata-knight-riders-squad-495841/series-squads": {
+      "season": "2011",
+      "players": 27
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/mumbai-indians-squad-495835/series-squads": {
+      "season": "2011",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/pune-warriors-squad-495844/series-squads": {
+      "season": "2011",
+      "players": 38
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/rajasthan-royals-squad-495837/series-squads": {
+      "season": "2011",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2011-466304/royal-challengers-bangalore-squad-495839/series-squads": {
+      "season": "2011",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/chennai-super-kings-squad-556245/series-squads": {
+      "season": "2012",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/deccan-chargers-squad-556249/series-squads": {
+      "season": "2012",
+      "players": 39
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/delhi-daredevils-squad-556255/series-squads": {
+      "season": "2012",
+      "players": 39
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/kings-xi-punjab-squad-556278/series-squads": {
+      "season": "2012",
+      "players": 38
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/kolkata-knight-riders-squad-556265/series-squads": {
+      "season": "2012",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/mumbai-indians-squad-556282/series-squads": {
+      "season": "2012",
+      "players": 39
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/pune-warriors-squad-556284/series-squads": {
+      "season": "2012",
+      "players": 42
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/rajasthan-royals-squad-556292/series-squads": {
+      "season": "2012",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2012-520932/royal-challengers-bangalore-squad-556289/series-squads": {
+      "season": "2012",
+      "players": 37
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/chennai-super-kings-squad-623917/series-squads": {
+      "season": "2013",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/delhi-daredevils-squad-623915/series-squads": {
+      "season": "2013",
+      "players": 37
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/kings-xi-punjab-squad-624073/series-squads": {
+      "season": "2013",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/kolkata-knight-riders-squad-623922/series-squads": {
+      "season": "2013",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/mumbai-indians-squad-624074/series-squads": {
+      "season": "2013",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/pune-warriors-squad-624076/series-squads": {
+      "season": "2013",
+      "players": 39
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/rajasthan-royals-squad-624080/series-squads": {
+      "season": "2013",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/royal-challengers-bangalore-squad-624083/series-squads": {
+      "season": "2013",
+      "players": 38
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2013-586733/sunrisers-hyderabad-squad-624084/series-squads": {
+      "season": "2013",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/chennai-super-kings-squad-735917/series-squads": {
+      "season": "2014",
+      "players": 25
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/delhi-daredevils-squad-735923/series-squads": {
+      "season": "2014",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/kings-xi-punjab-squad-735927/series-squads": {
+      "season": "2014",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/kolkata-knight-riders-squad-735933/series-squads": {
+      "season": "2014",
+      "players": 25
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/mumbai-indians-squad-735935/series-squads": {
+      "season": "2014",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/rajasthan-royals-squad-735937/series-squads": {
+      "season": "2014",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/royal-challengers-bangalore-squad-735977/series-squads": {
+      "season": "2014",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2014-695871/sunrisers-hyderabad-squad-735985/series-squads": {
+      "season": "2014",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/chennai-super-kings-squad-832917/series-squads": {
+      "season": "2015",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/delhi-daredevils-squad-832925/series-squads": {
+      "season": "2015",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/kings-xi-punjab-squad-832931/series-squads": {
+      "season": "2015",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/kolkata-knight-riders-squad-832937/series-squads": {
+      "season": "2015",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/mumbai-indians-squad-832943/series-squads": {
+      "season": "2015",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/rajasthan-royals-squad-832995/series-squads": {
+      "season": "2015",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/royal-challengers-bangalore-squad-833001/series-squads": {
+      "season": "2015",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/pepsi-indian-premier-league-2015-791129/sunrisers-hyderabad-squad-833007/series-squads": {
+      "season": "2015",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/delhi-daredevils-squad-969875/series-squads": {
+      "season": "2016",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/gujarat-lions-squad-969895/series-squads": {
+      "season": "2016",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/kings-xi-punjab-squad-969899/series-squads": {
+      "season": "2016",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/kolkata-knight-riders-squad-969883/series-squads": {
+      "season": "2016",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/mumbai-indians-squad-969889/series-squads": {
+      "season": "2016",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/rising-pune-supergiants-squad-969891/series-squads": {
+      "season": "2016",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/royal-challengers-bangalore-squad-969877/series-squads": {
+      "season": "2016",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2016-968923/sunrisers-hyderabad-squad-969897/series-squads": {
+      "season": "2016",
+      "players": 27
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/delhi-daredevils-squad-1083985/series-squads": {
+      "season": "2017",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/gujarat-lions-squad-1083987/series-squads": {
+      "season": "2017",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/kings-xi-punjab-squad-1083989/series-squads": {
+      "season": "2017",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/kolkata-knight-riders-squad-1083995/series-squads": {
+      "season": "2017",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/mumbai-indians-squad-1083996/series-squads": {
+      "season": "2017",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/rising-pune-supergiant-squad-1083999/series-squads": {
+      "season": "2017",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/royal-challengers-bangalore-squad-1084021/series-squads": {
+      "season": "2017",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2017-1078425/sunrisers-hyderabad-squad-1084024/series-squads": {
+      "season": "2017",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/chennai-super-kings-squad-1134853/series-squads": {
+      "season": "2018",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/delhi-daredevils-squad-1134858/series-squads": {
+      "season": "2018",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/kings-xi-punjab-squad-1134852/series-squads": {
+      "season": "2018",
+      "players": 25
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/kolkata-knight-riders-squad-1134830/series-squads": {
+      "season": "2018",
+      "players": 27
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/mumbai-indians-squad-1134861/series-squads": {
+      "season": "2018",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/rajasthan-royals-squad-1134860/series-squads": {
+      "season": "2018",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/royal-challengers-bangalore-squad-1134829/series-squads": {
+      "season": "2018",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2018-1131611/sunrisers-hyderabad-squad-1134862/series-squads": {
+      "season": "2018",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/chennai-super-kings-squad-1166261/series-squads": {
+      "season": "2019",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/delhi-capitals-squad-1166256/series-squads": {
+      "season": "2019",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/kings-xi-punjab-squad-1166263/series-squads": {
+      "season": "2019",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/kolkata-knight-riders-squad-1166262/series-squads": {
+      "season": "2019",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/mumbai-indians-squad-1166255/series-squads": {
+      "season": "2019",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/rajasthan-royals-squad-1166265/series-squads": {
+      "season": "2019",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/rajasthan-royals-squad-1181816/series-squads": {
+      "season": "2019",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/royal-challengers-bangalore-squad-1166264/series-squads": {
+      "season": "2019",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2019-1165643/sunrisers-hyderabad-squad-1166259/series-squads": {
+      "season": "2019",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/delhi-capitals-squad-1210602/series-squads": {
+      "season": "2020",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/kings-xi-punjab-squad-1210599/series-squads": {
+      "season": "2020",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/kolkata-knight-riders-squad-1210598/series-squads": {
+      "season": "2020",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/mumbai-indians-squad-1210609/series-squads": {
+      "season": "2020",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/rajasthan-royals-squad-1210607/series-squads": {
+      "season": "2020",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/royal-challengers-bangalore-squad-1210597/series-squads": {
+      "season": "2020",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/ipl-2020-21-1210595/sunrisers-hyderabad-squad-1210611/series-squads": {
+      "season": "2020",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/chennai-super-kings-squad-1252150/series-squads": {
+      "season": "2021",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/delhi-capitals-squad-1252198/series-squads": {
+      "season": "2021",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/kolkata-knight-riders-squad-1252188/series-squads": {
+      "season": "2021",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/mumbai-indians-squad-1252149/series-squads": {
+      "season": "2021",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/punjab-kings-squad-1252194/series-squads": {
+      "season": "2021",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/rajasthan-royals-squad-1252201/series-squads": {
+      "season": "2021",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/royal-challengers-bangalore-squad-1252176/series-squads": {
+      "season": "2021",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2021-1249214/sunrisers-hyderabad-squad-1252199/series-squads": {
+      "season": "2021",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/chennai-super-kings-squad-1300871/series-squads": {
+      "season": "2022",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/delhi-capitals-squad-1300872/series-squads": {
+      "season": "2022",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/gujarat-titans-squad-1300880/series-squads": {
+      "season": "2022",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/kolkata-knight-riders-squad-1300869/series-squads": {
+      "season": "2022",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/lucknow-super-giants-squad-1300877/series-squads": {
+      "season": "2022",
+      "players": 26
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/mumbai-indians-squad-1300874/series-squads": {
+      "season": "2022",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/punjab-kings-squad-1300870/series-squads": {
+      "season": "2022",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/rajasthan-royals-squad-1300873/series-squads": {
+      "season": "2022",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/royal-challengers-bangalore-squad-1300868/series-squads": {
+      "season": "2022",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2022-1298423/sunrisers-hyderabad-squad-1300875/series-squads": {
+      "season": "2022",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/chennai-super-kings-squad-1345088/series-squads": {
+      "season": "2023",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/delhi-capitals-squad-1345099/series-squads": {
+      "season": "2023",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/gujarat-titans-squad-1345118/series-squads": {
+      "season": "2023",
+      "players": 28
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/kolkata-knight-riders-squad-1345123/series-squads": {
+      "season": "2023",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/lucknow-super-giants-squad-1345126/series-squads": {
+      "season": "2023",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/mumbai-indians-squad-1345167/series-squads": {
+      "season": "2023",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/punjab-kings-squad-1345168/series-squads": {
+      "season": "2023",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/rajasthan-royals-squad-1346157/series-squads": {
+      "season": "2023",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/royal-challengers-bangalore-squad-1346156/series-squads": {
+      "season": "2023",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2023-1345038/sunrisers-hyderabad-squad-1346159/series-squads": {
+      "season": "2023",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-squad-1413620/series-squads": {
+      "season": "2024",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-squad-1413547/series-squads": {
+      "season": "2024",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-squad-1413572/series-squads": {
+      "season": "2024",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-squad-1413553/series-squads": {
+      "season": "2024",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-squad-1413571/series-squads": {
+      "season": "2024",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-squad-1413556/series-squads": {
+      "season": "2024",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-squad-1413565/series-squads": {
+      "season": "2024",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-squad-1413568/series-squads": {
+      "season": "2024",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-squad-1413548/series-squads": {
+      "season": "2024",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-squad-1413569/series-squads": {
+      "season": "2024",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/chennai-super-kings-squad-1458628/series-squads": {
+      "season": "2025",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/delhi-capitals-squad-1458631/series-squads": {
+      "season": "2025",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/gujarat-titans-squad-1458635/series-squads": {
+      "season": "2025",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-squad-1458633/series-squads": {
+      "season": "2025",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-squad-1458636/series-squads": {
+      "season": "2025",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/mumbai-indians-squad-1458620/series-squads": {
+      "season": "2025",
+      "players": 35
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/punjab-kings-squad-1458637/series-squads": {
+      "season": "2025",
+      "players": 34
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/rajasthan-royals-squad-1458634/series-squads": {
+      "season": "2025",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-squad-1458630/series-squads": {
+      "season": "2025",
+      "players": 29
+    },
+    "https://www.cricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-squad-1458622/series-squads": {
+      "season": "2025",
+      "players": 30
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/chennai-super-kings-squad-1511148/series-squads": {
+      "season": "2026",
+      "players": 37
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/delhi-capitals-squad-1511107/series-squads": {
+      "season": "2026",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/gujarat-titans-squad-1511094/series-squads": {
+      "season": "2026",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/kolkata-knight-riders-squad-1511092/series-squads": {
+      "season": "2026",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/lucknow-super-giants-squad-1511235/series-squads": {
+      "season": "2026",
+      "players": 33
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/mumbai-indians-squad-1511109/series-squads": {
+      "season": "2026",
+      "players": 36
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/punjab-kings-squad-1511082/series-squads": {
+      "season": "2026",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/rajasthan-royals-squad-1511089/series-squads": {
+      "season": "2026",
+      "players": 32
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-squad-1511134/series-squads": {
+      "season": "2026",
+      "players": 31
+    },
+    "https://www.cricinfo.com/series/ipl-2026-1510719/sunrisers-hyderabad-squad-1511114/series-squads": {
+      "season": "2026",
+      "players": 36
+    }
+  },
+  "profiles": {
+    "Rahul Dravid": [
+      "https://www.cricinfo.com/cricketers/rahul-dravid-28114"
+    ],
+    "Mark Boucher": [
+      "https://www.cricinfo.com/cricketers/mark-boucher-44111"
+    ],
+    "Shivnarine Chanderpaul": [
+      "https://www.cricinfo.com/cricketers/shivnarine-chanderpaul-51469"
+    ],
+    "Bharat Chipli": [
+      "https://www.cricinfo.com/cricketers/bharat-chipli-27685"
+    ],
+    "Shreevats Goswami": [
+      "https://www.cricinfo.com/cricketers/shreevats-goswami-302579"
+    ],
+    "Wasim Jaffer": [
+      "https://www.cricinfo.com/cricketers/wasim-jaffer-29646"
+    ],
+    "Virat Kohli": [
+      "https://www.cricinfo.com/cricketers/virat-kohli-253802"
+    ],
+    "Misbah-ul-Haq": [
+      "https://www.cricinfo.com/cricketers/misbah-ul-haq-41378"
+    ],
+    "Ross Taylor": [
+      "https://www.cricinfo.com/cricketers/ross-taylor-38699"
+    ],
+    "Cameron White": [
+      "https://www.cricinfo.com/cricketers/cameron-white-8291"
+    ],
+    "Sunil Joshi": [
+      "https://www.cricinfo.com/cricketers/sunil-joshi-29725"
+    ],
+    "Jacques Kallis": [
+      "https://www.cricinfo.com/cricketers/jacques-kallis-45789"
+    ],
+    "Ashley Noffke": [
+      "https://www.cricinfo.com/cricketers/ashley-noffke-6938"
+    ],
+    "Abdur Razzak": [
+      "https://www.cricinfo.com/cricketers/abdur-razzak-56283"
+    ],
+    "Balachandra Akhil": [
+      "https://www.cricinfo.com/cricketers/balachandra-akhil-26206"
+    ],
+    "KP Appanna": [
+      "https://www.cricinfo.com/cricketers/kp-appanna-269170"
+    ],
+    "Zaheer Khan": [
+      "https://www.cricinfo.com/cricketers/zaheer-khan-30102"
+    ],
+    "Praveen Kumar": [
+      "https://www.cricinfo.com/cricketers/praveen-kumar-30732"
+    ],
+    "Anil Kumble": [
+      "https://www.cricinfo.com/cricketers/anil-kumble-30176"
+    ],
+    "Dale Steyn": [
+      "https://www.cricinfo.com/cricketers/dale-steyn-47492"
+    ],
+    "Vinay Kumar": [
+      "https://www.cricinfo.com/cricketers/vinay-kumar-35731"
+    ],
+    "Nathan Bracken": [
+      "https://www.cricinfo.com/cricketers/nathan-bracken-4185"
+    ],
+    "Neravanda Aiyappa": [
+      "https://www.cricinfo.com/cricketers/neravanda-aiyappa-26198"
+    ],
+    "Jagadeesh Arunkumar": [
+      "https://www.cricinfo.com/cricketers/jagadeesh-arunkumar-26291"
+    ],
+    "Devraj Patil": [
+      "https://www.cricinfo.com/cricketers/devraj-patil-32389"
+    ],
+    "MS Dhoni": [
+      "https://www.cricinfo.com/cricketers/ms-dhoni-28081"
+    ],
+    "Srikkanth Anirudha": [
+      "https://www.cricinfo.com/cricketers/srikkanth-anirudha-26798"
+    ],
+    "Arun Karthik": [
+      "https://www.cricinfo.com/cricketers/arun-karthik-319745"
+    ],
+    "S Badrinath": [
+      "https://www.cricinfo.com/cricketers/s-badrinath-26806"
+    ],
+    "Stephen Fleming": [
+      "https://www.cricinfo.com/cricketers/stephen-fleming-37000"
+    ],
+    "Matthew Hayden": [
+      "https://www.cricinfo.com/cricketers/matthew-hayden-5616"
+    ],
+    "Michael Hussey": [
+      "https://www.cricinfo.com/cricketers/michael-hussey-5939"
+    ],
+    "Chamara Kapugedera": [
+      "https://www.cricinfo.com/cricketers/chamara-kapugedera-209457"
+    ],
+    "Abhinav Mukund": [
+      "https://www.cricinfo.com/cricketers/abhinav-mukund-302582"
+    ],
+    "Parthiv Patel": [
+      "https://www.cricinfo.com/cricketers/parthiv-patel-32242"
+    ],
+    "Suresh Raina": [
+      "https://www.cricinfo.com/cricketers/suresh-raina-33335"
+    ],
+    "Ravichandran Ashwin": [
+      "https://www.cricinfo.com/cricketers/ravichandran-ashwin-26421"
+    ],
+    "Joginder Sharma": [
+      "https://www.cricinfo.com/cricketers/joginder-sharma-29976"
+    ],
+    "Albie Morkel": [
+      "https://www.cricinfo.com/cricketers/albie-morkel-46248"
+    ],
+    "Jacob Oram": [
+      "https://www.cricinfo.com/cricketers/jacob-oram-38062"
+    ],
+    "Vidyut Sivaramakrishnan": [
+      "https://www.cricinfo.com/cricketers/vidyut-sivaramakrishnan-35619"
+    ],
+    "Lakshmipathy Balaji": [
+      "https://www.cricinfo.com/cricketers/lakshmipathy-balaji-26829"
+    ],
+    "Manpreet Gony": [
+      "https://www.cricinfo.com/cricketers/manpreet-gony-317293"
+    ],
+    "Shadab Jakati": [
+      "https://www.cricinfo.com/cricketers/shadab-jakati-29655"
+    ],
+    "Muthiah Muralidaran": [
+      "https://www.cricinfo.com/cricketers/muthiah-muralidaran-49636"
+    ],
+    "Makhaya Ntini": [
+      "https://www.cricinfo.com/cricketers/makhaya-ntini-46592"
+    ],
+    "Sudeep Tyagi": [
+      "https://www.cricinfo.com/cricketers/sudeep-tyagi-317784"
+    ],
+    "Palani Amarnath": [
+      "https://www.cricinfo.com/cricketers/palani-amarnath-290629"
+    ],
+    "Napoleon Einstein": [
+      "https://www.cricinfo.com/cricketers/napoleon-einstein-279540"
+    ],
+    "Viraj Kadbe": [
+      "https://www.cricinfo.com/cricketers/viraj-kadbe-340834"
+    ],
+    "Suresh Kumar": [
+      "https://www.cricinfo.com/cricketers/suresh-kumar-313763"
+    ],
+    "VVS Laxman": [
+      "https://www.cricinfo.com/cricketers/vvs-laxman-30750"
+    ],
+    "Herschelle Gibbs": [
+      "https://www.cricinfo.com/cricketers/herschelle-gibbs-45224"
+    ],
+    "Adam Gilchrist": [
+      "https://www.cricinfo.com/cricketers/adam-gilchrist-5390"
+    ],
+    "Dwaraka Ravi Teja": [
+      "https://www.cricinfo.com/cricketers/dwaraka-ravi-teja-237701"
+    ],
+    "Rohit Sharma": [
+      "https://www.cricinfo.com/cricketers/rohit-sharma-34102"
+    ],
+    "Chamara Silva": [
+      "https://www.cricinfo.com/cricketers/chamara-silva-50431"
+    ],
+    "Venugopal Rao": [
+      "https://www.cricinfo.com/cricketers/venugopal-rao-35805"
+    ],
+    "Arjun Yadav": [
+      "https://www.cricinfo.com/cricketers/arjun-yadav-36110"
+    ],
+    "Shahid Afridi": [
+      "https://www.cricinfo.com/cricketers/shahid-afridi-42639"
+    ],
+    "Scott Styris": [
+      "https://www.cricinfo.com/cricketers/scott-styris-38407"
+    ],
+    "Andrew Symonds": [
+      "https://www.cricinfo.com/cricketers/andrew-symonds-7702"
+    ],
+    "Pragyan Ojha": [
+      "https://www.cricinfo.com/cricketers/pragyan-ojha-32130"
+    ],
+    "RP Singh": [
+      "https://www.cricinfo.com/cricketers/rp-singh-35280"
+    ],
+    "Chaminda Vaas": [
+      "https://www.cricinfo.com/cricketers/chaminda-vaas-50804"
+    ],
+    "Nuwan Zoysa": [
+      "https://www.cricinfo.com/cricketers/nuwan-zoysa-51050"
+    ],
+    "Sanjay Bangar": [
+      "https://www.cricinfo.com/cricketers/sanjay-bangar-27225"
+    ],
+    "Halhadar Das": [
+      "https://www.cricinfo.com/cricketers/halhadar-das-236810"
+    ],
+    "Doddapaneni Kalyankrishna": [
+      "https://www.cricinfo.com/cricketers/doddapaneni-kalyankrishna-30719"
+    ],
+    "PM Sarvesh Kumar": [
+      "https://www.cricinfo.com/cricketers/pm-sarvesh-kumar-327127"
+    ],
+    "Paidikalva Vijaykumar": [
+      "https://www.cricinfo.com/cricketers/paidikalva-vijaykumar-272949"
+    ],
+    "Virender Sehwag": [
+      "https://www.cricinfo.com/cricketers/virender-sehwag-35263"
+    ],
+    "AB de Villiers": [
+      "https://www.cricinfo.com/cricketers/ab-de-villiers-44936"
+    ],
+    "Shikhar Dhawan": [
+      "https://www.cricinfo.com/cricketers/shikhar-dhawan-28235"
+    ],
+    "Gautam Gambhir": [
+      "https://www.cricinfo.com/cricketers/gautam-gambhir-28763"
+    ],
+    "Dinesh Karthik": [
+      "https://www.cricinfo.com/cricketers/dinesh-karthik-30045"
+    ],
+    "Manoj Tiwary": [
+      "https://www.cricinfo.com/cricketers/manoj-tiwary-35565"
+    ],
+    "Tejashwi Yadav": [
+      "https://www.cricinfo.com/cricketers/tejashwi-yadav-344286"
+    ],
+    "Rajat Bhatia": [
+      "https://www.cricinfo.com/cricketers/rajat-bhatia-26907"
+    ],
+    "Tillakaratne Dilshan": [
+      "https://www.cricinfo.com/cricketers/tillakaratne-dilshan-48472"
+    ],
+    "Farveez Maharoof": [
+      "https://www.cricinfo.com/cricketers/farveez-maharoof-49638"
+    ],
+    "Yo Mahesh": [
+      "https://www.cricinfo.com/cricketers/yo-mahesh-31732"
+    ],
+    "Mithun Manhas": [
+      "https://www.cricinfo.com/cricketers/mithun-manhas-31001"
+    ],
+    "Yogesh Nagar": [
+      "https://www.cricinfo.com/cricketers/yogesh-nagar-317786"
+    ],
+    "Shoaib Malik": [
+      "https://www.cricinfo.com/cricketers/shoaib-malik-42657"
+    ],
+    "Mayank Tehlan": [
+      "https://www.cricinfo.com/cricketers/mayank-tehlan-35392"
+    ],
+    "Daniel Vettori": [
+      "https://www.cricinfo.com/cricketers/daniel-vettori-38710"
+    ],
+    "Brett Geeves": [
+      "https://www.cricinfo.com/cricketers/brett-geeves-5472"
+    ],
+    "Glenn McGrath": [
+      "https://www.cricinfo.com/cricketers/glenn-mcgrath-6565"
+    ],
+    "Amit Mishra": [
+      "https://www.cricinfo.com/cricketers/amit-mishra-31107",
+      "https://www.cricinfo.com/cricketers/amit-mishra-604550"
+    ],
+    "Mohammad Asif": [
+      "https://www.cricinfo.com/cricketers/mohammad-asif-41411"
+    ],
+    "Pradeep Sangwan": [
+      "https://www.cricinfo.com/cricketers/pradeep-sangwan-279545"
+    ],
+    "Sohail Tanvir": [
+      "https://www.cricinfo.com/cricketers/sohail-tanvir-43265"
+    ],
+    "Shane Warne": [
+      "https://www.cricinfo.com/cricketers/shane-warne-8166"
+    ],
+    "Sreesanth": [
+      "https://www.cricinfo.com/cricketers/sreesanth-34274"
+    ],
+    "Shaun Marsh": [
+      "https://www.cricinfo.com/cricketers/shaun-marsh-6683"
+    ],
+    "Sanath Jayasuriya": [
+      "https://www.cricinfo.com/cricketers/sanath-jayasuriya-49209"
+    ],
+    "Yuvraj Singh": [
+      "https://www.cricinfo.com/cricketers/yuvraj-singh-36084"
+    ],
+    "Mahela Jayawardene": [
+      "https://www.cricinfo.com/cricketers/mahela-jayawardene-49289"
+    ],
+    "Karan Goel": [
+      "https://www.cricinfo.com/cricketers/karan-goel-28997"
+    ],
+    "Simon Katich": [
+      "https://www.cricinfo.com/cricketers/simon-katich-6128"
+    ],
+    "Uday Kaul": [
+      "https://www.cricinfo.com/cricketers/uday-kaul-30235"
+    ],
+    "Luke Pomersbach": [
+      "https://www.cricinfo.com/cricketers/luke-pomersbach-232284"
+    ],
+    "Nitin Saini": [
+      "https://www.cricinfo.com/cricketers/nitin-saini-274785"
+    ],
+    "Kumar Sangakkara": [
+      "https://www.cricinfo.com/cricketers/kumar-sangakkara-50710"
+    ],
+    "Ramnaresh Sarwan": [
+      "https://www.cricinfo.com/cricketers/ramnaresh-sarwan-52969"
+    ],
+    "Sunny Sohal": [
+      "https://www.cricinfo.com/cricketers/sunny-sohal-228943"
+    ],
+    "Tanmay Srivastava": [
+      "https://www.cricinfo.com/cricketers/tanmay-srivastava-35401"
+    ],
+    "Piyush Chawla": [
+      "https://www.cricinfo.com/cricketers/piyush-chawla-32966"
+    ],
+    "Rishi Dhawan": [
+      "https://www.cricinfo.com/cricketers/rishi-dhawan-290727"
+    ],
+    "James Hopes": [
+      "https://www.cricinfo.com/cricketers/james-hopes-5702"
+    ],
+    "Irfan Pathan": [
+      "https://www.cricinfo.com/cricketers/irfan-pathan-32685"
+    ],
+    "Brett Lee": [
+      "https://www.cricinfo.com/cricketers/brett-lee-6278"
+    ],
+    "Kyle Mills": [
+      "https://www.cricinfo.com/cricketers/kyle-mills-37740"
+    ],
+    "Ramesh Powar": [
+      "https://www.cricinfo.com/cricketers/ramesh-powar-32391"
+    ],
+    "Ajitesh Argal": [
+      "https://www.cricinfo.com/cricketers/ajitesh-argal-26432"
+    ],
+    "Pankaj Dharmani": [
+      "https://www.cricinfo.com/cricketers/pankaj-dharmani-28067"
+    ],
+    "Gagandeep Singh": [
+      "https://www.cricinfo.com/cricketers/gagandeep-singh-28758"
+    ],
+    "Sahil Kukreja": [
+      "https://www.cricinfo.com/cricketers/sahil-kukreja-30144"
+    ],
+    "Wilkin Mota": [
+      "https://www.cricinfo.com/cricketers/wilkin-mota-31041"
+    ],
+    "Vikram Singh": [
+      "https://www.cricinfo.com/cricketers/vikram-singh-35281"
+    ],
+    "Sourav Ganguly": [
+      "https://www.cricinfo.com/cricketers/sourav-ganguly-28779"
+    ],
+    "Aakash Chopra": [
+      "https://www.cricinfo.com/cricketers/aakash-chopra-27639"
+    ],
+    "Debabrata Das": [
+      "https://www.cricinfo.com/cricketers/debabrata-das-328163"
+    ],
+    "Brad Hodge": [
+      "https://www.cricinfo.com/cricketers/brad-hodge-5674"
+    ],
+    "Brendon McCullum": [
+      "https://www.cricinfo.com/cricketers/brendon-mccullum-37737"
+    ],
+    "Ricky Ponting": [
+      "https://www.cricinfo.com/cricketers/ricky-ponting-7133"
+    ],
+    "Wriddhiman Saha": [
+      "https://www.cricinfo.com/cricketers/wriddhiman-saha-279810"
+    ],
+    "Salman Butt": [
+      "https://www.cricinfo.com/cricketers/salman-butt-42683"
+    ],
+    "Tatenda Taibu": [
+      "https://www.cricinfo.com/cricketers/tatenda-taibu-55805"
+    ],
+    "Rohan Banerjee": [
+      "https://www.cricinfo.com/cricketers/rohan-banerjee-27014"
+    ],
+    "Cheteshwar Pujara": [
+      "https://www.cricinfo.com/cricketers/cheteshwar-pujara-32540"
+    ],
+    "Yashpal Singh": [
+      "https://www.cricinfo.com/cricketers/yashpal-singh-36130"
+    ],
+    "Chris Gayle": [
+      "https://www.cricinfo.com/cricketers/chris-gayle-51880"
+    ],
+    "David Hussey": [
+      "https://www.cricinfo.com/cricketers/david-hussey-5766"
+    ],
+    "Iqbal Abdulla": [
+      "https://www.cricinfo.com/cricketers/iqbal-abdulla-277237"
+    ],
+    "Mohammad Hafeez": [
+      "https://www.cricinfo.com/cricketers/mohammad-hafeez-41434"
+    ],
+    "Laxmi Shukla": [
+      "https://www.cricinfo.com/cricketers/laxmi-shukla-34019"
+    ],
+    "Ajit Agarkar": [
+      "https://www.cricinfo.com/cricketers/ajit-agarkar-26184"
+    ],
+    "Ashok Dinda": [
+      "https://www.cricinfo.com/cricketers/ashok-dinda-227712"
+    ],
+    "Murali Kartik": [
+      "https://www.cricinfo.com/cricketers/murali-kartik-30049"
+    ],
+    "Siddarth Kaul": [
+      "https://www.cricinfo.com/cricketers/siddarth-kaul-326017"
+    ],
+    "Ajantha Mendis": [
+      "https://www.cricinfo.com/cricketers/ajantha-mendis-268739"
+    ],
+    "Ishant Sharma": [
+      "https://www.cricinfo.com/cricketers/ishant-sharma-236779"
+    ],
+    "Shoaib Akhtar": [
+      "https://www.cricinfo.com/cricketers/shoaib-akhtar-42655"
+    ],
+    "Umar Gul": [
+      "https://www.cricinfo.com/cricketers/umar-gul-43524"
+    ],
+    "Ranadeb Bose": [
+      "https://www.cricinfo.com/cricketers/ranadeb-bose-27572"
+    ],
+    "Saurasish Lahiri": [
+      "https://www.cricinfo.com/cricketers/saurasish-lahiri-30740"
+    ],
+    "Sachin Tendulkar": [
+      "https://www.cricinfo.com/cricketers/sachin-tendulkar-35320"
+    ],
+    "Loots Bosman": [
+      "https://www.cricinfo.com/cricketers/loots-bosman-44098"
+    ],
+    "Ankeet Chavan": [
+      "https://www.cricinfo.com/cricketers/ankeet-chavan-337913"
+    ],
+    "Siddharth Chitnis": [
+      "https://www.cricinfo.com/cricketers/siddharth-chitnis-337916"
+    ],
+    "Manish Pandey": [
+      "https://www.cricinfo.com/cricketers/manish-pandey-290630"
+    ],
+    "Ashwell Prince": [
+      "https://www.cricinfo.com/cricketers/ashwell-prince-46788"
+    ],
+    "Ajinkya Rahane": [
+      "https://www.cricinfo.com/cricketers/ajinkya-rahane-277916"
+    ],
+    "Luke Ronchi": [
+      "https://www.cricinfo.com/cricketers/luke-ronchi-7502"
+    ],
+    "Pinal Shah": [
+      "https://www.cricinfo.com/cricketers/pinal-shah-34282"
+    ],
+    "Dominic Thornely": [
+      "https://www.cricinfo.com/cricketers/dominic-thornely-8002"
+    ],
+    "Saurabh Tiwary": [
+      "https://www.cricinfo.com/cricketers/saurabh-tiwary-35390"
+    ],
+    "Robin Uthappa": [
+      "https://www.cricinfo.com/cricketers/robin-uthappa-35582"
+    ],
+    "Dwayne Bravo": [
+      "https://www.cricinfo.com/cricketers/dwayne-bravo-51439"
+    ],
+    "Gaurav Dhiman": [
+      "https://www.cricinfo.com/cricketers/gaurav-dhiman-28619"
+    ],
+    "Abhishek Nayar": [
+      "https://www.cricinfo.com/cricketers/abhishek-nayar-32091"
+    ],
+    "Shaun Pollock": [
+      "https://www.cricinfo.com/cricketers/shaun-pollock-46774"
+    ],
+    "Dwayne Smith": [
+      "https://www.cricinfo.com/cricketers/dwayne-smith-53118"
+    ],
+    "Dilhara Fernando": [
+      "https://www.cricinfo.com/cricketers/dilhara-fernando-48835"
+    ],
+    "Harbhajan Singh": [
+      "https://www.cricinfo.com/cricketers/harbhajan-singh-29264"
+    ],
+    "Dhawal Kulkarni": [
+      "https://www.cricinfo.com/cricketers/dhawal-kulkarni-277955"
+    ],
+    "Ashish Nehra": [
+      "https://www.cricinfo.com/cricketers/ashish-nehra-31820"
+    ],
+    "Andre Nel": [
+      "https://www.cricinfo.com/cricketers/andre-nel-46569"
+    ],
+    "Rajesh Pawar": [
+      "https://www.cricinfo.com/cricketers/rajesh-pawar-32305"
+    ],
+    "Swapnil Singh": [
+      "https://www.cricinfo.com/cricketers/swapnil-singh-232292"
+    ],
+    "Lasith Malinga": [
+      "https://www.cricinfo.com/cricketers/lasith-malinga-49758"
+    ],
+    "Musavir Khote": [
+      "https://www.cricinfo.com/cricketers/musavir-khote-30220"
+    ],
+    "Rohan Raje": [
+      "https://www.cricinfo.com/cricketers/rohan-raje-290713"
+    ],
+    "Yogesh Takawale": [
+      "https://www.cricinfo.com/cricketers/yogesh-takawale-35357"
+    ],
+    "Vikrant Yeligati": [
+      "https://www.cricinfo.com/cricketers/vikrant-yeligati-307448"
+    ],
+    "Swapnil Asnodkar": [
+      "https://www.cricinfo.com/cricketers/swapnil-asnodkar-26782"
+    ],
+    "Mohammad Kaif": [
+      "https://www.cricinfo.com/cricketers/mohammad-kaif-29990"
+    ],
+    "Kamran Akmal": [
+      "https://www.cricinfo.com/cricketers/kamran-akmal-41028"
+    ],
+    "Taruwar Kohli": [
+      "https://www.cricinfo.com/cricketers/taruwar-kohli-331855"
+    ],
+    "Darren Lehmann": [
+      "https://www.cricinfo.com/cricketers/darren-lehmann-6285"
+    ],
+    "Mahesh Rawat": [
+      "https://www.cricinfo.com/cricketers/mahesh-rawat-33440"
+    ],
+    "Jaydev Shah": [
+      "https://www.cricinfo.com/cricketers/jaydev-shah-34997"
+    ],
+    "Graeme Smith": [
+      "https://www.cricinfo.com/cricketers/graeme-smith-47270"
+    ],
+    "Younis Khan": [
+      "https://www.cricinfo.com/cricketers/younis-khan-43652"
+    ],
+    "Justin Langer": [
+      "https://www.cricinfo.com/cricketers/justin-langer-6256"
+    ],
+    "Ravindra Jadeja": [
+      "https://www.cricinfo.com/cricketers/ravindra-jadeja-234675"
+    ],
+    "Niraj Patel": [
+      "https://www.cricinfo.com/cricketers/niraj-patel-32240"
+    ],
+    "Yusuf Pathan": [
+      "https://www.cricinfo.com/cricketers/yusuf-pathan-32498"
+    ],
+    "Shane Watson": [
+      "https://www.cricinfo.com/cricketers/shane-watson-8180"
+    ],
+    "Dimitri Mascarenhas": [
+      "https://www.cricinfo.com/cricketers/dimitri-mascarenhas-16932"
+    ],
+    "Morne Morkel": [
+      "https://www.cricinfo.com/cricketers/morne-morkel-46538"
+    ],
+    "Pankaj Singh": [
+      "https://www.cricinfo.com/cricketers/pankaj-singh-32973"
+    ],
+    "Munaf Patel": [
+      "https://www.cricinfo.com/cricketers/munaf-patel-32965"
+    ],
+    "Dinesh Salunkhe": [
+      "https://www.cricinfo.com/cricketers/dinesh-salunkhe-278482"
+    ],
+    "Siddharth Trivedi": [
+      "https://www.cricinfo.com/cricketers/siddharth-trivedi-35353"
+    ],
+    "Aditya Angle": [
+      "https://www.cricinfo.com/cricketers/aditya-angle-26388"
+    ],
+    "Sumit Khatri": [
+      "https://www.cricinfo.com/cricketers/sumit-khatri-275731"
+    ],
+    "Parag More": [
+      "https://www.cricinfo.com/cricketers/parag-more-31219"
+    ],
+    "Anup Revandkar": [
+      "https://www.cricinfo.com/cricketers/anup-revandkar-284355"
+    ],
+    "George Bailey": [
+      "https://www.cricinfo.com/cricketers/george-bailey-4451"
+    ],
+    "Murali Vijay": [
+      "https://www.cricinfo.com/cricketers/murali-vijay-237095"
+    ],
+    "Andrew Flintoff": [
+      "https://www.cricinfo.com/cricketers/andrew-flintoff-12856"
+    ],
+    "Thilan Thushara": [
+      "https://www.cricinfo.com/cricketers/thilan-thushara-49677"
+    ],
+    "Manvinder Bisla": [
+      "https://www.cricinfo.com/cricketers/manvinder-bisla-27280"
+    ],
+    "Tirumalasetti Suman": [
+      "https://www.cricinfo.com/cricketers/tirumalasetti-suman-34281"
+    ],
+    "Fidel Edwards": [
+      "https://www.cricinfo.com/cricketers/fidel-edwards-51782"
+    ],
+    "Harmeet Singh": [
+      "https://www.cricinfo.com/cricketers/harmeet-singh-391128",
+      "https://www.cricinfo.com/cricketers/harmeet-singh-422847"
+    ],
+    "Ryan Harris": [
+      "https://www.cricinfo.com/cricketers/ryan-harris-5779"
+    ],
+    "Jaskaran Singh": [
+      "https://www.cricinfo.com/cricketers/jaskaran-singh-376102",
+      "https://www.cricinfo.com/cricketers/jaskaran-singh-543922"
+    ],
+    "Abhinav Kumar": [
+      "https://www.cricinfo.com/cricketers/abhinav-kumar-26167"
+    ],
+    "Azhar Bilakhia": [
+      "https://www.cricinfo.com/cricketers/azhar-bilakhia-26946"
+    ],
+    "Shoaib Ahmed": [
+      "https://www.cricinfo.com/cricketers/shoaib-ahmed-317709"
+    ],
+    "Owais Shah": [
+      "https://www.cricinfo.com/cricketers/owais-shah-20123"
+    ],
+    "David Warner": [
+      "https://www.cricinfo.com/cricketers/david-warner-219889"
+    ],
+    "Paul Collingwood": [
+      "https://www.cricinfo.com/cricketers/paul-collingwood-10772"
+    ],
+    "Andrew McDonald": [
+      "https://www.cricinfo.com/cricketers/andrew-mcdonald-6553"
+    ],
+    "Dirk Nannes": [
+      "https://www.cricinfo.com/cricketers/dirk-nannes-6981"
+    ],
+    "Aavishkar Salvi": [
+      "https://www.cricinfo.com/cricketers/aavishkar-salvi-34264"
+    ],
+    "Umesh Yadav": [
+      "https://www.cricinfo.com/cricketers/umesh-yadav-376116"
+    ],
+    "Ravikant Shukla": [
+      "https://www.cricinfo.com/cricketers/ravikant-shukla-33331"
+    ],
+    "Ryan Ninan": [
+      "https://www.cricinfo.com/cricketers/ryan-ninan-353669"
+    ],
+    "Ravi Bopara": [
+      "https://www.cricinfo.com/cricketers/ravi-bopara-10582"
+    ],
+    "Yusuf Abdulla": [
+      "https://www.cricinfo.com/cricketers/yusuf-abdulla-224367"
+    ],
+    "Amanpreet Singh": [
+      "https://www.cricinfo.com/cricketers/amanpreet-singh-253804"
+    ],
+    "Burt Cockley": [
+      "https://www.cricinfo.com/cricketers/burt-cockley-275678"
+    ],
+    "Vikramjeet Malik": [
+      "https://www.cricinfo.com/cricketers/vikramjeet-malik-31738"
+    ],
+    "Jerome Taylor": [
+      "https://www.cricinfo.com/cricketers/jerome-taylor-53191"
+    ],
+    "Arindam Ghosh": [
+      "https://www.cricinfo.com/cricketers/arindam-ghosh-220435"
+    ],
+    "Morne van Wyk": [
+      "https://www.cricinfo.com/cricketers/morne-van-wyk-47711"
+    ],
+    "Moises Henriques": [
+      "https://www.cricinfo.com/cricketers/moises-henriques-5961"
+    ],
+    "Angelo Mathews": [
+      "https://www.cricinfo.com/cricketers/angelo-mathews-49764"
+    ],
+    "Anureet Singh": [
+      "https://www.cricinfo.com/cricketers/anureet-singh-376324"
+    ],
+    "Charl Langeveldt": [
+      "https://www.cricinfo.com/cricketers/charl-langeveldt-45963"
+    ],
+    "Mashrafe Mortaza": [
+      "https://www.cricinfo.com/cricketers/mashrafe-mortaza-56007"
+    ],
+    "Shoaib Shaikh": [
+      "https://www.cricinfo.com/cricketers/shoaib-shaikh-377437"
+    ],
+    "Mohammad Ashraful": [
+      "https://www.cricinfo.com/cricketers/mohammad-ashraful-55988"
+    ],
+    "Jean-Paul Duminy": [
+      "https://www.cricinfo.com/cricketers/jean-paul-duminy-44932"
+    ],
+    "Ryan McLaren": [
+      "https://www.cricinfo.com/cricketers/ryan-mclaren-46393"
+    ],
+    "Graham Napier": [
+      "https://www.cricinfo.com/cricketers/graham-napier-17991"
+    ],
+    "Chetanya Nanda": [
+      "https://www.cricinfo.com/cricketers/chetanya-nanda-32093"
+    ],
+    "Rahil Shaikh": [
+      "https://www.cricinfo.com/cricketers/rahil-shaikh-279460"
+    ],
+    "Naman Ojha": [
+      "https://www.cricinfo.com/cricketers/naman-ojha-32102"
+    ],
+    "Rob Quiney": [
+      "https://www.cricinfo.com/cricketers/rob-quiney-211854"
+    ],
+    "Paul Valthaty": [
+      "https://www.cricinfo.com/cricketers/paul-valthaty-35630"
+    ],
+    "Paras Dogra": [
+      "https://www.cricinfo.com/cricketers/paras-dogra-28160"
+    ],
+    "Johan Botha": [
+      "https://www.cricinfo.com/cricketers/johan-botha-44149"
+    ],
+    "Lee Carseldine": [
+      "https://www.cricinfo.com/cricketers/lee-carseldine-4541"
+    ],
+    "Raiphi Gomez": [
+      "https://www.cricinfo.com/cricketers/raiphi-gomez-28846"
+    ],
+    "Abhishek Raut": [
+      "https://www.cricinfo.com/cricketers/abhishek-raut-230593"
+    ],
+    "Shane Harwood": [
+      "https://www.cricinfo.com/cricketers/shane-harwood-5605"
+    ],
+    "Tyron Henderson": [
+      "https://www.cricinfo.com/cricketers/tyron-henderson-45434"
+    ],
+    "Kamran Khan": [
+      "https://www.cricinfo.com/cricketers/kamran-khan-391121"
+    ],
+    "Amit Singh": [
+      "https://www.cricinfo.com/cricketers/amit-singh-26789"
+    ],
+    "Shaun Tait": [
+      "https://www.cricinfo.com/cricketers/shaun-tait-8076"
+    ],
+    "Pushkaraj Chavan": [
+      "https://www.cricinfo.com/cricketers/pushkaraj-chavan-399861"
+    ],
+    "Abdulahad Malek": [
+      "https://www.cricinfo.com/cricketers/abdulahad-malek-290721"
+    ],
+    "Mohammed Arif": [
+      "https://www.cricinfo.com/cricketers/mohammed-arif-304737"
+    ],
+    "Atul Sharma": [
+      "https://www.cricinfo.com/cricketers/atul-sharma-399763"
+    ],
+    "Gajendra Singh": [
+      "https://www.cricinfo.com/cricketers/gajendra-singh-326020"
+    ],
+    "Ashraf Makda": [
+      "https://www.cricinfo.com/cricketers/ashraf-makda-31752"
+    ],
+    "Shrideep Mangela": [
+      "https://www.cricinfo.com/cricketers/shrideep-mangela-284363"
+    ],
+    "Rajesh Bishnoi": [
+      "https://www.cricinfo.com/cricketers/rajesh-bishnoi-236766"
+    ],
+    "Chidhambaram Gautam": [
+      "https://www.cricinfo.com/cricketers/chidhambaram-gautam-302208"
+    ],
+    "Ishank Jaggi": [
+      "https://www.cricinfo.com/cricketers/ishank-jaggi-279554"
+    ],
+    "Kevin Pietersen": [
+      "https://www.cricinfo.com/cricketers/kevin-pietersen-19296"
+    ],
+    "Saurabh Bandekar": [
+      "https://www.cricinfo.com/cricketers/saurabh-bandekar-27569"
+    ],
+    "Raju Bhatkal": [
+      "https://www.cricinfo.com/cricketers/raju-bhatkal-27150"
+    ],
+    "Kedar Jadhav": [
+      "https://www.cricinfo.com/cricketers/kedar-jadhav-290716"
+    ],
+    "Jesse Ryder": [
+      "https://www.cricinfo.com/cricketers/jesse-ryder-38373"
+    ],
+    "Roelof van der Merwe": [
+      "https://www.cricinfo.com/cricketers/roelof-van-der-merwe-47850"
+    ],
+    "Sreenath Aravind": [
+      "https://www.cricinfo.com/cricketers/sreenath-aravind-290632"
+    ],
+    "Bhuvneshwar Kumar": [
+      "https://www.cricinfo.com/cricketers/bhuvneshwar-kumar-326016"
+    ],
+    "Abhimanyu Mithun": [
+      "https://www.cricinfo.com/cricketers/abhimanyu-mithun-310958"
+    ],
+    "Karn Sharma": [
+      "https://www.cricinfo.com/cricketers/karn-sharma-30288"
+    ],
+    "Rangaraj Suthesh": [
+      "https://www.cricinfo.com/cricketers/rangaraj-suthesh-390355"
+    ],
+    "Dillon du Preez": [
+      "https://www.cricinfo.com/cricketers/dillon-du-preez-44938"
+    ],
+    "Udit Patel": [
+      "https://www.cricinfo.com/cricketers/udit-patel-32388"
+    ],
+    "Jitendra Patil": [
+      "https://www.cricinfo.com/cricketers/jitendra-patil-279857"
+    ],
+    "RK Sabharwal": [
+      "https://www.cricinfo.com/cricketers/rk-sabharwal-33769"
+    ],
+    "Tinu Yohannan": [
+      "https://www.cricinfo.com/cricketers/tinu-yohannan-36080"
+    ],
+    "Hemang Badani": [
+      "https://www.cricinfo.com/cricketers/hemang-badani-26802"
+    ],
+    "Justin Kemp": [
+      "https://www.cricinfo.com/cricketers/justin-kemp-45797"
+    ],
+    "Thisara Perera": [
+      "https://www.cricinfo.com/cricketers/thisara-perera-233514"
+    ],
+    "Doug Bollinger": [
+      "https://www.cricinfo.com/cricketers/doug-bollinger-4508"
+    ],
+    "Chandrasekar Ganapathy": [
+      "https://www.cricinfo.com/cricketers/chandrasekar-ganapathy-28764"
+    ],
+    "Mitchell Marsh": [
+      "https://www.cricinfo.com/cricketers/mitchell-marsh-272450"
+    ],
+    "Mohnish Mishra": [
+      "https://www.cricinfo.com/cricketers/mohnish-mishra-31028"
+    ],
+    "Bodapati Sumanth": [
+      "https://www.cricinfo.com/cricketers/bodapati-sumanth-253798"
+    ],
+    "Ashish Reddy": [
+      "https://www.cricinfo.com/cricketers/ashish-reddy-389605"
+    ],
+    "Kemar Roach": [
+      "https://www.cricinfo.com/cricketers/kemar-roach-230553"
+    ],
+    "Rahul Sharma": [
+      "https://www.cricinfo.com/cricketers/rahul-sharma-272994"
+    ],
+    "Anirudh Singh": [
+      "https://www.cricinfo.com/cricketers/anirudh-singh-26252"
+    ],
+    "Sarabjit Ladda": [
+      "https://www.cricinfo.com/cricketers/sarabjit-ladda-317292"
+    ],
+    "Wayne Parnell": [
+      "https://www.cricinfo.com/cricketers/wayne-parnell-265564"
+    ],
+    "Joginder Singh": [
+      "https://www.cricinfo.com/cricketers/joginder-singh-422845"
+    ],
+    "Shashi Ranjan": [
+      "https://www.cricinfo.com/cricketers/shashi-ranjan-33097"
+    ],
+    "Sarandeep Singh": [
+      "https://www.cricinfo.com/cricketers/sarandeep-singh-34211"
+    ],
+    "Adrian Barath": [
+      "https://www.cricinfo.com/cricketers/adrian-barath-274926"
+    ],
+    "Bipul Sharma": [
+      "https://www.cricinfo.com/cricketers/bipul-sharma-35928"
+    ],
+    "Reetinder Sodhi": [
+      "https://www.cricinfo.com/cricketers/reetinder-sodhi-34078"
+    ],
+    "Love Ablish": [
+      "https://www.cricinfo.com/cricketers/love-ablish-26236"
+    ],
+    "Shalabh Srivastava": [
+      "https://www.cricinfo.com/cricketers/shalabh-srivastava-34245"
+    ],
+    "Rusty Theron": [
+      "https://www.cricinfo.com/cricketers/rusty-theron-223642"
+    ],
+    "Harshad Khadiwale": [
+      "https://www.cricinfo.com/cricketers/harshad-khadiwale-253800"
+    ],
+    "Ganapathi Vignesh": [
+      "https://www.cricinfo.com/cricketers/ganapathi-vignesh-35746"
+    ],
+    "Varun Aaron": [
+      "https://www.cricinfo.com/cricketers/varun-aaron-360911"
+    ],
+    "Shane Bond": [
+      "https://www.cricinfo.com/cricketers/shane-bond-36326"
+    ],
+    "Eklak Ahmid": [
+      "https://www.cricinfo.com/cricketers/eklak-ahmid-269174"
+    ],
+    "Rohan Gavaskar": [
+      "https://www.cricinfo.com/cricketers/rohan-gavaskar-28792"
+    ],
+    "Chirag Pathak": [
+      "https://www.cricinfo.com/cricketers/chirag-pathak-279546"
+    ],
+    "Chandan Madan": [
+      "https://www.cricinfo.com/cricketers/chandan-madan-31104"
+    ],
+    "Ambati Rayudu": [
+      "https://www.cricinfo.com/cricketers/ambati-rayudu-33141"
+    ],
+    "Aditya Tare": [
+      "https://www.cricinfo.com/cricketers/aditya-tare-333904"
+    ],
+    "Kieron Pollard": [
+      "https://www.cricinfo.com/cricketers/kieron-pollard-230559"
+    ],
+    "Rajagopal Sathish": [
+      "https://www.cricinfo.com/cricketers/rajagopal-sathish-33870"
+    ],
+    "Abu Nechim": [
+      "https://www.cricinfo.com/cricketers/abu-nechim-228430"
+    ],
+    "Ishan Malhotra": [
+      "https://www.cricinfo.com/cricketers/ishan-malhotra-31088"
+    ],
+    "Ali Murtaza": [
+      "https://www.cricinfo.com/cricketers/ali-murtaza-26490"
+    ],
+    "Rahul Shukla": [
+      "https://www.cricinfo.com/cricketers/rahul-shukla-390547"
+    ],
+    "Syed Shahabuddin": [
+      "https://www.cricinfo.com/cricketers/syed-shahabuddin-33773"
+    ],
+    "Faiz Fazal": [
+      "https://www.cricinfo.com/cricketers/faiz-fazal-28671"
+    ],
+    "Aaron Finch": [
+      "https://www.cricinfo.com/cricketers/aaron-finch-5334"
+    ],
+    "Abhishek Jhunjhunwala": [
+      "https://www.cricinfo.com/cricketers/abhishek-jhunjhunwala-29702"
+    ],
+    "Michael Lumb": [
+      "https://www.cricinfo.com/cricketers/michael-lumb-16406"
+    ],
+    "Amit Paunikar": [
+      "https://www.cricinfo.com/cricketers/amit-paunikar-324444"
+    ],
+    "Adam Voges": [
+      "https://www.cricinfo.com/cricketers/adam-voges-8119"
+    ],
+    "Damien Martyn": [
+      "https://www.cricinfo.com/cricketers/damien-martyn-6513"
+    ],
+    "Sumit Narwal": [
+      "https://www.cricinfo.com/cricketers/sumit-narwal-32084"
+    ],
+    "Shrikant Wagh": [
+      "https://www.cricinfo.com/cricketers/shrikant-wagh-279552"
+    ],
+    "Syed Quadri": [
+      "https://www.cricinfo.com/cricketers/syed-quadri-32978"
+    ],
+    "Amit Uniyal": [
+      "https://www.cricinfo.com/cricketers/amit-uniyal-35586"
+    ],
+    "Faf du Plessis": [
+      "https://www.cricinfo.com/cricketers/faf-du-plessis-44828"
+    ],
+    "Kuthethurshri Vasudevadas": [
+      "https://www.cricinfo.com/cricketers/kuthethurshri-vasudevadas-35724"
+    ],
+    "Ben Hilfenhaus": [
+      "https://www.cricinfo.com/cricketers/ben-hilfenhaus-5941"
+    ],
+    "Nuwan Kulasekara": [
+      "https://www.cricinfo.com/cricketers/nuwan-kulasekara-49535"
+    ],
+    "Suraj Randiv": [
+      "https://www.cricinfo.com/cricketers/suraj-randiv-50438"
+    ],
+    "Tim Southee": [
+      "https://www.cricinfo.com/cricketers/tim-southee-232364"
+    ],
+    "Kedar Devdhar": [
+      "https://www.cricinfo.com/cricketers/kedar-devdhar-340063"
+    ],
+    "Chris Lynn": [
+      "https://www.cricinfo.com/cricketers/chris-lynn-326637"
+    ],
+    "Dan Christian": [
+      "https://www.cricinfo.com/cricketers/dan-christian-4864"
+    ],
+    "Anand Rajan": [
+      "https://www.cricinfo.com/cricketers/anand-rajan-26797"
+    ],
+    "Ankit Sharma": [
+      "https://www.cricinfo.com/cricketers/ankit-sharma-422992"
+    ],
+    "Akash Bhandari": [
+      "https://www.cricinfo.com/cricketers/akash-bhandari-446495"
+    ],
+    "Travis Birt": [
+      "https://www.cricinfo.com/cricketers/travis-birt-4292"
+    ],
+    "Robin Bist": [
+      "https://www.cricinfo.com/cricketers/robin-bist-262464"
+    ],
+    "Unmukt Chand": [
+      "https://www.cricinfo.com/cricketers/unmukt-chand-446499"
+    ],
+    "Colin Ingram": [
+      "https://www.cricinfo.com/cricketers/colin-ingram-45705"
+    ],
+    "Prashant Naik": [
+      "https://www.cricinfo.com/cricketers/prashant-naik-32094"
+    ],
+    "Sridharan Sriram": [
+      "https://www.cricinfo.com/cricketers/sridharan-sriram-34118"
+    ],
+    "Matthew Wade": [
+      "https://www.cricinfo.com/cricketers/matthew-wade-230193"
+    ],
+    "Ajit Chandila": [
+      "https://www.cricinfo.com/cricketers/ajit-chandila-27783"
+    ],
+    "Robbie Frylinck": [
+      "https://www.cricinfo.com/cricketers/robbie-frylinck-45204"
+    ],
+    "Shahbaz Nadeem": [
+      "https://www.cricinfo.com/cricketers/shahbaz-nadeem-31872"
+    ],
+    "Vikas Mishra": [
+      "https://www.cricinfo.com/cricketers/vikas-mishra-437560"
+    ],
+    "Vivek Yadav": [
+      "https://www.cricinfo.com/cricketers/vivek-yadav-36134"
+    ],
+    "David Miller": [
+      "https://www.cricinfo.com/cricketers/david-miller-321777"
+    ],
+    "Sunny Singh": [
+      "https://www.cricinfo.com/cricketers/sunny-singh-35282"
+    ],
+    "Amit Yadav": [
+      "https://www.cricinfo.com/cricketers/amit-yadav-290638"
+    ],
+    "Mandeep Singh": [
+      "https://www.cricinfo.com/cricketers/mandeep-singh-398506"
+    ],
+    "Bhargav Bhatt": [
+      "https://www.cricinfo.com/cricketers/bhargav-bhatt-433410"
+    ],
+    "Nathan Rimmington": [
+      "https://www.cricinfo.com/cricketers/nathan-rimmington-7443"
+    ],
+    "Stuart Broad": [
+      "https://www.cricinfo.com/cricketers/stuart-broad-10617"
+    ],
+    "Deepak Chougule": [
+      "https://www.cricinfo.com/cricketers/deepak-chougule-27651"
+    ],
+    "Michael Klinger": [
+      "https://www.cricinfo.com/cricketers/michael-klinger-6161"
+    ],
+    "Sushant Marathe": [
+      "https://www.cricinfo.com/cricketers/sushant-marathe-31756"
+    ],
+    "Steven Smith": [
+      "https://www.cricinfo.com/cricketers/steven-smith-267192"
+    ],
+    "Gnaneswara Rao": [
+      "https://www.cricinfo.com/cricketers/gnaneswara-rao-28830"
+    ],
+    "John Hastings": [
+      "https://www.cricinfo.com/cricketers/john-hastings-228622"
+    ],
+    "Steve O'Keefe": [
+      "https://www.cricinfo.com/cricketers/steve-o-keefe-7069"
+    ],
+    "Padmanabhan Prasanth": [
+      "https://www.cricinfo.com/cricketers/padmanabhan-prasanth-32211"
+    ],
+    "Prasanth Parameswaran": [
+      "https://www.cricinfo.com/cricketers/prasanth-parameswaran-279562"
+    ],
+    "Brad Haddin": [
+      "https://www.cricinfo.com/cricketers/brad-haddin-5560"
+    ],
+    "Eoin Morgan": [
+      "https://www.cricinfo.com/cricketers/eoin-morgan-24598"
+    ],
+    "Shakib Al Hasan": [
+      "https://www.cricinfo.com/cricketers/shakib-al-hasan-56143"
+    ],
+    "Ryan ten Doeschate": [
+      "https://www.cricinfo.com/cricketers/ryan-ten-doeschate-47660"
+    ],
+    "Mohammed Shami": [
+      "https://www.cricinfo.com/cricketers/mohammed-shami-481896"
+    ],
+    "James Pattinson": [
+      "https://www.cricinfo.com/cricketers/james-pattinson-272465"
+    ],
+    "Jaydev Unadkat": [
+      "https://www.cricinfo.com/cricketers/jaydev-unadkat-390484"
+    ],
+    "Aiden Blizzard": [
+      "https://www.cricinfo.com/cricketers/aiden-blizzard-4498"
+    ],
+    "Davy Jacobs": [
+      "https://www.cricinfo.com/cricketers/davy-jacobs-45782"
+    ],
+    "Sarul Kanwar": [
+      "https://www.cricinfo.com/cricketers/sarul-kanwar-477049"
+    ],
+    "Suryakumar Yadav": [
+      "https://www.cricinfo.com/cricketers/suryakumar-yadav-446507"
+    ],
+    "James Franklin": [
+      "https://www.cricinfo.com/cricketers/james-franklin-37004"
+    ],
+    "Yuzvendra Chahal": [
+      "https://www.cricinfo.com/cricketers/yuzvendra-chahal-430246"
+    ],
+    "Pawan Suyal": [
+      "https://www.cricinfo.com/cricketers/pawan-suyal-431213"
+    ],
+    "Santosh Yadav": [
+      "https://www.cricinfo.com/cricketers/santosh-yadav-36048"
+    ],
+    "Clint McKay": [
+      "https://www.cricinfo.com/cricketers/clint-mckay-6903"
+    ],
+    "Eklavya Dwivedi": [
+      "https://www.cricinfo.com/cricketers/eklavya-dwivedi-340841"
+    ],
+    "Callum Ferguson": [
+      "https://www.cricinfo.com/cricketers/callum-ferguson-5236"
+    ],
+    "Harpreet Singh": [
+      "https://www.cricinfo.com/cricketers/harpreet-singh-340854"
+    ],
+    "Dheeraj Jadhav": [
+      "https://www.cricinfo.com/cricketers/dheeraj-jadhav-29637"
+    ],
+    "Tim Paine": [
+      "https://www.cricinfo.com/cricketers/tim-paine-7252"
+    ],
+    "James Faulkner": [
+      "https://www.cricinfo.com/cricketers/james-faulkner-270484"
+    ],
+    "Shrikant Mundhe": [
+      "https://www.cricinfo.com/cricketers/shrikant-mundhe-279862"
+    ],
+    "Ganesh Gaikwad": [
+      "https://www.cricinfo.com/cricketers/ganesh-gaikwad-273791"
+    ],
+    "Imtiaz Ahmed": [
+      "https://www.cricinfo.com/cricketers/imtiaz-ahmed-340939"
+    ],
+    "Nathan McCullum": [
+      "https://www.cricinfo.com/cricketers/nathan-mccullum-37749"
+    ],
+    "Sachin Rana": [
+      "https://www.cricinfo.com/cricketers/sachin-rana-33757"
+    ],
+    "Alfonso Thomas": [
+      "https://www.cricinfo.com/cricketers/alfonso-thomas-47569"
+    ],
+    "Dishant Yagnik": [
+      "https://www.cricinfo.com/cricketers/dishant-yagnik-36071"
+    ],
+    "Stuart Binny": [
+      "https://www.cricinfo.com/cricketers/stuart-binny-27223"
+    ],
+    "Ashok Menaria": [
+      "https://www.cricinfo.com/cricketers/ashok-menaria-371150"
+    ],
+    "Deepak Chahar": [
+      "https://www.cricinfo.com/cricketers/deepak-chahar-447261"
+    ],
+    "Aditya Dole": [
+      "https://www.cricinfo.com/cricketers/aditya-dole-236694"
+    ],
+    "Nayan Doshi": [
+      "https://www.cricinfo.com/cricketers/nayan-doshi-12440"
+    ],
+    "Samad Fallah": [
+      "https://www.cricinfo.com/cricketers/samad-fallah-317750"
+    ],
+    "Mayank Agarwal": [
+      "https://www.cricinfo.com/cricketers/mayank-agarwal-398438"
+    ],
+    "Rilee Rossouw": [
+      "https://www.cricinfo.com/cricketers/rilee-rossouw-318845"
+    ],
+    "Jonathan Vandiar": [
+      "https://www.cricinfo.com/cricketers/jonathan-vandiar-285687"
+    ],
+    "BN Bharath": [
+      "https://www.cricinfo.com/cricketers/bn-bharath-474515"
+    ],
+    "Johan van der Wath": [
+      "https://www.cricinfo.com/cricketers/johan-van-der-wath-47693"
+    ],
+    "Nuwan Pradeep": [
+      "https://www.cricinfo.com/cricketers/nuwan-pradeep-324358"
+    ],
+    "Abrar Kazi": [
+      "https://www.cricinfo.com/cricketers/abrar-kazi-422106"
+    ],
+    "Asad Pathan": [
+      "https://www.cricinfo.com/cricketers/asad-pathan-430401"
+    ],
+    "Jamaluddin Syed Mohammad": [
+      "https://www.cricinfo.com/cricketers/jamaluddin-syed-mohammad-35261"
+    ],
+    "Sunil Narine": [
+      "https://www.cricinfo.com/cricketers/sunil-narine-230558"
+    ],
+    "Darren Bravo": [
+      "https://www.cricinfo.com/cricketers/darren-bravo-277472"
+    ],
+    "Tanmay Mishra": [
+      "https://www.cricinfo.com/cricketers/tanmay-mishra-24790"
+    ],
+    "Akshath Reddy": [
+      "https://www.cricinfo.com/cricketers/akshath-reddy-376109"
+    ],
+    "Biplab Samantray": [
+      "https://www.cricinfo.com/cricketers/biplab-samantray-430125"
+    ],
+    "Tekkami Atchuta Rao": [
+      "https://www.cricinfo.com/cricketers/tekkami-atchuta-rao-340014"
+    ],
+    "Daniel Harris": [
+      "https://www.cricinfo.com/cricketers/daniel-harris-5583"
+    ],
+    "Veer Pratap Singh": [
+      "https://www.cricinfo.com/cricketers/veer-pratap-singh-528967"
+    ],
+    "Sneha Kishore": [
+      "https://www.cricinfo.com/cricketers/sneha-kishore-526387"
+    ],
+    "TP Sudhindra": [
+      "https://www.cricinfo.com/cricketers/tp-sudhindra-34139"
+    ],
+    "Punit Bisht": [
+      "https://www.cricinfo.com/cricketers/punit-bisht-236693"
+    ],
+    "Gulam Bodi": [
+      "https://www.cricinfo.com/cricketers/gulam-bodi-44089"
+    ],
+    "Manprit Juneja": [
+      "https://www.cricinfo.com/cricketers/manprit-juneja-390480"
+    ],
+    "Glenn Maxwell": [
+      "https://www.cricinfo.com/cricketers/glenn-maxwell-325026"
+    ],
+    "Andre Russell": [
+      "https://www.cricinfo.com/cricketers/andre-russell-276298"
+    ],
+    "Doug Bracewell": [
+      "https://www.cricinfo.com/cricketers/doug-bracewell-362541"
+    ],
+    "Pawan Negi": [
+      "https://www.cricinfo.com/cricketers/pawan-negi-530773"
+    ],
+    "Sunny Gupta": [
+      "https://www.cricinfo.com/cricketers/sunny-gupta-271315"
+    ],
+    "Zafir Patel": [
+      "https://www.cricinfo.com/cricketers/zafir-patel-559283"
+    ],
+    "Kuldeep Raval": [
+      "https://www.cricinfo.com/cricketers/kuldeep-raval-339508"
+    ],
+    "Gurkeerat Singh Mann": [
+      "https://www.cricinfo.com/cricketers/gurkeerat-singh-mann-537124"
+    ],
+    "Azhar Mahmood": [
+      "https://www.cricinfo.com/cricketers/azhar-mahmood-39024"
+    ],
+    "Ben Cutting": [
+      "https://www.cricinfo.com/cricketers/ben-cutting-230371"
+    ],
+    "Kyle Abbott": [
+      "https://www.cricinfo.com/cricketers/kyle-abbott-297583"
+    ],
+    "Parvinder Awana": [
+      "https://www.cricinfo.com/cricketers/parvinder-awana-323131"
+    ],
+    "Sanju Samson": [
+      "https://www.cricinfo.com/cricketers/sanju-samson-425943"
+    ],
+    "Chirag Jani": [
+      "https://www.cricinfo.com/cricketers/chirag-jani-527362"
+    ],
+    "Marchant de Lange": [
+      "https://www.cricinfo.com/cricketers/marchant-de-lange-393279"
+    ],
+    "Iresh Saxena": [
+      "https://www.cricinfo.com/cricketers/iresh-saxena-327129"
+    ],
+    "Richard Levi": [
+      "https://www.cricinfo.com/cricketers/richard-levi-46148"
+    ],
+    "Apoorv Wankhade": [
+      "https://www.cricinfo.com/cricketers/apoorv-wankhade-505773"
+    ],
+    "Amitoze Singh": [
+      "https://www.cricinfo.com/cricketers/amitoze-singh-482315"
+    ],
+    "Kuldeep Yadav": [
+      "https://www.cricinfo.com/cricketers/kuldeep-yadav-559235"
+    ],
+    "Robin Peterson": [
+      "https://www.cricinfo.com/cricketers/robin-peterson-46750"
+    ],
+    "Mitchell Johnson": [
+      "https://www.cricinfo.com/cricketers/mitchell-johnson-6033"
+    ],
+    "Sujit Nayak": [
+      "https://www.cricinfo.com/cricketers/sujit-nayak-477057"
+    ],
+    "Michael Clarke": [
+      "https://www.cricinfo.com/cricketers/michael-clarke-4578"
+    ],
+    "Marlon Samuels": [
+      "https://www.cricinfo.com/cricketers/marlon-samuels-52983"
+    ],
+    "Tamim Iqbal": [
+      "https://www.cricinfo.com/cricketers/tamim-iqbal-56194"
+    ],
+    "Luke Wright": [
+      "https://www.cricinfo.com/cricketers/luke-wright-23460"
+    ],
+    "Anustup Majumdar": [
+      "https://www.cricinfo.com/cricketers/anustup-majumdar-31750"
+    ],
+    "Krishnakant Upadhyay": [
+      "https://www.cricinfo.com/cricketers/krishnakant-upadhyay-431876"
+    ],
+    "Dinesh Chandimal": [
+      "https://www.cricinfo.com/cricketers/dinesh-chandimal-300628"
+    ],
+    "Kevon Cooper": [
+      "https://www.cricinfo.com/cricketers/kevon-cooper-371814"
+    ],
+    "Brad Hogg": [
+      "https://www.cricinfo.com/cricketers/brad-hogg-5681"
+    ],
+    "Karun Nair": [
+      "https://www.cricinfo.com/cricketers/karun-nair-398439"
+    ],
+    "Harshal Patel": [
+      "https://www.cricinfo.com/cricketers/harshal-patel-390481"
+    ],
+    "S Thiyagarajan": [
+      "https://www.cricinfo.com/cricketers/s-thiyagarajan-559287"
+    ],
+    "Vijay Zol": [
+      "https://www.cricinfo.com/cricketers/vijay-zol-554699"
+    ],
+    "Baba Aparajith": [
+      "https://www.cricinfo.com/cricketers/baba-aparajith-477071"
+    ],
+    "Akila Dananjaya": [
+      "https://www.cricinfo.com/cricketers/akila-dananjaya-574178"
+    ],
+    "Jason Holder": [
+      "https://www.cricinfo.com/cricketers/jason-holder-391485"
+    ],
+    "Chris Morris": [
+      "https://www.cricinfo.com/cricketers/chris-morris-439952"
+    ],
+    "Vijay Shankar": [
+      "https://www.cricinfo.com/cricketers/vijay-shankar-477021"
+    ],
+    "Ben Laughlin": [
+      "https://www.cricinfo.com/cricketers/ben-laughlin-315623"
+    ],
+    "Ronit More": [
+      "https://www.cricinfo.com/cricketers/ronit-more-424219"
+    ],
+    "Ankit Rajpoot": [
+      "https://www.cricinfo.com/cricketers/ankit-rajpoot-591650"
+    ],
+    "Ravi Karthikeyan": [
+      "https://www.cricinfo.com/cricketers/ravi-karthikeyan-624023"
+    ],
+    "Mohit Sharma": [
+      "https://www.cricinfo.com/cricketers/mohit-sharma-537119"
+    ],
+    "Ben Rohrer": [
+      "https://www.cricinfo.com/cricketers/ben-rohrer-7547"
+    ],
+    "Jeevan Mendis": [
+      "https://www.cricinfo.com/cricketers/jeevan-mendis-49700"
+    ],
+    "Royston Dias": [
+      "https://www.cricinfo.com/cricketers/royston-dias-624025"
+    ],
+    "Aristh Singhvi": [
+      "https://www.cricinfo.com/cricketers/aristh-singhvi-527370"
+    ],
+    "Manan Vohra": [
+      "https://www.cricinfo.com/cricketers/manan-vohra-532856"
+    ],
+    "Michael Neser": [
+      "https://www.cricinfo.com/cricketers/michael-neser-376169"
+    ],
+    "Aniket Choudhary": [
+      "https://www.cricinfo.com/cricketers/aniket-choudhary-527299"
+    ],
+    "Sandeep Sharma": [
+      "https://www.cricinfo.com/cricketers/sandeep-sharma-438362"
+    ],
+    "Sachithra Senanayake": [
+      "https://www.cricinfo.com/cricketers/sachithra-senanayake-273439"
+    ],
+    "Phillip Hughes": [
+      "https://www.cricinfo.com/cricketers/phillip-hughes-272364"
+    ],
+    "Nathan Coulter-Nile": [
+      "https://www.cricinfo.com/cricketers/nathan-coulter-nile-261354"
+    ],
+    "Jalaj Saxena": [
+      "https://www.cricinfo.com/cricketers/jalaj-saxena-237199"
+    ],
+    "Axar Patel": [
+      "https://www.cricinfo.com/cricketers/axar-patel-554691"
+    ],
+    "Jasprit Bumrah": [
+      "https://www.cricinfo.com/cricketers/jasprit-bumrah-625383"
+    ],
+    "Javed Khan": [
+      "https://www.cricinfo.com/cricketers/javed-khan-631130"
+    ],
+    "Parvez Rasool": [
+      "https://www.cricinfo.com/cricketers/parvez-rasool-378496"
+    ],
+    "Ishwar Pandey": [
+      "https://www.cricinfo.com/cricketers/ishwar-pandey-447439"
+    ],
+    "Kane Richardson": [
+      "https://www.cricinfo.com/cricketers/kane-richardson-272262"
+    ],
+    "Udit Birla": [
+      "https://www.cricinfo.com/cricketers/udit-birla-262533"
+    ],
+    "Kusal Perera": [
+      "https://www.cricinfo.com/cricketers/kusal-perera-300631"
+    ],
+    "Sachin Baby": [
+      "https://www.cricinfo.com/cricketers/sachin-baby-432783"
+    ],
+    "Samuel Badree": [
+      "https://www.cricinfo.com/cricketers/samuel-badree-51433"
+    ],
+    "Pravin Tambe": [
+      "https://www.cricinfo.com/cricketers/pravin-tambe-587152"
+    ],
+    "Sheldon Jackson": [
+      "https://www.cricinfo.com/cricketers/sheldon-jackson-237696"
+    ],
+    "KL Rahul": [
+      "https://www.cricinfo.com/cricketers/kl-rahul-422108"
+    ],
+    "Chris Barnwell": [
+      "https://www.cricinfo.com/cricketers/chris-barnwell-330408"
+    ],
+    "Ravi Rampaul": [
+      "https://www.cricinfo.com/cricketers/ravi-rampaul-52912"
+    ],
+    "Sandeep Warrier": [
+      "https://www.cricinfo.com/cricketers/sandeep-warrier-592735"
+    ],
+    "Quinton de Kock": [
+      "https://www.cricinfo.com/cricketers/quinton-de-kock-379143"
+    ],
+    "Daren Sammy": [
+      "https://www.cricinfo.com/cricketers/daren-sammy-53115"
+    ],
+    "Hanuma Vihari": [
+      "https://www.cricinfo.com/cricketers/hanuma-vihari-452044"
+    ],
+    "Thalaivan Sargunam": [
+      "https://www.cricinfo.com/cricketers/thalaivan-sargunam-319744"
+    ],
+    "Matt Henry": [
+      "https://www.cricinfo.com/cricketers/matt-henry-506612"
+    ],
+    "Milind Kumar": [
+      "https://www.cricinfo.com/cricketers/milind-kumar-451947"
+    ],
+    "James Neesham": [
+      "https://www.cricinfo.com/cricketers/james-neesham-355269"
+    ],
+    "Imran Tahir": [
+      "https://www.cricinfo.com/cricketers/imran-tahir-40618"
+    ],
+    "HS Sharath": [
+      "https://www.cricinfo.com/cricketers/hs-sharath-478881"
+    ],
+    "Jayant Yadav": [
+      "https://www.cricinfo.com/cricketers/jayant-yadav-447587"
+    ],
+    "Shardul Thakur": [
+      "https://www.cricinfo.com/cricketers/shardul-thakur-475281"
+    ],
+    "Beuran Hendricks": [
+      "https://www.cricinfo.com/cricketers/beuran-hendricks-379927"
+    ],
+    "Karanveer Singh": [
+      "https://www.cricinfo.com/cricketers/karanveer-singh-322535"
+    ],
+    "Shivam Sharma": [
+      "https://www.cricinfo.com/cricketers/shivam-sharma-717201"
+    ],
+    "Pat Cummins": [
+      "https://www.cricinfo.com/cricketers/pat-cummins-489889"
+    ],
+    "Sayan Mondal": [
+      "https://www.cricinfo.com/cricketers/sayan-mondal-433356"
+    ],
+    "Ben Dunk": [
+      "https://www.cricinfo.com/cricketers/ben-dunk-388678"
+    ],
+    "Lendl Simmons": [
+      "https://www.cricinfo.com/cricketers/lendl-simmons-53116"
+    ],
+    "Corey Anderson": [
+      "https://www.cricinfo.com/cricketers/corey-anderson-277662"
+    ],
+    "Shreyas Gopal": [
+      "https://www.cricinfo.com/cricketers/shreyas-gopal-344580"
+    ],
+    "Josh Hazlewood": [
+      "https://www.cricinfo.com/cricketers/josh-hazlewood-288284"
+    ],
+    "Krishmar Santokie": [
+      "https://www.cricinfo.com/cricketers/krishmar-santokie-314622"
+    ],
+    "Ankush Bains": [
+      "https://www.cricinfo.com/cricketers/ankush-bains-604534"
+    ],
+    "Deepak Hooda": [
+      "https://www.cricinfo.com/cricketers/deepak-hooda-497121"
+    ],
+    "Rahul Tewatia": [
+      "https://www.cricinfo.com/cricketers/rahul-tewatia-423838"
+    ],
+    "Nic Maddinson": [
+      "https://www.cricinfo.com/cricketers/nic-maddinson-333780"
+    ],
+    "Mitchell Starc": [
+      "https://www.cricinfo.com/cricketers/mitchell-starc-311592"
+    ],
+    "Ricky Bhui": [
+      "https://www.cricinfo.com/cricketers/ricky-bhui-642531"
+    ],
+    "Brendan Taylor": [
+      "https://www.cricinfo.com/cricketers/brendan-taylor-55814"
+    ],
+    "Chama Milind": [
+      "https://www.cricinfo.com/cricketers/chama-milind-604616"
+    ],
+    "Pratyush Singh": [
+      "https://www.cricinfo.com/cricketers/pratyush-singh-717205"
+    ],
+    "Andrew Tye": [
+      "https://www.cricinfo.com/cricketers/andrew-tye-459508"
+    ],
+    "Srikar Bharat": [
+      "https://www.cricinfo.com/cricketers/srikar-bharat-529436"
+    ],
+    "Travis Head": [
+      "https://www.cricinfo.com/cricketers/travis-head-530011"
+    ],
+    "Shreyas Iyer": [
+      "https://www.cricinfo.com/cricketers/shreyas-iyer-642519"
+    ],
+    "Marcus Stoinis": [
+      "https://www.cricinfo.com/cricketers/marcus-stoinis-325012"
+    ],
+    "KK Jiyas": [
+      "https://www.cricinfo.com/cricketers/kk-jiyas-857781"
+    ],
+    "Gurinder Sandhu": [
+      "https://www.cricinfo.com/cricketers/gurinder-sandhu-499660"
+    ],
+    "Domnic Muthuswami": [
+      "https://www.cricinfo.com/cricketers/domnic-muthuswami-528985"
+    ],
+    "Nikhil Naik": [
+      "https://www.cricinfo.com/cricketers/nikhil-naik-554700"
+    ],
+    "Yogesh Golwalkar": [
+      "https://www.cricinfo.com/cricketers/yogesh-golwalkar-29048"
+    ],
+    "Vaibhav Rawal": [
+      "https://www.cricinfo.com/cricketers/vaibhav-rawal-590325"
+    ],
+    "KC Cariappa": [
+      "https://www.cricinfo.com/cricketers/kc-cariappa-777537"
+    ],
+    "Aditya Garhwal": [
+      "https://www.cricinfo.com/cricketers/aditya-garhwal-725435"
+    ],
+    "Alex Hales": [
+      "https://www.cricinfo.com/cricketers/alex-hales-249866"
+    ],
+    "Siddhesh Lad": [
+      "https://www.cricinfo.com/cricketers/siddhesh-lad-422342"
+    ],
+    "Colin Munro": [
+      "https://www.cricinfo.com/cricketers/colin-munro-232359"
+    ],
+    "Nitish Rana": [
+      "https://www.cricinfo.com/cricketers/nitish-rana-604527"
+    ],
+    "Hardik Pandya": [
+      "https://www.cricinfo.com/cricketers/hardik-pandya-625371"
+    ],
+    "Mitchell McClenaghan": [
+      "https://www.cricinfo.com/cricketers/mitchell-mcclenaghan-319439"
+    ],
+    "Jagadeesha Suchith": [
+      "https://www.cricinfo.com/cricketers/jagadeesha-suchith-527663"
+    ],
+    "Akshay Wakhare": [
+      "https://www.cricinfo.com/cricketers/akshay-wakhare-269520"
+    ],
+    "Pardeep Sahu": [
+      "https://www.cricinfo.com/cricketers/pardeep-sahu-34155"
+    ],
+    "Barinder Sran": [
+      "https://www.cricinfo.com/cricketers/barinder-sran-537126"
+    ],
+    "Sagar Trivedi": [
+      "https://www.cricinfo.com/cricketers/sagar-trivedi-856285"
+    ],
+    "Shishir Bhavane": [
+      "https://www.cricinfo.com/cricketers/shishir-bhavane-474794"
+    ],
+    "Sarfaraz Khan": [
+      "https://www.cricinfo.com/cricketers/sarfaraz-khan-642525"
+    ],
+    "Sean Abbott": [
+      "https://www.cricinfo.com/cricketers/sean-abbott-398666"
+    ],
+    "David Wiese": [
+      "https://www.cricinfo.com/cricketers/david-wiese-221140"
+    ],
+    "Adam Milne": [
+      "https://www.cricinfo.com/cricketers/adam-milne-450860"
+    ],
+    "Kane Williamson": [
+      "https://www.cricinfo.com/cricketers/kane-williamson-277906"
+    ],
+    "Trent Boult": [
+      "https://www.cricinfo.com/cricketers/trent-boult-277912"
+    ],
+    "Sam Billings": [
+      "https://www.cricinfo.com/cricketers/sam-billings-297628"
+    ],
+    "Akhil Herwadkar": [
+      "https://www.cricinfo.com/cricketers/akhil-herwadkar-532851"
+    ],
+    "Rishabh Pant": [
+      "https://www.cricinfo.com/cricketers/rishabh-pant-931581"
+    ],
+    "Carlos Brathwaite": [
+      "https://www.cricinfo.com/cricketers/carlos-brathwaite-457249"
+    ],
+    "Mahipal Lomror": [
+      "https://www.cricinfo.com/cricketers/mahipal-lomror-853265"
+    ],
+    "Khaleel Ahmed": [
+      "https://www.cricinfo.com/cricketers/khaleel-ahmed-942645"
+    ],
+    "Joel Paris": [
+      "https://www.cricinfo.com/cricketers/joel-paris-501012"
+    ],
+    "Ishan Kishan": [
+      "https://www.cricinfo.com/cricketers/ishan-kishan-720471"
+    ],
+    "Akshdeep Nath": [
+      "https://www.cricinfo.com/cricketers/akshdeep-nath-500360"
+    ],
+    "Umang Sharma": [
+      "https://www.cricinfo.com/cricketers/umang-sharma-596945"
+    ],
+    "Shivil Kaushik": [
+      "https://www.cricinfo.com/cricketers/shivil-kaushik-917213"
+    ],
+    "Hashim Amla": [
+      "https://www.cricinfo.com/cricketers/hashim-amla-43906"
+    ],
+    "Armaan Jaffer": [
+      "https://www.cricinfo.com/cricketers/armaan-jaffer-960369"
+    ],
+    "Farhaan Behardien": [
+      "https://www.cricinfo.com/cricketers/farhaan-behardien-44410"
+    ],
+    "Manan Sharma": [
+      "https://www.cricinfo.com/cricketers/manan-sharma-339955"
+    ],
+    "Jos Buttler": [
+      "https://www.cricinfo.com/cricketers/jos-buttler-308967"
+    ],
+    "Martin Guptill": [
+      "https://www.cricinfo.com/cricketers/martin-guptill-226492"
+    ],
+    "Jitesh Sharma": [
+      "https://www.cricinfo.com/cricketers/jitesh-sharma-721867"
+    ],
+    "Kishore Kamath": [
+      "https://www.cricinfo.com/cricketers/kishore-kamath-919241"
+    ],
+    "Krunal Pandya": [
+      "https://www.cricinfo.com/cricketers/krunal-pandya-471342"
+    ],
+    "Deepak Punia": [
+      "https://www.cricinfo.com/cricketers/deepak-punia-807791"
+    ],
+    "Nathu Singh": [
+      "https://www.cricinfo.com/cricketers/nathu-singh-853259"
+    ],
+    "Peter Handscomb": [
+      "https://www.cricinfo.com/cricketers/peter-handscomb-334337"
+    ],
+    "Usman Khawaja": [
+      "https://www.cricinfo.com/cricketers/usman-khawaja-215155"
+    ],
+    "Murugan Ashwin": [
+      "https://www.cricinfo.com/cricketers/murugan-ashwin-528067"
+    ],
+    "Scott Boland": [
+      "https://www.cricinfo.com/cricketers/scott-boland-446548"
+    ],
+    "Adam Zampa": [
+      "https://www.cricinfo.com/cricketers/adam-zampa-379504"
+    ],
+    "Praveen Dubey": [
+      "https://www.cricinfo.com/cricketers/praveen-dubey-777515"
+    ],
+    "Chris Jordan": [
+      "https://www.cricinfo.com/cricketers/chris-jordan-288992"
+    ],
+    "Akshay Karnewar": [
+      "https://www.cricinfo.com/cricketers/akshay-karnewar-528730"
+    ],
+    "Tabraiz Shamsi": [
+      "https://www.cricinfo.com/cricketers/tabraiz-shamsi-379145"
+    ],
+    "Vikas Tokas": [
+      "https://www.cricinfo.com/cricketers/vikas-tokas-474519"
+    ],
+    "Mustafizur Rahman": [
+      "https://www.cricinfo.com/cricketers/mustafizur-rahman-330902"
+    ],
+    "Ankit Bawne": [
+      "https://www.cricinfo.com/cricketers/ankit-bawne-327123"
+    ],
+    "Shashank Singh": [
+      "https://www.cricinfo.com/cricketers/shashank-singh-377534"
+    ],
+    "Kagiso Rabada": [
+      "https://www.cricinfo.com/cricketers/kagiso-rabada-550215"
+    ],
+    "Navdeep Saini": [
+      "https://www.cricinfo.com/cricketers/navdeep-saini-700167"
+    ],
+    "Chirag Suri": [
+      "https://www.cricinfo.com/cricketers/chirag-suri-534734"
+    ],
+    "Pratham Singh": [
+      "https://www.cricinfo.com/cricketers/pratham-singh-1083464"
+    ],
+    "Jason Roy": [
+      "https://www.cricinfo.com/cricketers/jason-roy-298438"
+    ],
+    "Ankit Soni": [
+      "https://www.cricinfo.com/cricketers/ankit-soni-1083128"
+    ],
+    "Basil Thampi": [
+      "https://www.cricinfo.com/cricketers/basil-thampi-732291"
+    ],
+    "Tejas Baroka": [
+      "https://www.cricinfo.com/cricketers/tejas-baroka-1082859"
+    ],
+    "Shubham Agarwal": [
+      "https://www.cricinfo.com/cricketers/shubham-agarwal-1079668"
+    ],
+    "Shelley Shaurya": [
+      "https://www.cricinfo.com/cricketers/shelley-shaurya-626295"
+    ],
+    "Rinku Singh": [
+      "https://www.cricinfo.com/cricketers/rinku-singh-723105"
+    ],
+    "T Natarajan": [
+      "https://www.cricinfo.com/cricketers/t-natarajan-802575"
+    ],
+    "Rovman Powell": [
+      "https://www.cricinfo.com/cricketers/rovman-powell-820351"
+    ],
+    "Colin de Grandhomme": [
+      "https://www.cricinfo.com/cricketers/colin-de-grandhomme-55395"
+    ],
+    "Sanjay Yadav": [
+      "https://www.cricinfo.com/cricketers/sanjay-yadav-1048841"
+    ],
+    "Chris Woakes": [
+      "https://www.cricinfo.com/cricketers/chris-woakes-247235"
+    ],
+    "Sayan Ghosh": [
+      "https://www.cricinfo.com/cricketers/sayan-ghosh-736413"
+    ],
+    "Asela Gunaratne": [
+      "https://www.cricinfo.com/cricketers/asela-gunaratne-360456"
+    ],
+    "Nicholas Pooran": [
+      "https://www.cricinfo.com/cricketers/nicholas-pooran-604302"
+    ],
+    "Krishnappa Gowtham": [
+      "https://www.cricinfo.com/cricketers/krishnappa-gowtham-424377"
+    ],
+    "Kulwant Khejroliya": [
+      "https://www.cricinfo.com/cricketers/kulwant-khejroliya-1083033"
+    ],
+    "Rahul Tripathi": [
+      "https://www.cricinfo.com/cricketers/rahul-tripathi-446763"
+    ],
+    "Saurabh Kumar": [
+      "https://www.cricinfo.com/cricketers/saurabh-kumar-627214"
+    ],
+    "Ben Stokes": [
+      "https://www.cricinfo.com/cricketers/ben-stokes-311158"
+    ],
+    "Washington Sundar": [
+      "https://www.cricinfo.com/cricketers/washington-sundar-719715"
+    ],
+    "Rahul Chahar": [
+      "https://www.cricinfo.com/cricketers/rahul-chahar-1064812"
+    ],
+    "Lockie Ferguson": [
+      "https://www.cricinfo.com/cricketers/lockie-ferguson-493773"
+    ],
+    "Milind Tandon": [
+      "https://www.cricinfo.com/cricketers/milind-tandon-969381"
+    ],
+    "Vishnu Vinod": [
+      "https://www.cricinfo.com/cricketers/vishnu-vinod-732293"
+    ],
+    "Avesh Khan": [
+      "https://www.cricinfo.com/cricketers/avesh-khan-694211"
+    ],
+    "Tymal Mills": [
+      "https://www.cricinfo.com/cricketers/tymal-mills-459257"
+    ],
+    "Billy Stanlake": [
+      "https://www.cricinfo.com/cricketers/billy-stanlake-533042"
+    ],
+    "Tanmay Agarwal": [
+      "https://www.cricinfo.com/cricketers/tanmay-agarwal-792725"
+    ],
+    "Mohammad Nabi": [
+      "https://www.cricinfo.com/cricketers/mohammad-nabi-25913"
+    ],
+    "Rashid Khan": [
+      "https://www.cricinfo.com/cricketers/rashid-khan-793463"
+    ],
+    "Mohammed Siraj": [
+      "https://www.cricinfo.com/cricketers/mohammed-siraj-940973"
+    ],
+    "Narayan Jagadeesan": [
+      "https://www.cricinfo.com/cricketers/narayan-jagadeesan-1048813"
+    ],
+    "Kshitiz Sharma": [
+      "https://www.cricinfo.com/cricketers/kshitiz-sharma-625380"
+    ],
+    "Dhruv Shorey": [
+      "https://www.cricinfo.com/cricketers/dhruv-shorey-590327"
+    ],
+    "Chaitanya Bishnoi": [
+      "https://www.cricinfo.com/cricketers/chaitanya-bishnoi-628217"
+    ],
+    "Monu Kumar": [
+      "https://www.cricinfo.com/cricketers/monu-kumar-694209"
+    ],
+    "Kanishk Seth": [
+      "https://www.cricinfo.com/cricketers/kanishk-seth-849737"
+    ],
+    "David Willey": [
+      "https://www.cricinfo.com/cricketers/david-willey-308251"
+    ],
+    "Mitchell Santner": [
+      "https://www.cricinfo.com/cricketers/mitchell-santner-502714"
+    ],
+    "KM Asif": [
+      "https://www.cricinfo.com/cricketers/km-asif-1083030"
+    ],
+    "Lungi Ngidi": [
+      "https://www.cricinfo.com/cricketers/lungi-ngidi-542023"
+    ],
+    "Mark Wood": [
+      "https://www.cricinfo.com/cricketers/mark-wood-351588"
+    ],
+    "Manjot Kalra": [
+      "https://www.cricinfo.com/cricketers/manjot-kalra-1079842"
+    ],
+    "Prithvi Shaw": [
+      "https://www.cricinfo.com/cricketers/prithvi-shaw-1070168"
+    ],
+    "Abhishek Sharma": [
+      "https://www.cricinfo.com/cricketers/abhishek-sharma-1070183"
+    ],
+    "Junior Dala": [
+      "https://www.cricinfo.com/cricketers/junior-dala-545467"
+    ],
+    "Sandeep Lamichhane": [
+      "https://www.cricinfo.com/cricketers/sandeep-lamichhane-960361"
+    ],
+    "Liam Plunkett": [
+      "https://www.cricinfo.com/cricketers/liam-plunkett-19264"
+    ],
+    "Manzoor Dar": [
+      "https://www.cricinfo.com/cricketers/manzoor-dar-1080203"
+    ],
+    "Mayank Dagar": [
+      "https://www.cricinfo.com/cricketers/mayank-dagar-942367"
+    ],
+    "Ben Dwarshuis": [
+      "https://www.cricinfo.com/cricketers/ben-dwarshuis-679567"
+    ],
+    "Mujeeb Ur Rahman": [
+      "https://www.cricinfo.com/cricketers/mujeeb-ur-rahman-974109"
+    ],
+    "Cameron Delport": [
+      "https://www.cricinfo.com/cricketers/cameron-delport-322810"
+    ],
+    "Shubman Gill": [
+      "https://www.cricinfo.com/cricketers/shubman-gill-1070173"
+    ],
+    "Tom Curran": [
+      "https://www.cricinfo.com/cricketers/tom-curran-550235"
+    ],
+    "Javon Searles": [
+      "https://www.cricinfo.com/cricketers/javon-searles-230554"
+    ],
+    "Shivam Mavi": [
+      "https://www.cricinfo.com/cricketers/shivam-mavi-1079848"
+    ],
+    "Prasidh Krishna": [
+      "https://www.cricinfo.com/cricketers/prasidh-krishna-917159"
+    ],
+    "Kamlesh Nagarkoti": [
+      "https://www.cricinfo.com/cricketers/kamlesh-nagarkoti-1070188"
+    ],
+    "Evin Lewis": [
+      "https://www.cricinfo.com/cricketers/evin-lewis-431901"
+    ],
+    "Sharad Lumba": [
+      "https://www.cricinfo.com/cricketers/sharad-lumba-726989"
+    ],
+    "Anukul Roy": [
+      "https://www.cricinfo.com/cricketers/anukul-roy-1079839"
+    ],
+    "Tajinder Singh": [
+      "https://www.cricinfo.com/cricketers/tajinder-singh-1079860"
+    ],
+    "Mayank Markande": [
+      "https://www.cricinfo.com/cricketers/mayank-markande-1081442"
+    ],
+    "Mohsin Khan": [
+      "https://www.cricinfo.com/cricketers/mohsin-khan-1132005"
+    ],
+    "MD Nidheesh": [
+      "https://www.cricinfo.com/cricketers/md-nidheesh-822703"
+    ],
+    "Jason Behrendorff": [
+      "https://www.cricinfo.com/cricketers/jason-behrendorff-272477"
+    ],
+    "Aryaman Birla": [
+      "https://www.cricinfo.com/cricketers/aryaman-birla-1126227"
+    ],
+    "Prashant Chopra": [
+      "https://www.cricinfo.com/cricketers/prashant-chopra-500135"
+    ],
+    "Jatin Saxena": [
+      "https://www.cricinfo.com/cricketers/jatin-saxena-34349"
+    ],
+    "Heinrich Klaasen": [
+      "https://www.cricinfo.com/cricketers/heinrich-klaasen-436757"
+    ],
+    "D'Arcy Short": [
+      "https://www.cricinfo.com/cricketers/d-arcy-short-308798"
+    ],
+    "Jofra Archer": [
+      "https://www.cricinfo.com/cricketers/jofra-archer-669855"
+    ],
+    "Sudhesan Midhun": [
+      "https://www.cricinfo.com/cricketers/sudhesan-midhun-1131619"
+    ],
+    "Ish Sodhi": [
+      "https://www.cricinfo.com/cricketers/ish-sodhi-559066"
+    ],
+    "Dushmantha Chameera": [
+      "https://www.cricinfo.com/cricketers/dushmantha-chameera-552152"
+    ],
+    "Zahir Khan": [
+      "https://www.cricinfo.com/cricketers/zahir-khan-712219"
+    ],
+    "Aniruddha Joshi": [
+      "https://www.cricinfo.com/cricketers/aniruddha-joshi-420644"
+    ],
+    "Moeen Ali": [
+      "https://www.cricinfo.com/cricketers/moeen-ali-8917"
+    ],
+    "Pavan Deshpande": [
+      "https://www.cricinfo.com/cricketers/pavan-deshpande-422104"
+    ],
+    "Mehdi Hassan": [
+      "https://www.cricinfo.com/cricketers/mehdi-hassan-477050"
+    ],
+    "Ruturaj Gaikwad": [
+      "https://www.cricinfo.com/cricketers/ruturaj-gaikwad-1060380"
+    ],
+    "Scott Kuggeleijn": [
+      "https://www.cricinfo.com/cricketers/scott-kuggeleijn-539548"
+    ],
+    "Sherfane Rutherford": [
+      "https://www.cricinfo.com/cricketers/sherfane-rutherford-914541"
+    ],
+    "Keemo Paul": [
+      "https://www.cricinfo.com/cricketers/keemo-paul-677081"
+    ],
+    "Bandaru Ayyappa": [
+      "https://www.cricinfo.com/cricketers/bandaru-ayyappa-588144"
+    ],
+    "Prabhsimran Singh": [
+      "https://www.cricinfo.com/cricketers/prabhsimran-singh-1161024"
+    ],
+    "Sam Curran": [
+      "https://www.cricinfo.com/cricketers/sam-curran-662973"
+    ],
+    "Arshdeep Singh": [
+      "https://www.cricinfo.com/cricketers/arshdeep-singh-1125976"
+    ],
+    "Agnivesh Ayachi": [
+      "https://www.cricinfo.com/cricketers/agnivesh-ayachi-1083577"
+    ],
+    "Harpreet Brar": [
+      "https://www.cricinfo.com/cricketers/harpreet-brar-1168641"
+    ],
+    "Darshan Nalkande": [
+      "https://www.cricinfo.com/cricketers/darshan-nalkande-1111917"
+    ],
+    "Varun Chakravarthy": [
+      "https://www.cricinfo.com/cricketers/varun-chakravarthy-1108375"
+    ],
+    "Hardus Viljoen": [
+      "https://www.cricinfo.com/cricketers/hardus-viljoen-375126"
+    ],
+    "Joe Denly": [
+      "https://www.cricinfo.com/cricketers/joe-denly-12454"
+    ],
+    "Harry Gurney": [
+      "https://www.cricinfo.com/cricketers/harry-gurney-244639"
+    ],
+    "Prithvi Raj": [
+      "https://www.cricinfo.com/cricketers/prithvi-raj-1121579"
+    ],
+    "Anrich Nortje": [
+      "https://www.cricinfo.com/cricketers/anrich-nortje-481979"
+    ],
+    "Anmolpreet Singh": [
+      "https://www.cricinfo.com/cricketers/anmolpreet-singh-851261"
+    ],
+    "Pankaj Jaswal": [
+      "https://www.cricinfo.com/cricketers/pankaj-jaswal-652359"
+    ],
+    "Rasikh Salam": [
+      "https://www.cricinfo.com/cricketers/rasikh-salam-1161489"
+    ],
+    "Alzarri Joseph": [
+      "https://www.cricinfo.com/cricketers/alzarri-joseph-670031"
+    ],
+    "Riyan Parag": [
+      "https://www.cricinfo.com/cricketers/riyan-parag-1079434"
+    ],
+    "Ashton Turner": [
+      "https://www.cricinfo.com/cricketers/ashton-turner-500268"
+    ],
+    "Liam Livingstone": [
+      "https://www.cricinfo.com/cricketers/liam-livingstone-403902"
+    ],
+    "Shubham Ranjane": [
+      "https://www.cricinfo.com/cricketers/shubham-ranjane-554701"
+    ],
+    "Oshane Thomas": [
+      "https://www.cricinfo.com/cricketers/oshane-thomas-914567"
+    ],
+    "Shimron Hetmyer": [
+      "https://www.cricinfo.com/cricketers/shimron-hetmyer-670025"
+    ],
+    "Himmat Singh": [
+      "https://www.cricinfo.com/cricketers/himmat-singh-805235"
+    ],
+    "Devdutt Padikkal": [
+      "https://www.cricinfo.com/cricketers/devdutt-padikkal-1119026"
+    ],
+    "Shivam Dube": [
+      "https://www.cricinfo.com/cricketers/shivam-dube-714451"
+    ],
+    "Prayas Ray Barman": [
+      "https://www.cricinfo.com/cricketers/prayas-ray-barman-1159712"
+    ],
+    "Jonny Bairstow": [
+      "https://www.cricinfo.com/cricketers/jonny-bairstow-297433"
+    ],
+    "Alex Carey": [
+      "https://www.cricinfo.com/cricketers/alex-carey-326434"
+    ],
+    "Lalit Yadav": [
+      "https://www.cricinfo.com/cricketers/lalit-yadav-930189"
+    ],
+    "Daniel Sams": [
+      "https://www.cricinfo.com/cricketers/daniel-sams-826901"
+    ],
+    "Tushar Deshpande": [
+      "https://www.cricinfo.com/cricketers/tushar-deshpande-822553"
+    ],
+    "Sheldon Cottrell": [
+      "https://www.cricinfo.com/cricketers/sheldon-cottrell-495551"
+    ],
+    "Ishan Porel": [
+      "https://www.cricinfo.com/cricketers/ishan-porel-967603"
+    ],
+    "Ravi Bishnoi": [
+      "https://www.cricinfo.com/cricketers/ravi-bishnoi-1175441"
+    ],
+    "Tom Banton": [
+      "https://www.cricinfo.com/cricketers/tom-banton-877051"
+    ],
+    "Chris Green": [
+      "https://www.cricinfo.com/cricketers/chris-green-787073"
+    ],
+    "Manimaran Siddharth": [
+      "https://www.cricinfo.com/cricketers/manimaran-siddharth-1151286"
+    ],
+    "Ali Khan": [
+      "https://www.cricinfo.com/cricketers/ali-khan-927119"
+    ],
+    "Prince Balwant Rai": [
+      "https://www.cricinfo.com/cricketers/prince-balwant-rai-1210280"
+    ],
+    "Digvijay Deshmukh": [
+      "https://www.cricinfo.com/cricketers/digvijay-deshmukh-1206410"
+    ],
+    "Anuj Rawat": [
+      "https://www.cricinfo.com/cricketers/anuj-rawat-1123073"
+    ],
+    "Yashasvi Jaiswal": [
+      "https://www.cricinfo.com/cricketers/yashasvi-jaiswal-1151278"
+    ],
+    "Akash Singh": [
+      "https://www.cricinfo.com/cricketers/akash-singh-1175458"
+    ],
+    "Kartik Tyagi": [
+      "https://www.cricinfo.com/cricketers/kartik-tyagi-1122918"
+    ],
+    "Josh Philippe": [
+      "https://www.cricinfo.com/cricketers/josh-philippe-1124282"
+    ],
+    "Shahbaz Ahmed": [
+      "https://www.cricinfo.com/cricketers/shahbaz-ahmed-1159711"
+    ],
+    "Isuru Udana": [
+      "https://www.cricinfo.com/cricketers/isuru-udana-328026"
+    ],
+    "Abdul Samad": [
+      "https://www.cricinfo.com/cricketers/abdul-samad-1175485"
+    ],
+    "Priyam Garg": [
+      "https://www.cricinfo.com/cricketers/priyam-garg-1070180"
+    ],
+    "Bavanaka Sandeep": [
+      "https://www.cricinfo.com/cricketers/bavanaka-sandeep-427484"
+    ],
+    "Virat Singh": [
+      "https://www.cricinfo.com/cricketers/virat-singh-720465"
+    ],
+    "Fabian Allen": [
+      "https://www.cricinfo.com/cricketers/fabian-allen-670013"
+    ],
+    "Hari Nishaanth": [
+      "https://www.cricinfo.com/cricketers/hari-nishaanth-1048847"
+    ],
+    "Bhagath Varma": [
+      "https://www.cricinfo.com/cricketers/bhagath-varma-1252050"
+    ],
+    "Dominic Drakes": [
+      "https://www.cricinfo.com/cricketers/dominic-drakes-906749"
+    ],
+    "Harishankar Reddy": [
+      "https://www.cricinfo.com/cricketers/harishankar-reddy-1131755"
+    ],
+    "Sai Kishore": [
+      "https://www.cricinfo.com/cricketers/sai-kishore-1048739"
+    ],
+    "Ripal Patel": [
+      "https://www.cricinfo.com/cricketers/ripal-patel-1201520"
+    ],
+    "Shams Mulani": [
+      "https://www.cricinfo.com/cricketers/shams-mulani-1131607"
+    ],
+    "Lukman Meriwala": [
+      "https://www.cricinfo.com/cricketers/lukman-meriwala-573930"
+    ],
+    "Tim Seifert": [
+      "https://www.cricinfo.com/cricketers/tim-seifert-625964"
+    ],
+    "Venkatesh Iyer": [
+      "https://www.cricinfo.com/cricketers/venkatesh-iyer-851403"
+    ],
+    "Vaibhav Arora": [
+      "https://www.cricinfo.com/cricketers/vaibhav-arora-1209292"
+    ],
+    "Marco Jansen": [
+      "https://www.cricinfo.com/cricketers/marco-jansen-696401"
+    ],
+    "Roosh Kalaria": [
+      "https://www.cricinfo.com/cricketers/roosh-kalaria-528055"
+    ],
+    "Simarjeet Singh": [
+      "https://www.cricinfo.com/cricketers/simarjeet-singh-1159722"
+    ],
+    "Yudhvir Singh": [
+      "https://www.cricinfo.com/cricketers/yudhvir-singh-1206052"
+    ],
+    "Arjun Tendulkar": [
+      "https://www.cricinfo.com/cricketers/arjun-tendulkar-1148776"
+    ],
+    "Aiden Markram": [
+      "https://www.cricinfo.com/cricketers/aiden-markram-600498"
+    ],
+    "M Shahrukh Khan": [
+      "https://www.cricinfo.com/cricketers/m-shahrukh-khan-719719"
+    ],
+    "Dawid Malan": [
+      "https://www.cricinfo.com/cricketers/dawid-malan-236489"
+    ],
+    "Utkarsh Singh": [
+      "https://www.cricinfo.com/cricketers/utkarsh-singh-1081437"
+    ],
+    "Nathan Ellis": [
+      "https://www.cricinfo.com/cricketers/nathan-ellis-826915"
+    ],
+    "Adil Rashid": [
+      "https://www.cricinfo.com/cricketers/adil-rashid-244497"
+    ],
+    "Riley Meredith": [
+      "https://www.cricinfo.com/cricketers/riley-meredith-961713"
+    ],
+    "Jhye Richardson": [
+      "https://www.cricinfo.com/cricketers/jhye-richardson-774223"
+    ],
+    "Glenn Phillips": [
+      "https://www.cricinfo.com/cricketers/glenn-phillips-823509"
+    ],
+    "Chetan Sakariya": [
+      "https://www.cricinfo.com/cricketers/chetan-sakariya-1131754"
+    ],
+    "Kuldip Yadav": [
+      "https://www.cricinfo.com/cricketers/kuldip-yadav-1206495"
+    ],
+    "Gerald Coetzee": [
+      "https://www.cricinfo.com/cricketers/gerald-coetzee-596010"
+    ],
+    "Tim David": [
+      "https://www.cricinfo.com/cricketers/tim-david-892749"
+    ],
+    "Mohammed Azharuddeen": [
+      "https://www.cricinfo.com/cricketers/mohammed-azharuddeen-940733"
+    ],
+    "Rajat Patidar": [
+      "https://www.cricinfo.com/cricketers/rajat-patidar-823703"
+    ],
+    "Finn Allen": [
+      "https://www.cricinfo.com/cricketers/finn-allen-959759"
+    ],
+    "George Garton": [
+      "https://www.cricinfo.com/cricketers/george-garton-643433"
+    ],
+    "Suyash Prabhudessai": [
+      "https://www.cricinfo.com/cricketers/suyash-prabhudessai-1083851"
+    ],
+    "Akash Deep": [
+      "https://www.cricinfo.com/cricketers/akash-deep-1176959"
+    ],
+    "Kyle Jamieson": [
+      "https://www.cricinfo.com/cricketers/kyle-jamieson-625960"
+    ],
+    "Devon Conway": [
+      "https://www.cricinfo.com/cricketers/devon-conway-379140"
+    ],
+    "Subhranshu Senapati": [
+      "https://www.cricinfo.com/cricketers/subhranshu-senapati-1059577"
+    ],
+    "Rajvardhan Hangargekar": [
+      "https://www.cricinfo.com/cricketers/rajvardhan-hangargekar-1175429"
+    ],
+    "Dwaine Pretorius": [
+      "https://www.cricinfo.com/cricketers/dwaine-pretorius-327830"
+    ],
+    "Mukesh Choudhary": [
+      "https://www.cricinfo.com/cricketers/mukesh-choudhary-1125688"
+    ],
+    "Matheesha Pathirana": [
+      "https://www.cricinfo.com/cricketers/matheesha-pathirana-1194795"
+    ],
+    "Prashant Solanki": [
+      "https://www.cricinfo.com/cricketers/prashant-solanki-1252337"
+    ],
+    "Maheesh Theekshana": [
+      "https://www.cricinfo.com/cricketers/maheesh-theekshana-1138316"
+    ],
+    "Wanindu Hasaranga": [
+      "https://www.cricinfo.com/cricketers/wanindu-hasaranga-784379"
+    ],
+    "Ashwin Hebbar": [
+      "https://www.cricinfo.com/cricketers/ashwin-hebbar-801019"
+    ],
+    "Yash Dhull": [
+      "https://www.cricinfo.com/cricketers/yash-dhull-1292498"
+    ],
+    "Vicky Ostwal": [
+      "https://www.cricinfo.com/cricketers/vicky-ostwal-1292520"
+    ],
+    "Rahmanullah Gurbaz": [
+      "https://www.cricinfo.com/cricketers/rahmanullah-gurbaz-974087"
+    ],
+    "Sai Sudharsan": [
+      "https://www.cricinfo.com/cricketers/sai-sudharsan-1151288"
+    ],
+    "Abhinav Manohar": [
+      "https://www.cricinfo.com/cricketers/abhinav-manohar-778963"
+    ],
+    "Noor Ahmad": [
+      "https://www.cricinfo.com/cricketers/noor-ahmad-1182529"
+    ],
+    "Yash Dayal": [
+      "https://www.cricinfo.com/cricketers/yash-dayal-1159720"
+    ],
+    "Baba Indrajith": [
+      "https://www.cricinfo.com/cricketers/baba-indrajith-477069"
+    ],
+    "Abhijeet Tomar": [
+      "https://www.cricinfo.com/cricketers/abhijeet-tomar-1081183"
+    ],
+    "Aman Khan": [
+      "https://www.cricinfo.com/cricketers/aman-khan-1254269"
+    ],
+    "Chamika Karunaratne": [
+      "https://www.cricinfo.com/cricketers/chamika-karunaratne-623695"
+    ],
+    "Ashok Sharma": [
+      "https://www.cricinfo.com/cricketers/ashok-sharma-1299879"
+    ],
+    "Harshit Rana": [
+      "https://www.cricinfo.com/cricketers/harshit-rana-1312645"
+    ],
+    "Ramesh Kumar": [
+      "https://www.cricinfo.com/cricketers/ramesh-kumar-1299848"
+    ],
+    "Ayush Badoni": [
+      "https://www.cricinfo.com/cricketers/ayush-badoni-1151270"
+    ],
+    "Kyle Mayers": [
+      "https://www.cricinfo.com/cricketers/kyle-mayers-348056"
+    ],
+    "Karan Sharma": [
+      "https://www.cricinfo.com/cricketers/karan-sharma-1246518"
+    ],
+    "Mayank Yadav": [
+      "https://www.cricinfo.com/cricketers/mayank-yadav-1292563"
+    ],
+    "Dewald Brevis": [
+      "https://www.cricinfo.com/cricketers/dewald-brevis-1070665"
+    ],
+    "Rahul Buddhi": [
+      "https://www.cricinfo.com/cricketers/rahul-buddhi-1212693"
+    ],
+    "Aryan Juyal": [
+      "https://www.cricinfo.com/cricketers/aryan-juyal-1130300"
+    ],
+    "Ramandeep Singh": [
+      "https://www.cricinfo.com/cricketers/ramandeep-singh-1079470"
+    ],
+    "Tristan Stubbs": [
+      "https://www.cricinfo.com/cricketers/tristan-stubbs-595978"
+    ],
+    "Tilak Varma": [
+      "https://www.cricinfo.com/cricketers/tilak-varma-1170265"
+    ],
+    "Kumar Kartikeya": [
+      "https://www.cricinfo.com/cricketers/kumar-kartikeya-1159843"
+    ],
+    "Hrithik Shokeen": [
+      "https://www.cricinfo.com/cricketers/hrithik-shokeen-1175423"
+    ],
+    "Arshad Khan": [
+      "https://www.cricinfo.com/cricketers/arshad-khan-1244751"
+    ],
+    "Bhanuka Rajapaksa": [
+      "https://www.cricinfo.com/cricketers/bhanuka-rajapaksa-342619"
+    ],
+    "Raj Bawa": [
+      "https://www.cricinfo.com/cricketers/raj-bawa-1292502"
+    ],
+    "Writtick Chatterjee": [
+      "https://www.cricinfo.com/cricketers/writtick-chatterjee-699493"
+    ],
+    "Benny Howell": [
+      "https://www.cricinfo.com/cricketers/benny-howell-211748"
+    ],
+    "Prerak Mankad": [
+      "https://www.cricinfo.com/cricketers/prerak-mankad-956871"
+    ],
+    "Odean Smith": [
+      "https://www.cricinfo.com/cricketers/odean-smith-820691"
+    ],
+    "Atharva Taide": [
+      "https://www.cricinfo.com/cricketers/atharva-taide-1125958"
+    ],
+    "Baltej Singh": [
+      "https://www.cricinfo.com/cricketers/baltej-singh-527292"
+    ],
+    "Ansh Patel": [
+      "https://www.cricinfo.com/cricketers/ansh-patel-1216149"
+    ],
+    "Shubham Garhwal": [
+      "https://www.cricinfo.com/cricketers/shubham-garhwal-1287019"
+    ],
+    "Dhruv Jurel": [
+      "https://www.cricinfo.com/cricketers/dhruv-jurel-1175488"
+    ],
+    "Rassie van der Dussen": [
+      "https://www.cricinfo.com/cricketers/rassie-van-der-dussen-337790"
+    ],
+    "Corbin Bosch": [
+      "https://www.cricinfo.com/cricketers/corbin-bosch-594322"
+    ],
+    "Daryl Mitchell": [
+      "https://www.cricinfo.com/cricketers/daryl-mitchell-381743"
+    ],
+    "Anunay Singh": [
+      "https://www.cricinfo.com/cricketers/anunay-singh-1159816"
+    ],
+    "Obed McCoy": [
+      "https://www.cricinfo.com/cricketers/obed-mccoy-906783"
+    ],
+    "Kuldeep Sen": [
+      "https://www.cricinfo.com/cricketers/kuldeep-sen-1163695"
+    ],
+    "Luvnith Sisodia": [
+      "https://www.cricinfo.com/cricketers/luvnith-sisodia-1155253"
+    ],
+    "Aneeshwar Gautam": [
+      "https://www.cricinfo.com/cricketers/aneeshwar-gautam-1292513"
+    ],
+    "Ravikumar Samarth": [
+      "https://www.cricinfo.com/cricketers/ravikumar-samarth-474512"
+    ],
+    "Romario Shepherd": [
+      "https://www.cricinfo.com/cricketers/romario-shepherd-677077"
+    ],
+    "Fazalhaq Farooqi": [
+      "https://www.cricinfo.com/cricketers/fazalhaq-farooqi-974175"
+    ],
+    "Sushant Mishra": [
+      "https://www.cricinfo.com/cricketers/sushant-mishra-1175457"
+    ],
+    "Umran Malik": [
+      "https://www.cricinfo.com/cricketers/umran-malik-1246528"
+    ],
+    "Saurabh Dubey": [
+      "https://www.cricinfo.com/cricketers/saurabh-dubey-1206492"
+    ],
+    "Shaik Rasheed": [
+      "https://www.cricinfo.com/cricketers/shaik-rasheed-1292497"
+    ],
+    "Ajay Mandal": [
+      "https://www.cricinfo.com/cricketers/ajay-mandal-1059570"
+    ],
+    "Nishant Sindhu": [
+      "https://www.cricinfo.com/cricketers/nishant-sindhu-1292506"
+    ],
+    "Sisanda Magala": [
+      "https://www.cricinfo.com/cricketers/sisanda-magala-379776"
+    ],
+    "Abishek Porel": [
+      "https://www.cricinfo.com/cricketers/abishek-porel-1277545"
+    ],
+    "Phil Salt": [
+      "https://www.cricinfo.com/cricketers/phil-salt-669365"
+    ],
+    "Mukesh Kumar": [
+      "https://www.cricinfo.com/cricketers/mukesh-kumar-926851"
+    ],
+    "Urvil Patel": [
+      "https://www.cricinfo.com/cricketers/urvil-patel-1131570"
+    ],
+    "Dasun Shanaka": [
+      "https://www.cricinfo.com/cricketers/dasun-shanaka-437316"
+    ],
+    "Josh Little": [
+      "https://www.cricinfo.com/cricketers/josh-little-928067"
+    ],
+    "Aarya Desai": [
+      "https://www.cricinfo.com/cricketers/aarya-desai-1353014"
+    ],
+    "Johnson Charles": [
+      "https://www.cricinfo.com/cricketers/johnson-charles-333066"
+    ],
+    "Litton Das": [
+      "https://www.cricinfo.com/cricketers/litton-das-536936"
+    ],
+    "Suyash Sharma": [
+      "https://www.cricinfo.com/cricketers/suyash-sharma-1350792"
+    ],
+    "Arpit Guleria": [
+      "https://www.cricinfo.com/cricketers/arpit-guleria-1167306"
+    ],
+    "Naveen-ul-Haq": [
+      "https://www.cricinfo.com/cricketers/naveen-ul-haq-793447"
+    ],
+    "Yash Thakur": [
+      "https://www.cricinfo.com/cricketers/yash-thakur-1070196"
+    ],
+    "Nehal Wadhera": [
+      "https://www.cricinfo.com/cricketers/nehal-wadhera-1151273"
+    ],
+    "Cameron Green": [
+      "https://www.cricinfo.com/cricketers/cameron-green-1076713"
+    ],
+    "Raghav Goyal": [
+      "https://www.cricinfo.com/cricketers/raghav-goyal-1350770"
+    ],
+    "Duan Jansen": [
+      "https://www.cricinfo.com/cricketers/duan-jansen-595954"
+    ],
+    "Akash Madhwal": [
+      "https://www.cricinfo.com/cricketers/akash-madhwal-1206039"
+    ],
+    "Chris Hurley": [
+      "https://www.cricinfo.com/cricketers/chris-hurley-1273859"
+    ],
+    "Mohit Rathee": [
+      "https://www.cricinfo.com/cricketers/mohit-rathee-1349361"
+    ],
+    "Matthew Short": [
+      "https://www.cricinfo.com/cricketers/matthew-short-605575"
+    ],
+    "Sikandar Raza": [
+      "https://www.cricinfo.com/cricketers/sikandar-raza-299572"
+    ],
+    "Gurnoor Brar": [
+      "https://www.cricinfo.com/cricketers/gurnoor-brar-1287033"
+    ],
+    "Vidwath Kaverappa": [
+      "https://www.cricinfo.com/cricketers/vidwath-kaverappa-1155262"
+    ],
+    "Kunal Singh Rathore": [
+      "https://www.cricinfo.com/cricketers/kunal-singh-rathore-1339031"
+    ],
+    "Joe Root": [
+      "https://www.cricinfo.com/cricketers/joe-root-303669"
+    ],
+    "Abdul Basith": [
+      "https://www.cricinfo.com/cricketers/abdul-basith-1287067"
+    ],
+    "Donovan Ferreira": [
+      "https://www.cricinfo.com/cricketers/donovan-ferreira-698315"
+    ],
+    "Akash Vasisht": [
+      "https://www.cricinfo.com/cricketers/akash-vasisht-722597"
+    ],
+    "Manoj Bhandage": [
+      "https://www.cricinfo.com/cricketers/manoj-bhandage-1057399"
+    ],
+    "Michael Bracewell": [
+      "https://www.cricinfo.com/cricketers/michael-bracewell-326968"
+    ],
+    "Sonu Yadav": [
+      "https://www.cricinfo.com/cricketers/sonu-yadav-1048867"
+    ],
+    "Will Jacks": [
+      "https://www.cricinfo.com/cricketers/will-jacks-897549"
+    ],
+    "Avinash Singh": [
+      "https://www.cricinfo.com/cricketers/avinash-singh-1350765"
+    ],
+    "Rajan Kumar": [
+      "https://www.cricinfo.com/cricketers/rajan-kumar-1339027"
+    ],
+    "Himanshu Sharma": [
+      "https://www.cricinfo.com/cricketers/himanshu-sharma-1350761"
+    ],
+    "Vijaykumar Vyshak": [
+      "https://www.cricinfo.com/cricketers/vijaykumar-vyshak-777815"
+    ],
+    "Reece Topley": [
+      "https://www.cricinfo.com/cricketers/reece-topley-461632"
+    ],
+    "Harry Brook": [
+      "https://www.cricinfo.com/cricketers/harry-brook-911707"
+    ],
+    "Upendra Yadav": [
+      "https://www.cricinfo.com/cricketers/upendra-yadav-732269"
+    ],
+    "Nitish Kumar Reddy": [
+      "https://www.cricinfo.com/cricketers/nitish-kumar-reddy-1175496"
+    ],
+    "Sanvir Singh": [
+      "https://www.cricinfo.com/cricketers/sanvir-singh-1132219"
+    ],
+    "Vivrant Sharma": [
+      "https://www.cricinfo.com/cricketers/vivrant-sharma-1252370"
+    ],
+    "Samarth Vyas": [
+      "https://www.cricinfo.com/cricketers/samarth-vyas-853859"
+    ],
+    "Akeal Hosein": [
+      "https://www.cricinfo.com/cricketers/akeal-hosein-530812"
+    ],
+    "Aravelly Avanish": [
+      "https://www.cricinfo.com/cricketers/aravelly-avanish-1408675"
+    ],
+    "Rachin Ravindra": [
+      "https://www.cricinfo.com/cricketers/rachin-ravindra-959767"
+    ],
+    "Sameer Rizvi": [
+      "https://www.cricinfo.com/cricketers/sameer-rizvi-1175489"
+    ],
+    "Richard Gleeson": [
+      "https://www.cricinfo.com/cricketers/richard-gleeson-473191"
+    ],
+    "Swastik Chikara": [
+      "https://www.cricinfo.com/cricketers/swastik-chikara-1403198"
+    ],
+    "Jake Fraser-McGurk": [
+      "https://www.cricinfo.com/cricketers/jake-fraser-mcgurk-1168049"
+    ],
+    "Shai Hope": [
+      "https://www.cricinfo.com/cricketers/shai-hope-581379"
+    ],
+    "Kumar Kushagra": [
+      "https://www.cricinfo.com/cricketers/kumar-kushagra-1207295"
+    ],
+    "Sumit Kumar": [
+      "https://www.cricinfo.com/cricketers/sumit-kumar-1159734"
+    ],
+    "Lizaad Williams": [
+      "https://www.cricinfo.com/cricketers/lizaad-williams-379887"
+    ],
+    "BR Sharath": [
+      "https://www.cricinfo.com/cricketers/br-sharath-917231"
+    ],
+    "Robin Minz": [
+      "https://www.cricinfo.com/cricketers/robin-minz-1350762"
+    ],
+    "Azmatullah Omarzai": [
+      "https://www.cricinfo.com/cricketers/azmatullah-omarzai-819429"
+    ],
+    "Manav Suthar": [
+      "https://www.cricinfo.com/cricketers/manav-suthar-1175426"
+    ],
+    "Spencer Johnson": [
+      "https://www.cricinfo.com/cricketers/spencer-johnson-1123718"
+    ],
+    "Angkrish Raghuvanshi": [
+      "https://www.cricinfo.com/cricketers/angkrish-raghuvanshi-1292495"
+    ],
+    "AM Ghazanfar": [
+      "https://www.cricinfo.com/cricketers/am-ghazanfar-1326798"
+    ],
+    "Sakib Hussain": [
+      "https://www.cricinfo.com/cricketers/sakib-hussain-1340422"
+    ],
+    "Gus Atkinson": [
+      "https://www.cricinfo.com/cricketers/gus-atkinson-1039481"
+    ],
+    "Arshin Kulkarni": [
+      "https://www.cricinfo.com/cricketers/arshin-kulkarni-1403153"
+    ],
+    "Shamar Joseph": [
+      "https://www.cricinfo.com/cricketers/shamar-joseph-1356971"
+    ],
+    "Harvik Desai": [
+      "https://www.cricinfo.com/cricketers/harvik-desai-1070195"
+    ],
+    "Naman Dhir": [
+      "https://www.cricinfo.com/cricketers/naman-dhir-1287032"
+    ],
+    "Shivalik Sharma": [
+      "https://www.cricinfo.com/cricketers/shivalik-sharma-1167965"
+    ],
+    "Anshul Kamboj": [
+      "https://www.cricinfo.com/cricketers/anshul-kamboj-1175428"
+    ],
+    "Kwena Maphaka": [
+      "https://www.cricinfo.com/cricketers/kwena-maphaka-1294342"
+    ],
+    "Nuwan Thushara": [
+      "https://www.cricinfo.com/cricketers/nuwan-thushara-955235"
+    ],
+    "Luke Wood": [
+      "https://www.cricinfo.com/cricketers/luke-wood-573170"
+    ],
+    "Dilshan Madushanka": [
+      "https://www.cricinfo.com/cricketers/dilshan-madushanka-793007"
+    ],
+    "Ashutosh Sharma": [
+      "https://www.cricinfo.com/cricketers/ashutosh-sharma-1131978"
+    ],
+    "Shivam Singh": [
+      "https://www.cricinfo.com/cricketers/shivam-singh-1380113"
+    ],
+    "Tanay Thyagarajan": [
+      "https://www.cricinfo.com/cricketers/tanay-thyagarajan-1080008"
+    ],
+    "Prince Choudhary": [
+      "https://www.cricinfo.com/cricketers/prince-choudhary-1412827"
+    ],
+    "Vishwanath Pratap Singh": [
+      "https://www.cricinfo.com/cricketers/vishwanath-pratap-singh-1354639"
+    ],
+    "Shubham Dubey": [
+      "https://www.cricinfo.com/cricketers/shubham-dubey-1252585"
+    ],
+    "Tom Kohler-Cadmore": [
+      "https://www.cricinfo.com/cricketers/tom-kohler-cadmore-470633"
+    ],
+    "Abid Mushtaq": [
+      "https://www.cricinfo.com/cricketers/abid-mushtaq-1201536"
+    ],
+    "Tanush Kotian": [
+      "https://www.cricinfo.com/cricketers/tanush-kotian-1125960"
+    ],
+    "Nandre Burger": [
+      "https://www.cricinfo.com/cricketers/nandre-burger-971349"
+    ],
+    "Keshav Maharaj": [
+      "https://www.cricinfo.com/cricketers/keshav-maharaj-267724"
+    ],
+    "Saurav Chauhan": [
+      "https://www.cricinfo.com/cricketers/saurav-chauhan-1287369"
+    ],
+    "Jhathavedh Subramanyan": [
+      "https://www.cricinfo.com/cricketers/jhathavedh-subramanyan-919531"
+    ],
+    "Vijayakanth Viyaskanth": [
+      "https://www.cricinfo.com/cricketers/vijayakanth-viyaskanth-1153149"
+    ],
+    "C Andre Siddarth": [
+      "https://www.cricinfo.com/cricketers/c-andre-siddarth-1440190"
+    ],
+    "Ayush Mhatre": [
+      "https://www.cricinfo.com/cricketers/ayush-mhatre-1452455"
+    ],
+    "Vansh Bedi": [
+      "https://www.cricinfo.com/cricketers/vansh-bedi-1413379"
+    ],
+    "Ramakrishna Ghosh": [
+      "https://www.cricinfo.com/cricketers/ramakrishna-ghosh-1339053"
+    ],
+    "Jamie Overton": [
+      "https://www.cricinfo.com/cricketers/jamie-overton-510530"
+    ],
+    "Gurjapneet Singh": [
+      "https://www.cricinfo.com/cricketers/gurjapneet-singh-1269869"
+    ],
+    "Sediqullah Atal": [
+      "https://www.cricinfo.com/cricketers/sediqullah-atal-1161050"
+    ],
+    "Manvanth Kumar": [
+      "https://www.cricinfo.com/cricketers/manvanth-kumar-1392186"
+    ],
+    "Madhav Tiwari": [
+      "https://www.cricinfo.com/cricketers/madhav-tiwari-1460385"
+    ],
+    "Vipraj Nigam": [
+      "https://www.cricinfo.com/cricketers/vipraj-nigam-1449074"
+    ],
+    "Tripurana Vijay": [
+      "https://www.cricinfo.com/cricketers/tripurana-vijay-1292527"
+    ],
+    "Kusal Mendis": [
+      "https://www.cricinfo.com/cricketers/kusal-mendis-629074"
+    ],
+    "Karim Janat": [
+      "https://www.cricinfo.com/cricketers/karim-janat-793467"
+    ],
+    "Shivam Shukla": [
+      "https://www.cricinfo.com/cricketers/shivam-shukla-1460342"
+    ],
+    "Matthew Breetzke": [
+      "https://www.cricinfo.com/cricketers/matthew-breetzke-595267"
+    ],
+    "Yuvraj Chaudhary": [
+      "https://www.cricinfo.com/cricketers/yuvraj-chaudhary-1175463"
+    ],
+    "Will O’Rourke": [
+      "https://www.cricinfo.com/cricketers/will-o-rourke-1211825"
+    ],
+    "Prince Yadav": [
+      "https://www.cricinfo.com/cricketers/prince-yadav-1350768"
+    ],
+    "Digvesh Rathi": [
+      "https://www.cricinfo.com/cricketers/digvesh-rathi-1460529"
+    ],
+    "Bevon Jacobs": [
+      "https://www.cricinfo.com/cricketers/bevon-jacobs-1410577"
+    ],
+    "Krishnan Shrijith": [
+      "https://www.cricinfo.com/cricketers/krishnan-shrijith-778241"
+    ],
+    "Ryan Rickelton": [
+      "https://www.cricinfo.com/cricketers/ryan-rickelton-605661"
+    ],
+    "Charith Asalanka": [
+      "https://www.cricinfo.com/cricketers/charith-asalanka-784367"
+    ],
+    "Ashwani Kumar": [
+      "https://www.cricinfo.com/cricketers/ashwani-kumar-1209126"
+    ],
+    "Satyanarayana Raju": [
+      "https://www.cricinfo.com/cricketers/satyanarayana-raju-1392201"
+    ],
+    "Raghu Sharma": [
+      "https://www.cricinfo.com/cricketers/raghu-sharma-1122621"
+    ],
+    "Vignesh Puthur": [
+      "https://www.cricinfo.com/cricketers/vignesh-puthur-1460388"
+    ],
+    "Priyansh Arya": [
+      "https://www.cricinfo.com/cricketers/priyansh-arya-1175456"
+    ],
+    "Pyla Avinash": [
+      "https://www.cricinfo.com/cricketers/pyla-avinash-1324449"
+    ],
+    "Harnoor Singh": [
+      "https://www.cricinfo.com/cricketers/harnoor-singh-1292496"
+    ],
+    "Josh Inglis": [
+      "https://www.cricinfo.com/cricketers/josh-inglis-662235"
+    ],
+    "Aaron Hardie": [
+      "https://www.cricinfo.com/cricketers/aaron-hardie-1124283"
+    ],
+    "Musheer Khan": [
+      "https://www.cricinfo.com/cricketers/musheer-khan-1316430"
+    ],
+    "Mitchell Owen": [
+      "https://www.cricinfo.com/cricketers/mitchell-owen-1213979"
+    ],
+    "Suryansh Shedge": [
+      "https://www.cricinfo.com/cricketers/suryansh-shedge-1339698"
+    ],
+    "Xavier Bartlett": [
+      "https://www.cricinfo.com/cricketers/xavier-bartlett-1050545"
+    ],
+    "Lhuan-dre Pretorius": [
+      "https://www.cricinfo.com/cricketers/lhuan-dre-pretorius-1385640"
+    ],
+    "Vaibhav Sooryavanshi": [
+      "https://www.cricinfo.com/cricketers/vaibhav-sooryavanshi-1408688"
+    ],
+    "Jacob Bethell": [
+      "https://www.cricinfo.com/cricketers/jacob-bethell-1194959"
+    ],
+    "Abhinandan Singh": [
+      "https://www.cricinfo.com/cricketers/abhinandan-singh-1449085"
+    ],
+    "Blessing Muzarabani": [
+      "https://www.cricinfo.com/cricketers/blessing-muzarabani-827051"
+    ],
+    "Aniket Verma": [
+      "https://www.cricinfo.com/cricketers/aniket-verma-1409976"
+    ],
+    "Ravichandran Smaran": [
+      "https://www.cricinfo.com/cricketers/ravichandran-smaran-1327722"
+    ],
+    "Harsh Dubey": [
+      "https://www.cricinfo.com/cricketers/harsh-dubey-1216159"
+    ],
+    "Kamindu Mendis": [
+      "https://www.cricinfo.com/cricketers/kamindu-mendis-784373"
+    ],
+    "Brydon Carse": [
+      "https://www.cricinfo.com/cricketers/brydon-carse-596417"
+    ],
+    "Wiaan Mulder": [
+      "https://www.cricinfo.com/cricketers/wiaan-mulder-698189"
+    ],
+    "Eshan Malinga": [
+      "https://www.cricinfo.com/cricketers/eshan-malinga-1306214"
+    ],
+    "Zeeshan Ansari": [
+      "https://www.cricinfo.com/cricketers/zeeshan-ansari-942371"
+    ],
+    "Kartik Sharma": [
+      "https://www.cricinfo.com/cricketers/kartik-sharma-1459392"
+    ],
+    "Dian Forrester": [
+      "https://www.cricinfo.com/cricketers/dian-forrester-696471"
+    ],
+    "Zak Foulkes": [
+      "https://www.cricinfo.com/cricketers/zak-foulkes-1202098"
+    ],
+    "Macneil Noronha": [
+      "https://www.cricinfo.com/cricketers/macneil-noronha-1327725"
+    ],
+    "Prashant Veer": [
+      "https://www.cricinfo.com/cricketers/prashant-veer-1403197"
+    ],
+    "Pathum Nissanka": [
+      "https://www.cricinfo.com/cricketers/pathum-nissanka-1028655"
+    ],
+    "Sahil Parakh": [
+      "https://www.cricinfo.com/cricketers/sahil-parakh-1451028"
+    ],
+    "Ben Duckett": [
+      "https://www.cricinfo.com/cricketers/ben-duckett-521637"
+    ],
+    "Rehan Ahmed": [
+      "https://www.cricinfo.com/cricketers/rehan-ahmed-1263691"
+    ],
+    "Auqib Nabi": [
+      "https://www.cricinfo.com/cricketers/auqib-nabi-1159732"
+    ],
+    "Connor Esterhuizen": [
+      "https://www.cricinfo.com/cricketers/connor-esterhuizen-1070997"
+    ],
+    "Tejasvi Dahiya": [
+      "https://www.cricinfo.com/cricketers/tejasvi-dahiya-1460372"
+    ],
+    "Sarthak Ranjan": [
+      "https://www.cricinfo.com/cricketers/sarthak-ranjan-956405"
+    ],
+    "Daksh Kamra": [
+      "https://www.cricinfo.com/cricketers/daksh-kamra-1515048"
+    ],
+    "Akshat Raghuwanshi": [
+      "https://www.cricinfo.com/cricketers/akshat-raghuwanshi-1300795"
+    ],
+    "Mukul Choudhary": [
+      "https://www.cricinfo.com/cricketers/mukul-choudhary-1354217"
+    ],
+    "George Linde": [
+      "https://www.cricinfo.com/cricketers/george-linde-481875"
+    ],
+    "Naman Tiwari": [
+      "https://www.cricinfo.com/cricketers/naman-tiwari-1408677"
+    ],
+    "Ruchit Ahir": [
+      "https://www.cricinfo.com/cricketers/ruchit-ahir-1395884"
+    ],
+    "Danish Malewar": [
+      "https://www.cricinfo.com/cricketers/danish-malewar-1421992"
+    ],
+    "Mayank Rawat": [
+      "https://www.cricinfo.com/cricketers/mayank-rawat-1079847"
+    ],
+    "Atharva Ankolekar": [
+      "https://www.cricinfo.com/cricketers/atharva-ankolekar-1175467"
+    ],
+    "Krish Bhagat": [
+      "https://www.cricinfo.com/cricketers/krish-bhagat-1454586"
+    ],
+    "Mohammed Izhar": [
+      "https://www.cricinfo.com/cricketers/mohammed-izhar-1512648"
+    ],
+    "Cooper Connolly": [
+      "https://www.cricinfo.com/cricketers/cooper-connolly-1210488"
+    ],
+    "Vishal Nishad": [
+      "https://www.cricinfo.com/cricketers/vishal-nishad-1449053"
+    ],
+    "Aman Rao": [
+      "https://www.cricinfo.com/cricketers/aman-rao-1403261"
+    ],
+    "Ravi Singh": [
+      "https://www.cricinfo.com/cricketers/ravi-singh-1461577"
+    ],
+    "Emanjot Singh Chahal": [
+      "https://www.cricinfo.com/cricketers/emanjot-singh-chahal-1454587"
+    ],
+    "Brijesh Sharma": [
+      "https://www.cricinfo.com/cricketers/brijesh-sharma-1515046"
+    ],
+    "Yash Raj Punja": [
+      "https://www.cricinfo.com/cricketers/yash-raj-punja-1515186"
+    ],
+    "Jordan Cox": [
+      "https://www.cricinfo.com/cricketers/jordan-cox-1112537"
+    ],
+    "Kanishk Chouhan": [
+      "https://www.cricinfo.com/cricketers/kanishk-chouhan-1490396"
+    ],
+    "Vihaan Malhotra": [
+      "https://www.cricinfo.com/cricketers/vihaan-malhotra-1354132"
+    ],
+    "Mangesh Yadav": [
+      "https://www.cricinfo.com/cricketers/mangesh-yadav-1515303"
+    ],
+    "Satvik Deswal": [
+      "https://www.cricinfo.com/cricketers/satvik-deswal-1515302"
+    ],
+    "Jacob Duffy": [
+      "https://www.cricinfo.com/cricketers/jacob-duffy-547766"
+    ],
+    "Salil Arora": [
+      "https://www.cricinfo.com/cricketers/salil-arora-1199281"
+    ],
+    "RS Ambrish": [
+      "https://www.cricinfo.com/cricketers/rs-ambrish-1489146"
+    ],
+    "Krains Fuletra": [
+      "https://www.cricinfo.com/cricketers/krains-fuletra-1467631"
+    ],
+    "Shivang Kumar": [
+      "https://www.cricinfo.com/cricketers/shivang-kumar-1512089"
+    ],
+    "Jack Edwards": [
+      "https://www.cricinfo.com/cricketers/jack-edwards-1088610"
+    ],
+    "Amit Kumar": [
+      "https://www.cricinfo.com/cricketers/amit-kumar-1512257"
+    ],
+    "Praful Hinge": [
+      "https://www.cricinfo.com/cricketers/praful-hinge-1216167"
+    ],
+    "Onkar Tarmale": [
+      "https://www.cricinfo.com/cricketers/onkar-tarmale-1515304"
+    ],
+    "David Payne": [
+      "https://www.cricinfo.com/cricketers/david-payne-362710"
+    ]
+  },
+  "stats": {
+    "https://www.cricinfo.com/cricketers/rahul-dravid-28114": {
+      "appearances": 89,
+      "retrievedAt": "2026-11-09T22:55:56.141378+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mark-boucher-44111": {
+      "appearances": 31,
+      "retrievedAt": "2026-11-09T22:55:57.766569+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shivnarine-chanderpaul-51469": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T22:56:00.028987+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/bharat-chipli-27685": {
+      "appearances": 23,
+      "retrievedAt": "2026-11-09T22:56:18.258536+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shreevats-goswami-302579": {
+      "appearances": 23,
+      "retrievedAt": "2026-11-09T22:56:20.107262+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/wasim-jaffer-29646": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T22:56:22.193937+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/virat-kohli-253802": {
+      "appearances": 283,
+      "retrievedAt": "2026-11-09T22:56:24.010745+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/misbah-ul-haq-41378": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T22:56:26.180463+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ross-taylor-38699": {
+      "appearances": 55,
+      "retrievedAt": "2026-11-09T22:56:28.155883+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/cameron-white-8291": {
+      "appearances": 47,
+      "retrievedAt": "2026-11-09T22:56:30.183433+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sunil-joshi-29725": {
+      "appearances": 4,
+      "retrievedAt": "2026-11-09T22:56:32.187855+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/jacques-kallis-45789": {
+      "appearances": 98,
+      "retrievedAt": "2026-11-09T22:56:33.873067+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ashley-noffke-6938": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T22:56:35.740578+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/abdur-razzak-56283": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T22:56:37.733104+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/balachandra-akhil-26206": {
+      "appearances": 15,
+      "retrievedAt": "2026-11-09T22:56:39.622913+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/kp-appanna-269170": {
+      "appearances": 14,
+      "retrievedAt": "2026-11-09T22:56:41.547913+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/zaheer-khan-30102": {
+      "appearances": 100,
+      "retrievedAt": "2026-11-09T22:56:43.546523+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/praveen-kumar-30732": {
+      "appearances": 119,
+      "retrievedAt": "2026-11-09T22:56:45.557968+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/anil-kumble-30176": {
+      "appearances": 42,
+      "retrievedAt": "2026-11-09T22:56:47.679462+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dale-steyn-47492": {
+      "appearances": 95,
+      "retrievedAt": "2026-11-09T22:56:49.868081+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/vinay-kumar-35731": {
+      "appearances": 105,
+      "retrievedAt": "2026-11-09T22:56:51.995084+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/nathan-bracken-4185": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T22:56:53.792365+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/neravanda-aiyappa-26198": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T22:56:55.602229+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/jagadeesh-arunkumar-26291": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T22:56:57.412891+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/devraj-patil-32389": {
+      "appearances": 2,
+      "retrievedAt": "2026-11-09T22:56:59.346900+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ms-dhoni-28081": {
+      "appearances": 278,
+      "retrievedAt": "2026-11-09T22:57:01.085237+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/srikkanth-anirudha-26798": {
+      "appearances": 20,
+      "retrievedAt": "2026-11-09T22:57:03.322001+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/arun-karthik-319745": {
+      "appearances": 17,
+      "retrievedAt": "2026-11-09T22:57:05.226118+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/s-badrinath-26806": {
+      "appearances": 95,
+      "retrievedAt": "2026-11-09T22:57:07.422139+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/stephen-fleming-37000": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T22:57:09.320890+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/matthew-hayden-5616": {
+      "appearances": 32,
+      "retrievedAt": "2026-11-09T22:57:11.028828+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/michael-hussey-5939": {
+      "appearances": 59,
+      "retrievedAt": "2026-11-09T22:57:13.255545+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/chamara-kapugedera-209457": {
+      "appearances": 5,
+      "retrievedAt": "2026-11-09T22:57:15.231425+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/abhinav-mukund-302582": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T22:57:17.239615+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/parthiv-patel-32242": {
+      "appearances": 139,
+      "retrievedAt": "2026-11-09T22:57:19.352795+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/suresh-raina-33335": {
+      "appearances": 205,
+      "retrievedAt": "2026-11-09T22:57:21.759651+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ravichandran-ashwin-26421": {
+      "appearances": 221,
+      "retrievedAt": "2026-11-09T23:06:30.713317+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/joginder-sharma-29976": {
+      "appearances": 16,
+      "retrievedAt": "2026-11-09T23:06:32.844445+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/albie-morkel-46248": {
+      "appearances": 91,
+      "retrievedAt": "2026-11-09T23:06:35.200449+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/jacob-oram-38062": {
+      "appearances": 18,
+      "retrievedAt": "2026-11-09T23:06:37.371878+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/vidyut-sivaramakrishnan-35619": {
+      "appearances": 9,
+      "retrievedAt": "2026-11-09T23:06:39.965762+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/lakshmipathy-balaji-26829": {
+      "appearances": 73,
+      "retrievedAt": "2026-11-09T23:06:42.144686+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/manpreet-gony-317293": {
+      "appearances": 44,
+      "retrievedAt": "2026-11-09T23:06:44.203584+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shadab-jakati-29655": {
+      "appearances": 59,
+      "retrievedAt": "2026-11-09T23:06:46.245751+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/muthiah-muralidaran-49636": {
+      "appearances": 66,
+      "retrievedAt": "2026-11-09T23:06:48.012617+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/makhaya-ntini-46592": {
+      "appearances": 9,
+      "retrievedAt": "2026-11-09T23:06:49.726950+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sudeep-tyagi-317784": {
+      "appearances": 14,
+      "retrievedAt": "2026-11-09T23:06:52.162347+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/palani-amarnath-290629": {
+      "appearances": 6,
+      "retrievedAt": "2026-11-09T23:06:54.039125+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/napoleon-einstein-279540": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:06:55.957974+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/viraj-kadbe-340834": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:06:57.747326+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/suresh-kumar-313763": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:06:59.776446+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/vvs-laxman-30750": {
+      "appearances": 20,
+      "retrievedAt": "2026-11-09T23:07:02.287823+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/herschelle-gibbs-45224": {
+      "appearances": 36,
+      "retrievedAt": "2026-11-09T23:07:04.855344+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/adam-gilchrist-5390": {
+      "appearances": 80,
+      "retrievedAt": "2026-11-09T23:07:06.605048+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dwaraka-ravi-teja-237701": {
+      "appearances": 32,
+      "retrievedAt": "2026-11-09T23:07:08.829915+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rohit-sharma-34102": {
+      "appearances": 281,
+      "retrievedAt": "2026-11-09T23:07:10.586246+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/chamara-silva-50431": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T23:07:12.883155+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/venugopal-rao-35805": {
+      "appearances": 65,
+      "retrievedAt": "2026-11-09T23:07:14.840904+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/arjun-yadav-36110": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T23:07:16.901266+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shahid-afridi-42639": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T23:07:18.860610+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/scott-styris-38407": {
+      "appearances": 12,
+      "retrievedAt": "2026-11-09T23:07:21.103477+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/andrew-symonds-7702": {
+      "appearances": 39,
+      "retrievedAt": "2026-11-09T23:07:22.881114+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/pragyan-ojha-32130": {
+      "appearances": 92,
+      "retrievedAt": "2026-11-09T23:07:24.693304+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rp-singh-35280": {
+      "appearances": 82,
+      "retrievedAt": "2026-11-09T23:07:26.891695+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/chaminda-vaas-50804": {
+      "appearances": 13,
+      "retrievedAt": "2026-11-09T23:07:29.118973+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/nuwan-zoysa-51050": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T23:07:31.232081+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sanjay-bangar-27225": {
+      "appearances": 12,
+      "retrievedAt": "2026-11-09T23:07:33.639036+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/halhadar-das-236810": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T23:07:35.625653+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/doddapaneni-kalyankrishna-30719": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T23:07:37.688696+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/pm-sarvesh-kumar-327127": {
+      "appearances": 2,
+      "retrievedAt": "2026-11-09T23:07:39.700899+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/paidikalva-vijaykumar-272949": {
+      "appearances": 9,
+      "retrievedAt": "2026-11-09T23:07:41.652109+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/virender-sehwag-35263": {
+      "appearances": 104,
+      "retrievedAt": "2026-11-09T23:07:43.924657+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ab-de-villiers-44936": {
+      "appearances": 184,
+      "retrievedAt": "2026-11-09T23:07:45.740648+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shikhar-dhawan-28235": {
+      "appearances": 222,
+      "retrievedAt": "2026-11-09T23:07:47.858726+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/gautam-gambhir-28763": {
+      "appearances": 154,
+      "retrievedAt": "2026-11-09T23:07:50.118757+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dinesh-karthik-30045": {
+      "appearances": 257,
+      "retrievedAt": "2026-11-09T23:07:52.157421+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/manoj-tiwary-35565": {
+      "appearances": 98,
+      "retrievedAt": "2026-11-09T23:07:54.253967+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/tejashwi-yadav-344286": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:07:56.539193+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rajat-bhatia-26907": {
+      "appearances": 95,
+      "retrievedAt": "2026-11-09T23:07:58.525942+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/tillakaratne-dilshan-48472": {
+      "appearances": 52,
+      "retrievedAt": "2026-11-09T23:08:00.917786+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/farveez-maharoof-49638": {
+      "appearances": 20,
+      "retrievedAt": "2026-11-09T23:08:03.254743+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/yo-mahesh-31732": {
+      "appearances": 18,
+      "retrievedAt": "2026-11-09T23:08:06.197062+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mithun-manhas-31001": {
+      "appearances": 55,
+      "retrievedAt": "2026-11-09T23:08:09.113887+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/yogesh-nagar-317786": {
+      "appearances": 26,
+      "retrievedAt": "2026-11-09T23:08:10.809698+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shoaib-malik-42657": {
+      "appearances": 7,
+      "retrievedAt": "2026-11-09T23:08:12.809162+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mayank-tehlan-35392": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:08:14.853966+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/daniel-vettori-38710": {
+      "appearances": 34,
+      "retrievedAt": "2026-11-09T23:08:17.219689+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/brett-geeves-5472": {
+      "appearances": 2,
+      "retrievedAt": "2026-11-09T23:08:19.481920+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/glenn-mcgrath-6565": {
+      "appearances": 14,
+      "retrievedAt": "2026-11-09T23:08:21.630184+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mohammad-asif-41411": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T23:08:23.826445+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/pradeep-sangwan-279545": {
+      "appearances": 42,
+      "retrievedAt": "2026-11-09T23:08:26.245586+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/yuvraj-singh-36084": {
+      "appearances": 132,
+      "retrievedAt": "2026-11-09T23:08:28.544073+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mahela-jayawardene-49289": {
+      "appearances": 80,
+      "retrievedAt": "2026-11-09T23:08:30.474986+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/karan-goel-28997": {
+      "appearances": 22,
+      "retrievedAt": "2026-11-09T23:08:32.807214+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/simon-katich-6128": {
+      "appearances": 11,
+      "retrievedAt": "2026-11-09T23:08:35.053504+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/uday-kaul-30235": {
+      "appearances": 5,
+      "retrievedAt": "2026-11-09T23:08:37.170198+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shaun-marsh-6683": {
+      "appearances": 71,
+      "retrievedAt": "2026-11-09T23:08:39.633909+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/luke-pomersbach-232284": {
+      "appearances": 17,
+      "retrievedAt": "2026-11-09T23:08:41.901493+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/nitin-saini-274785": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T23:08:43.912258+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/kumar-sangakkara-50710": {
+      "appearances": 71,
+      "retrievedAt": "2026-11-09T23:08:45.753477+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ramnaresh-sarwan-52969": {
+      "appearances": 4,
+      "retrievedAt": "2026-11-09T23:08:47.880420+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sunny-sohal-228943": {
+      "appearances": 22,
+      "retrievedAt": "2026-11-09T23:08:49.750060+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/tanmay-srivastava-35401": {
+      "appearances": 7,
+      "retrievedAt": "2026-11-09T23:08:53.474448+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/piyush-chawla-32966": {
+      "appearances": 192,
+      "retrievedAt": "2026-11-09T23:08:55.704629+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rishi-dhawan-290727": {
+      "appearances": 39,
+      "retrievedAt": "2026-11-09T23:08:58.926786+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/james-hopes-5702": {
+      "appearances": 21,
+      "retrievedAt": "2026-11-09T23:09:01.375010+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/irfan-pathan-32685": {
+      "appearances": 103,
+      "retrievedAt": "2026-11-09T23:09:04.041186+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/brett-lee-6278": {
+      "appearances": 38,
+      "retrievedAt": "2026-11-09T23:09:07.317496+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/kyle-mills-37740": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:09:10.813098+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ramesh-powar-32391": {
+      "appearances": 27,
+      "retrievedAt": "2026-11-09T23:09:12.998269+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sreesanth-34274": {
+      "appearances": 44,
+      "retrievedAt": "2026-11-09T23:09:15.150043+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ajitesh-argal-26432": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:09:17.116949+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/pankaj-dharmani-28067": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T23:09:18.928863+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/gagandeep-singh-28758": {
+      "appearances": 4,
+      "retrievedAt": "2026-11-09T23:09:21.002936+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sahil-kukreja-30144": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:09:23.323337+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/wilkin-mota-31041": {
+      "appearances": 12,
+      "retrievedAt": "2026-11-09T23:09:25.267045+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/vikram-singh-35281": {
+      "appearances": 19,
+      "retrievedAt": "2026-11-09T23:09:27.299960+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sourav-ganguly-28779": {
+      "appearances": 59,
+      "retrievedAt": "2026-11-09T23:09:29.267984+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/aakash-chopra-27639": {
+      "appearances": 7,
+      "retrievedAt": "2026-11-09T23:09:31.414456+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/debabrata-das-328163": {
+      "appearances": 31,
+      "retrievedAt": "2026-11-09T23:09:33.658526+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/brad-hodge-5674": {
+      "appearances": 66,
+      "retrievedAt": "2026-11-09T23:09:36.053657+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/brendon-mccullum-37737": {
+      "appearances": 109,
+      "retrievedAt": "2026-11-09T23:09:38.814432+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ricky-ponting-7133": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T23:09:41.610322+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/wriddhiman-saha-279810": {
+      "appearances": 170,
+      "retrievedAt": "2026-11-09T23:09:43.532385+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/salman-butt-42683": {
+      "appearances": 7,
+      "retrievedAt": "2026-11-09T23:09:45.899616+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/tatenda-taibu-55805": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T23:09:47.898074+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rohan-banerjee-27014": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:09:49.956823+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/cheteshwar-pujara-32540": {
+      "appearances": 30,
+      "retrievedAt": "2026-11-09T23:09:52.403730+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/yashpal-singh-36130": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T23:09:54.347180+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/chris-gayle-51880": {
+      "appearances": 142,
+      "retrievedAt": "2026-11-09T23:09:56.230553+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/david-hussey-5766": {
+      "appearances": 64,
+      "retrievedAt": "2026-11-09T23:09:57.991738+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/iqbal-abdulla-277237": {
+      "appearances": 49,
+      "retrievedAt": "2026-11-09T23:10:00.855514+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/mohammad-hafeez-41434": {
+      "appearances": 8,
+      "retrievedAt": "2026-11-09T23:10:03.233434+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/laxmi-shukla-34019": {
+      "appearances": 47,
+      "retrievedAt": "2026-11-09T23:10:05.244148+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ajit-agarkar-26184": {
+      "appearances": 42,
+      "retrievedAt": "2026-11-09T23:10:07.429888+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ashok-dinda-227712": {
+      "appearances": 78,
+      "retrievedAt": "2026-11-09T23:10:09.527468+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/murali-kartik-30049": {
+      "appearances": 56,
+      "retrievedAt": "2026-11-09T23:10:11.424588+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/siddarth-kaul-326017": {
+      "appearances": 55,
+      "retrievedAt": "2026-11-09T23:10:13.757755+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ajantha-mendis-268739": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T23:10:15.570004+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ishant-sharma-236779": {
+      "appearances": 117,
+      "retrievedAt": "2026-11-09T23:10:17.805131+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shoaib-akhtar-42655": {
+      "appearances": 3,
+      "retrievedAt": "2026-11-09T23:10:20.027705+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/umar-gul-43524": {
+      "appearances": 6,
+      "retrievedAt": "2026-11-09T23:10:22.178357+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ranadeb-bose-27572": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T23:10:24.246406+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/saurasish-lahiri-30740": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:10:26.098407+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sachin-tendulkar-35320": {
+      "appearances": 78,
+      "retrievedAt": "2026-11-09T23:10:27.949099+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/loots-bosman-44098": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:10:30.030174+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ankeet-chavan-337913": {
+      "appearances": 13,
+      "retrievedAt": "2026-11-09T23:10:32.099430+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/siddharth-chitnis-337916": {
+      "appearances": 11,
+      "retrievedAt": "2026-11-09T23:10:34.059318+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/manish-pandey-290630": {
+      "appearances": 180,
+      "retrievedAt": "2026-11-09T23:10:36.188682+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ashwell-prince-46788": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:10:38.302935+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ajinkya-rahane-277916": {
+      "appearances": 212,
+      "retrievedAt": "2026-11-09T23:10:40.455597+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/luke-ronchi-7502": {
+      "appearances": 5,
+      "retrievedAt": "2026-11-09T23:10:42.298624+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/pinal-shah-34282": {
+      "appearances": 16,
+      "retrievedAt": "2026-11-09T23:10:44.269340+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dominic-thornely-8002": {
+      "appearances": 6,
+      "retrievedAt": "2026-11-09T23:10:46.343333+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/saurabh-tiwary-35390": {
+      "appearances": 93,
+      "retrievedAt": "2026-11-09T23:10:48.375204+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/robin-uthappa-35582": {
+      "appearances": 205,
+      "retrievedAt": "2026-11-09T23:10:50.556931+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dwayne-bravo-51439": {
+      "appearances": 161,
+      "retrievedAt": "2026-11-09T23:10:52.797081+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/gaurav-dhiman-28619": {
+      "appearances": null,
+      "retrievedAt": "2026-11-09T23:10:54.799083+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/sanath-jayasuriya-49209": {
+      "appearances": 30,
+      "retrievedAt": "2026-11-09T23:10:56.710690+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/abhishek-nayar-32091": {
+      "appearances": 60,
+      "retrievedAt": "2026-11-09T23:10:58.837097+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/shaun-pollock-46774": {
+      "appearances": 13,
+      "retrievedAt": "2026-11-09T23:11:00.813656+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dwayne-smith-53118": {
+      "appearances": 91,
+      "retrievedAt": "2026-11-09T23:11:03.128143+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dilhara-fernando-48835": {
+      "appearances": 10,
+      "retrievedAt": "2026-11-09T23:11:06.455320+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/harbhajan-singh-29264": {
+      "appearances": 163,
+      "retrievedAt": "2026-11-09T23:11:10.377994+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/dhawal-kulkarni-277955": {
+      "appearances": 92,
+      "retrievedAt": "2026-11-09T23:11:12.831470+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/ashish-nehra-31820": {
+      "appearances": 88,
+      "retrievedAt": "2026-11-09T23:11:15.004355+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/andre-nel-46569": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T23:11:17.446110+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/rajesh-pawar-32305": {
+      "appearances": 1,
+      "retrievedAt": "2026-11-09T23:11:20.659972+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/swapnil-singh-232292": {
+      "appearances": 14,
+      "retrievedAt": "2026-11-09T23:11:22.634401+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/lasith-malinga-49758": {
+      "appearances": 122,
+      "retrievedAt": "2026-11-09T23:11:24.899443+00:00"
+    },
+    "https://www.cricinfo.com/cricketers/musavir-khote-30220": {
+      "appearances": 4,
+      "retrievedAt": "2026-11-09T23:11:28.632516+00:00"
+    }
+  }
+}

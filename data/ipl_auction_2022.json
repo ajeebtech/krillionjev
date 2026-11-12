@@ -1,0 +1,4132 @@
+[
+  {
+    "first": "R.",
+    "last": "Ashwin",
+    "birth": "17/09/1986",
+    "ipl_matches": "167",
+    "teams": "CSK, RSP, KXIP, DC"
+  },
+  {
+    "first": "Trent",
+    "last": "Boult",
+    "birth": "22/07/1989",
+    "ipl_matches": "62",
+    "teams": "SRH, KKR, DD, MI"
+  },
+  {
+    "first": "Pat",
+    "last": "Cummins",
+    "birth": "08/05/1993",
+    "ipl_matches": "37",
+    "teams": "DD, MI, KKR"
+  },
+  {
+    "first": "Quinton",
+    "last": "De Kock",
+    "birth": "17/12/1992",
+    "ipl_matches": "77",
+    "teams": "SRH, DD, RCB, MI"
+  },
+  {
+    "first": "Shikhar",
+    "last": "Dhawan",
+    "birth": "05/12/1985",
+    "ipl_matches": "192",
+    "teams": "DC, MI, SRH, DC"
+  },
+  {
+    "first": "Faf",
+    "last": "Du Plessis",
+    "birth": "13/07/1984",
+    "ipl_matches": "100",
+    "teams": "RPS, CSK"
+  },
+  {
+    "first": "Shreyas",
+    "last": "Iyer",
+    "birth": "06/12/1994",
+    "ipl_matches": "87",
+    "teams": "DC"
+  },
+  {
+    "first": "Kagiso",
+    "last": "Rabada",
+    "birth": "25/05/1995",
+    "ipl_matches": "50",
+    "teams": "DC"
+  },
+  {
+    "first": "Mohammad",
+    "last": "Shami",
+    "birth": "09/03/1990",
+    "ipl_matches": "77",
+    "teams": "DCH, KKR, DD, PBKS"
+  },
+  {
+    "first": "David",
+    "last": "Warner",
+    "birth": "27/10/1986",
+    "ipl_matches": "150",
+    "teams": "DD, SRH"
+  },
+  {
+    "first": "Shimron",
+    "last": "Hetmyer",
+    "birth": "26/12/1996",
+    "ipl_matches": "31",
+    "teams": "RCB, DC"
+  },
+  {
+    "first": "David",
+    "last": "Miller",
+    "birth": "10/06/1989",
+    "ipl_matches": "89",
+    "teams": "KXIP, RR"
+  },
+  {
+    "first": "Devdutt",
+    "last": "Paddikal",
+    "birth": "07/07/2000",
+    "ipl_matches": "29",
+    "teams": "RCB"
+  },
+  {
+    "first": "Manish",
+    "last": "Pandey",
+    "birth": "10/09/1989",
+    "ipl_matches": "MI, RCB, PWI, KKR, SRH",
+    "teams": "SRH"
+  },
+  {
+    "first": "Suresh",
+    "last": "Raina",
+    "birth": "27/11/1986",
+    "ipl_matches": "205",
+    "teams": "CSK, GL"
+  },
+  {
+    "first": "Jason",
+    "last": "Roy",
+    "birth": "21/07/1990",
+    "ipl_matches": "13",
+    "teams": "GL, DC, SRH"
+  },
+  {
+    "first": "Steve",
+    "last": "Smith",
+    "birth": "02/06/1989",
+    "ipl_matches": "103",
+    "teams": "PWI, RPS, RR, DC"
+  },
+  {
+    "first": "Robin",
+    "last": "Uthappa",
+    "birth": "11/11/1985",
+    "ipl_matches": "193",
+    "teams": "MI, PWI, RCB, KKR, RR, CSK"
+  },
+  {
+    "first": "Shakib",
+    "last": "Al Hasan",
+    "birth": "24/03/1987",
+    "ipl_matches": "71",
+    "teams": "SRH, KKR"
+  },
+  {
+    "first": "Dwayne",
+    "last": "Bravo",
+    "birth": "07/10/1983",
+    "ipl_matches": "151",
+    "teams": "MI, GL, CSK"
+  },
+  {
+    "first": "Wanindu",
+    "last": "Hasaranga",
+    "birth": "29/07/1997",
+    "ipl_matches": "2",
+    "teams": "RCB"
+  },
+  {
+    "first": "Jason",
+    "last": "Holder",
+    "birth": "05/11/1991",
+    "ipl_matches": "26",
+    "teams": "CSK, KKR, SRH"
+  },
+  {
+    "first": "Mitchell",
+    "last": "Marsh",
+    "birth": "20/10/1991",
+    "ipl_matches": "21",
+    "teams": "DCH, PWI, RPS, SRH"
+  },
+  {
+    "first": "Mohammad",
+    "last": "Nabi",
+    "birth": "01/01/1985",
+    "ipl_matches": "17",
+    "teams": "SRH"
+  },
+  {
+    "first": "Krunal",
+    "last": "Pandya",
+    "birth": "24/03/1991",
+    "ipl_matches": "84",
+    "teams": "MI"
+  },
+  {
+    "first": "Harshal",
+    "last": "Patel",
+    "birth": "23/11/1990",
+    "ipl_matches": "63",
+    "teams": "DC, RCB"
+  },
+  {
+    "first": "Nitish",
+    "last": "Rana",
+    "birth": "27/12/1993",
+    "ipl_matches": "77",
+    "teams": "MI, KKR"
+  },
+  {
+    "first": "Washington",
+    "last": "Sundar",
+    "birth": "05/10/1999",
+    "ipl_matches": "42",
+    "teams": "RCB"
+  },
+  {
+    "first": "Jonny",
+    "last": "Bairstow",
+    "birth": "26/09/1989",
+    "ipl_matches": "28",
+    "teams": "SRH"
+  },
+  {
+    "first": "Sam",
+    "last": "Billings",
+    "birth": "15/06/1991",
+    "ipl_matches": "22",
+    "teams": "CSK, DC"
+  },
+  {
+    "first": "Dinesh",
+    "last": "Karthik",
+    "birth": "01/06/1985",
+    "ipl_matches": "213",
+    "teams": "KXIP, MI, DD, RCB, GL, KKR"
+  },
+  {
+    "first": "Ishan",
+    "last": "Kishan",
+    "birth": "18/07/1998",
+    "ipl_matches": "61",
+    "teams": "GL, MI"
+  },
+  {
+    "first": "Nicholas",
+    "last": "Pooran",
+    "birth": "02/10/1995",
+    "ipl_matches": "33",
+    "teams": "MI, PBKS"
+  },
+  {
+    "first": "Ambati",
+    "last": "Rayudu",
+    "birth": "23/09/1985",
+    "ipl_matches": "175",
+    "teams": "MI, CSK"
+  },
+  {
+    "first": "Wriddhiman",
+    "last": "Saha",
+    "birth": "24/10/1984",
+    "ipl_matches": "133",
+    "teams": "KKR, CSK, KXIP, SRH"
+  },
+  {
+    "first": "Matthew",
+    "last": "Wade",
+    "birth": "26/12/1987",
+    "ipl_matches": "3",
+    "teams": "DD"
+  },
+  {
+    "first": "Deepak",
+    "last": "Chahar",
+    "birth": "07/08/1992",
+    "ipl_matches": "63",
+    "teams": "RPS, CSK"
+  },
+  {
+    "first": "Lockie",
+    "last": "Ferguson",
+    "birth": "13/06/1991",
+    "ipl_matches": "22",
+    "teams": "RPS, KKR"
+  },
+  {
+    "first": "Josh",
+    "last": "Hazlewood",
+    "birth": "08/01/1991",
+    "ipl_matches": "12",
+    "teams": "CSK"
+  },
+  {
+    "first": "Prasidh",
+    "last": "Krishna",
+    "birth": "19/02/1996",
+    "ipl_matches": "34",
+    "teams": "KKR"
+  },
+  {
+    "first": "Bhuvneshwar",
+    "last": "Kumar",
+    "birth": "05/02/1990",
+    "ipl_matches": "132",
+    "teams": "PWI, SRH"
+  },
+  {
+    "first": "T.",
+    "last": "Natarajan",
+    "birth": "27/05/1991",
+    "ipl_matches": "24",
+    "teams": "KXIP, RPS, SRH"
+  },
+  {
+    "first": "Mustafizur",
+    "last": "Rahman",
+    "birth": "06/09/1995",
+    "ipl_matches": "38",
+    "teams": "SRH, MI, RR"
+  },
+  {
+    "first": "Shardul",
+    "last": "Thakur",
+    "birth": "16/10/1991",
+    "ipl_matches": "61",
+    "teams": "KXIP, RPS, CSK"
+  },
+  {
+    "first": "Mark",
+    "last": "Wood",
+    "birth": "11/01/1990",
+    "ipl_matches": "1",
+    "teams": "CSK"
+  },
+  {
+    "first": "Umesh",
+    "last": "Yadav",
+    "birth": "25/10/1987",
+    "ipl_matches": "121",
+    "teams": "DD, KKR, RCB, DC"
+  },
+  {
+    "first": "Yuzvendra",
+    "last": "Chahal",
+    "birth": "23/07/1990",
+    "ipl_matches": "114",
+    "teams": "MI, RCB"
+  },
+  {
+    "first": "Rahul",
+    "last": "Chahar",
+    "birth": "04/08/1999",
+    "ipl_matches": "42",
+    "teams": "RPS, MI"
+  },
+  {
+    "first": "Amit",
+    "last": "Mishra",
+    "birth": "24/11/1982",
+    "ipl_matches": "154",
+    "teams": "DCH, SRH, DC"
+  },
+  {
+    "first": "Adil",
+    "last": "Rashid",
+    "birth": "17/02/1988",
+    "ipl_matches": "1",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Imran",
+    "last": "Tahir",
+    "birth": "27/03/1979",
+    "ipl_matches": "59",
+    "teams": "DD, RPS, CSK"
+  },
+  {
+    "first": "Kuldeep",
+    "last": "Yadav",
+    "birth": "14/11/1994",
+    "ipl_matches": "45",
+    "teams": "KKR"
+  },
+  {
+    "first": "Mujeeb",
+    "last": "Zadran",
+    "birth": "28/03/2001",
+    "ipl_matches": "19",
+    "teams": "KXIP, SRH"
+  },
+  {
+    "first": "Adam",
+    "last": "Zampa",
+    "birth": "31/12/1992",
+    "ipl_matches": "14",
+    "teams": "RPS, RCB"
+  },
+  {
+    "first": "Dewald",
+    "last": "Brevvis",
+    "birth": "29/04/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Priyam",
+    "last": "Garg",
+    "birth": "30/11/2000",
+    "ipl_matches": "",
+    "teams": "SRH"
+  },
+  {
+    "first": "Ashwin",
+    "last": "Hebbar",
+    "birth": "15/11/1995",
+    "ipl_matches": "",
+    "teams": "CSK"
+  },
+  {
+    "first": "C.Hari",
+    "last": "Nishaanth",
+    "birth": "16/08/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rajat",
+    "last": "Patidar",
+    "birth": "01/06/1993",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Abhinav",
+    "last": "Sadarangani",
+    "birth": "16/09/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Anmolpreet",
+    "last": "Singh",
+    "birth": "28/03/1998",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "Rahul",
+    "last": "Tripathi",
+    "birth": "02/03/1991",
+    "ipl_matches": "",
+    "teams": "RPS, RR, KKR"
+  },
+  {
+    "first": "Shahbaz",
+    "last": "Ahmed",
+    "birth": "11/12/1994",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Harpreet",
+    "last": "Brar",
+    "birth": "16/09/1995",
+    "ipl_matches": "",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Deepak",
+    "last": "Hooda",
+    "birth": "19/04/1995",
+    "ipl_matches": "",
+    "teams": "RR, SRH, PBKS"
+  },
+  {
+    "first": "Sarfaraz",
+    "last": "Khan",
+    "birth": "22/10/1997",
+    "ipl_matches": "",
+    "teams": "RCB, PBKS"
+  },
+  {
+    "first": "Shahrukh",
+    "last": "Khan",
+    "birth": "27/05/1995",
+    "ipl_matches": "11",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Shivam",
+    "last": "Mavi",
+    "birth": "26/11/1998",
+    "ipl_matches": "26",
+    "teams": "KKR"
+  },
+  {
+    "first": "Kamlesh",
+    "last": "Nagarkoti",
+    "birth": "28/12/1999",
+    "ipl_matches": "11",
+    "teams": "KKR"
+  },
+  {
+    "first": "Riyan",
+    "last": "Parag",
+    "birth": "10/11/2001",
+    "ipl_matches": "30",
+    "teams": "RR"
+  },
+  {
+    "first": "Abhishek",
+    "last": "Sharma",
+    "birth": "04/09/2000",
+    "ipl_matches": "22",
+    "teams": "SRH"
+  },
+  {
+    "first": "Rahul",
+    "last": "Tewatia",
+    "birth": "20/05/1993",
+    "ipl_matches": "48",
+    "teams": "KXIP,DC, RR"
+  },
+  {
+    "first": "Mohammed",
+    "last": "Azharuddeen",
+    "birth": "22/03/1994",
+    "ipl_matches": "0",
+    "teams": "RCB"
+  },
+  {
+    "first": "K.S.",
+    "last": "Bharat",
+    "birth": "03/10/1993",
+    "ipl_matches": "8",
+    "teams": "DD, RCB"
+  },
+  {
+    "first": "Sheldon",
+    "last": "Jackson",
+    "birth": "27/09/1986",
+    "ipl_matches": "4",
+    "teams": "KKR"
+  },
+  {
+    "first": "N.",
+    "last": "Jagadeesan",
+    "birth": "24/12/1995",
+    "ipl_matches": "5",
+    "teams": "CSK"
+  },
+  {
+    "first": "Anuj",
+    "last": "Rawat",
+    "birth": "17/10/1999",
+    "ipl_matches": "2",
+    "teams": "RR"
+  },
+  {
+    "first": "Jitesh",
+    "last": "Sharma",
+    "birth": "22/10/1993",
+    "ipl_matches": "0",
+    "teams": "MI"
+  },
+  {
+    "first": "Prabhsimran",
+    "last": "Singh",
+    "birth": "10/08/2000",
+    "ipl_matches": "5",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Vishnu",
+    "last": "Solanki",
+    "birth": "15/10/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vishnu",
+    "last": "Vinod",
+    "birth": "02/12/1993",
+    "ipl_matches": "3",
+    "teams": "RCB, DC"
+  },
+  {
+    "first": "K.M.",
+    "last": "Asif",
+    "birth": "24/07/1993",
+    "ipl_matches": "3",
+    "teams": "CSK"
+  },
+  {
+    "first": "Akash",
+    "last": "Deep",
+    "birth": "15/12/1996",
+    "ipl_matches": "0",
+    "teams": "RCB"
+  },
+  {
+    "first": "Tushar",
+    "last": "Deshpande",
+    "birth": "15/05/1995",
+    "ipl_matches": "5",
+    "teams": "DC"
+  },
+  {
+    "first": "Avesh",
+    "last": "Khan",
+    "birth": "13/12/1996",
+    "ipl_matches": "25",
+    "teams": "DC"
+  },
+  {
+    "first": "Ishan",
+    "last": "Porel",
+    "birth": "05/09/1998",
+    "ipl_matches": "1",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Ankit Singh",
+    "last": "Rajpoot",
+    "birth": "04/12/1993",
+    "ipl_matches": "29",
+    "teams": "CSK, KKR, RR, KXIP"
+  },
+  {
+    "first": "Basil",
+    "last": "Thampi",
+    "birth": "11/09/1993",
+    "ipl_matches": "20",
+    "teams": "GL, SRH"
+  },
+  {
+    "first": "Kartik",
+    "last": "Tyagi",
+    "birth": "08/11/2000",
+    "ipl_matches": "14",
+    "teams": "RR"
+  },
+  {
+    "first": "Noor",
+    "last": "Ahmad",
+    "birth": "03/01/2005",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Murugan",
+    "last": "Ashwin",
+    "birth": "08/09/1990",
+    "ipl_matches": "34",
+    "teams": "RPS, DD, RCB, PBKS"
+  },
+  {
+    "first": "K.C.",
+    "last": "Cariappa",
+    "birth": "13/04/1994",
+    "ipl_matches": "11",
+    "teams": "KKR, KXIP, RR"
+  },
+  {
+    "first": "Shreyas",
+    "last": "Gopal",
+    "birth": "04/09/1993",
+    "ipl_matches": "48",
+    "teams": "MI, RR"
+  },
+  {
+    "first": "Sandeep",
+    "last": "Lamicchhane",
+    "birth": "02/08/2000",
+    "ipl_matches": "9",
+    "teams": "DC"
+  },
+  {
+    "first": "R.",
+    "last": "Sai Kishore",
+    "birth": "06/11/1996",
+    "ipl_matches": "0",
+    "teams": "CSK"
+  },
+  {
+    "first": "Siddharth",
+    "last": "Kaul",
+    "birth": "03/07/1998",
+    "ipl_matches": "0",
+    "teams": "KKR, DC"
+  },
+  {
+    "first": "Jagadeesha",
+    "last": "Suchith",
+    "birth": "16/01/1994",
+    "ipl_matches": "17",
+    "teams": "MI, DC, KXIP, SRH"
+  },
+  {
+    "first": "Aaron",
+    "last": "Finch",
+    "birth": "17/11/1986",
+    "ipl_matches": "87",
+    "teams": "RR, DD, PWI, SRH, MI, GL, KXIP, RCB"
+  },
+  {
+    "first": "Marcus",
+    "last": "Labuschagne",
+    "birth": "22/06/1994",
+    "ipl_matches": "6",
+    "teams": ""
+  },
+  {
+    "first": "Dawid",
+    "last": "Malan",
+    "birth": "03/09/1987",
+    "ipl_matches": "1",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Aiden",
+    "last": "Markram",
+    "birth": "04/10/1994",
+    "ipl_matches": "6",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Eoin",
+    "last": "Morgan",
+    "birth": "10/09/1986",
+    "ipl_matches": "83",
+    "teams": "RCB, SRH, KXIP, KKR"
+  },
+  {
+    "first": "Cheteshwar",
+    "last": "Pujara",
+    "birth": "25/01/1988",
+    "ipl_matches": "30",
+    "teams": "KKR, RCB, KXIP, CSK"
+  },
+  {
+    "first": "Ajinkya",
+    "last": "Rahane",
+    "birth": "06/06/1988",
+    "ipl_matches": "151",
+    "teams": "MI, RPS, RR, DC"
+  },
+  {
+    "first": "Mandeep",
+    "last": "Singh",
+    "birth": "18/12/1991",
+    "ipl_matches": "105",
+    "teams": "RCB, PBKS"
+  },
+  {
+    "first": "Saurabh",
+    "last": "Tiwary",
+    "birth": "30/12/1989",
+    "ipl_matches": "",
+    "teams": "RCB, DD, RPS, MI"
+  },
+  {
+    "first": "Dominic",
+    "last": "Drakes",
+    "birth": "06/02/1998",
+    "ipl_matches": "",
+    "teams": "CSK"
+  },
+  {
+    "first": "Shivam",
+    "last": "Dube",
+    "birth": "26/06/1993",
+    "ipl_matches": "24",
+    "teams": "RCB, RR"
+  },
+  {
+    "first": "K.",
+    "last": "Gowtham",
+    "birth": "20/10/1988",
+    "ipl_matches": "24",
+    "teams": "MI, RR, KXIP, CSK"
+  },
+  {
+    "first": "Marco",
+    "last": "Jansen",
+    "birth": "01/05/2000",
+    "ipl_matches": "2",
+    "teams": "MI"
+  },
+  {
+    "first": "Chris",
+    "last": "Jordan",
+    "birth": "04/10/1988",
+    "ipl_matches": "24",
+    "teams": "RCB, SRH, PBKS"
+  },
+  {
+    "first": "Liam",
+    "last": "Livingstone",
+    "birth": "04/08/1993",
+    "ipl_matches": "9",
+    "teams": "RR"
+  },
+  {
+    "first": "James",
+    "last": "Neesham",
+    "birth": "17/09/1990",
+    "ipl_matches": "12",
+    "teams": "DD, KXIP, MI"
+  },
+  {
+    "first": "Vijay",
+    "last": "Shankar",
+    "birth": "26/01/1991",
+    "ipl_matches": "47",
+    "teams": "CSK, DD, SRH"
+  },
+  {
+    "first": "Odean",
+    "last": "Smith",
+    "birth": "01/11/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jayant",
+    "last": "Yadav",
+    "birth": "22/01/1990",
+    "ipl_matches": "19",
+    "teams": "DD, MI"
+  },
+  {
+    "first": "Syed Khaleel",
+    "last": "Ahmed",
+    "birth": "05/12/1997",
+    "ipl_matches": "24",
+    "teams": "DD, SRH"
+  },
+  {
+    "first": "Dushmanta",
+    "last": "Chameera",
+    "birth": "11/01/1992",
+    "ipl_matches": "0",
+    "teams": "RR"
+  },
+  {
+    "first": "Sheldon",
+    "last": "Cottrell",
+    "birth": "19/08/1989",
+    "ipl_matches": "6",
+    "teams": "KXIP"
+  },
+  {
+    "first": "Nathan",
+    "last": "Coulter-Nile",
+    "birth": "11/10/1987",
+    "ipl_matches": "38",
+    "teams": "DD, KKR, RCB, MI"
+  },
+  {
+    "first": "Lungisani",
+    "last": "Ngidi",
+    "birth": "29/03/1996",
+    "ipl_matches": "14",
+    "teams": "CSK"
+  },
+  {
+    "first": "Navdeep",
+    "last": "Saini",
+    "birth": "23/11/1992",
+    "ipl_matches": "28",
+    "teams": "DD, RCB"
+  },
+  {
+    "first": "Chetan",
+    "last": "Sakariya",
+    "birth": "28/02/1998",
+    "ipl_matches": "14",
+    "teams": "RR"
+  },
+  {
+    "first": "Ishant",
+    "last": "Sharma",
+    "birth": "02/09/1988",
+    "ipl_matches": "93",
+    "teams": "KKR, DCH, SRH, RPS, KXIP, DC"
+  },
+  {
+    "first": "Sandeep",
+    "last": "Sharma",
+    "birth": "18/05/1993",
+    "ipl_matches": "99",
+    "teams": "KXIP, SRH"
+  },
+  {
+    "first": "Jaydev",
+    "last": "Unadkat",
+    "birth": "18/10/1991",
+    "ipl_matches": "10",
+    "teams": "KKR, RCB, DD, RPS, RR"
+  },
+  {
+    "first": "Quais",
+    "last": "Ahmad",
+    "birth": "15/08/2000",
+    "ipl_matches": "7",
+    "teams": ""
+  },
+  {
+    "first": "Pravin",
+    "last": "Chawla",
+    "birth": "24/12/1988",
+    "ipl_matches": "165",
+    "teams": "KXIP, KKR, CSK, MI"
+  },
+  {
+    "first": "Mayank",
+    "last": "Markande",
+    "birth": "11/11/1997",
+    "ipl_matches": "18",
+    "teams": "MI, RR"
+  },
+  {
+    "first": "Shahbaz",
+    "last": "Nadeem",
+    "birth": "12/08/1989",
+    "ipl_matches": "72",
+    "teams": "DD, SRH"
+  },
+  {
+    "first": "Tabraiz",
+    "last": "Shamsi",
+    "birth": "18/02/1990",
+    "ipl_matches": "5",
+    "teams": "RCB, RR"
+  },
+  {
+    "first": "Karn",
+    "last": "Sharma",
+    "birth": "23/10/1987",
+    "ipl_matches": "68",
+    "teams": "RCB, SRH, MI, CSK"
+  },
+  {
+    "first": "Ish",
+    "last": "Sodhi",
+    "birth": "31/10/1992",
+    "ipl_matches": "8",
+    "teams": "RR"
+  },
+  {
+    "first": "Mahesh",
+    "last": "Theekshana",
+    "birth": "01/08/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sachin",
+    "last": "Baby",
+    "birth": "18/12/1988",
+    "ipl_matches": "19",
+    "teams": "RR, SRH, RCB"
+  },
+  {
+    "first": "Ricky",
+    "last": "Bhui",
+    "birth": "29/09/1996",
+    "ipl_matches": "2",
+    "teams": "SRH"
+  },
+  {
+    "first": "Himanshu",
+    "last": "Rana",
+    "birth": "01/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Harnoor",
+    "last": "Singh",
+    "birth": "30/01/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Himmat",
+    "last": "Singh",
+    "birth": "08/11/1996",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Rinku",
+    "last": "Singh",
+    "birth": "12/10/1997",
+    "ipl_matches": "",
+    "teams": "KKR"
+  },
+  {
+    "first": "Virat",
+    "last": "Singh",
+    "birth": "08/12/1997",
+    "ipl_matches": "",
+    "teams": "SRH"
+  },
+  {
+    "first": "Manan",
+    "last": "Vohra",
+    "birth": "18/07/1993",
+    "ipl_matches": "",
+    "teams": "KXIP, RCB, RR"
+  },
+  {
+    "first": "Raj Angad",
+    "last": "Bawa",
+    "birth": "12/11/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Yash",
+    "last": "Dhull",
+    "birth": "11/11/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rajvardhan",
+    "last": "Hangargekar",
+    "birth": "10/11/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mahipal",
+    "last": "Lomror",
+    "birth": "16/11/1999",
+    "ipl_matches": "",
+    "teams": "RR"
+  },
+  {
+    "first": "Darshan",
+    "last": "Nalkande",
+    "birth": "04/10/1998",
+    "ipl_matches": "",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Vicky",
+    "last": "Ostwal",
+    "birth": "01/09/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ripal",
+    "last": "Patel",
+    "birth": "28/09/1995",
+    "ipl_matches": "",
+    "teams": "DC"
+  },
+  {
+    "first": "Anukul",
+    "last": "Roy",
+    "birth": "30/11/1998",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "N. Tilak",
+    "last": "Varma",
+    "birth": "08/11/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Lalit",
+    "last": "Yadav",
+    "birth": "03/01/1997",
+    "ipl_matches": "",
+    "teams": "DC"
+  },
+  {
+    "first": "Sanjay",
+    "last": "Yadav",
+    "birth": "10/05/1995",
+    "ipl_matches": "",
+    "teams": "KKR, SRH"
+  },
+  {
+    "first": "Yash",
+    "last": "Dayal",
+    "birth": "13/12/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Arzan",
+    "last": "Nagwaswalla",
+    "birth": "17/10/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kuldeep",
+    "last": "Sen",
+    "birth": "22/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akash",
+    "last": "Singh",
+    "birth": "26/04/2002",
+    "ipl_matches": "",
+    "teams": "RR"
+  },
+  {
+    "first": "Simarjeet",
+    "last": "Singh",
+    "birth": "17/01/1998",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "Yash",
+    "last": "Thakur",
+    "birth": "28/12/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vasu",
+    "last": "Vats",
+    "birth": "08/09/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mujtaba",
+    "last": "Yousuf",
+    "birth": "07/06/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Finn",
+    "last": "Allen",
+    "birth": "22/04/1999",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Devon",
+    "last": "Conway",
+    "birth": "08/07/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Alex",
+    "last": "Hales",
+    "birth": "03/01/1989",
+    "ipl_matches": "6",
+    "teams": "MI, SRH"
+  },
+  {
+    "first": "Evin",
+    "last": "Lewis",
+    "birth": "27/12/1991",
+    "ipl_matches": "21",
+    "teams": "MI, RR"
+  },
+  {
+    "first": "Chris",
+    "last": "Lynn",
+    "birth": "10/04/1990",
+    "ipl_matches": "42",
+    "teams": "DCH, KKR, MI"
+  },
+  {
+    "first": "Karun",
+    "last": "Nair",
+    "birth": "06/12/1991",
+    "ipl_matches": "",
+    "teams": "RCB, RR, DD, KXIP, KKR"
+  },
+  {
+    "first": "Rovman",
+    "last": "Powell",
+    "birth": "23/07/1993",
+    "ipl_matches": "0",
+    "teams": "KKR"
+  },
+  {
+    "first": "Rassie",
+    "last": "Van Der Dussen",
+    "birth": "07/02/1989",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Najibullah",
+    "last": "Zadran",
+    "birth": "28/02/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jofra",
+    "last": "Archer",
+    "birth": "01/04/1995",
+    "ipl_matches": "35",
+    "teams": "RR"
+  },
+  {
+    "first": "Charith",
+    "last": "Asalanka",
+    "birth": "29/06/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rishi",
+    "last": "Dhawan",
+    "birth": "19/02/1990",
+    "ipl_matches": "26",
+    "teams": "MI, KXIP, KKR"
+  },
+  {
+    "first": "George",
+    "last": "Garton",
+    "birth": "15/04/1997",
+    "ipl_matches": "5",
+    "teams": "RCB"
+  },
+  {
+    "first": "Daryl",
+    "last": "Mitchell",
+    "birth": "20/05/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dwaine",
+    "last": "Pretorius",
+    "birth": "29/03/1989",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sherfane",
+    "last": "Rutherford",
+    "birth": "15/08/1998",
+    "ipl_matches": "7",
+    "teams": "DC, MI"
+  },
+  {
+    "first": "Daniel",
+    "last": "Sams",
+    "birth": "27/10/1992",
+    "ipl_matches": "",
+    "teams": "DC, RCB"
+  },
+  {
+    "first": "Mitchell",
+    "last": "Santner",
+    "birth": "05/02/1992",
+    "ipl_matches": "6",
+    "teams": "CSK"
+  },
+  {
+    "first": "Romario",
+    "last": "Shepherd",
+    "birth": "26/11/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Litton",
+    "last": "Das",
+    "birth": "13/10/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Niroshan",
+    "last": "Dickwella",
+    "birth": "23/06/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Andre",
+    "last": "Fletcher",
+    "birth": "28/11/1987",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rahmanullah",
+    "last": "Gurbaz",
+    "birth": "28/11/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shai",
+    "last": "Hope",
+    "birth": "10/11/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Heinrich",
+    "last": "Klaasen",
+    "birth": "30/07/1991",
+    "ipl_matches": "7",
+    "teams": "RR, RCB"
+  },
+  {
+    "first": "Ben",
+    "last": "Mcdermott",
+    "birth": "12/12/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kusal",
+    "last": "Mendis",
+    "birth": "02/02/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kusal",
+    "last": "Perera",
+    "birth": "17/08/1990",
+    "ipl_matches": "2",
+    "teams": "RR"
+  },
+  {
+    "first": "Joshua",
+    "last": "Philippe",
+    "birth": "01/06/1997",
+    "ipl_matches": "5",
+    "teams": "RCB"
+  },
+  {
+    "first": "Glenn",
+    "last": "Phillips",
+    "birth": "06/12/1996",
+    "ipl_matches": "3",
+    "teams": ""
+  },
+  {
+    "first": "Tim",
+    "last": "Seifert",
+    "birth": "14/12/1994",
+    "ipl_matches": "1",
+    "teams": "KKR"
+  },
+  {
+    "first": "Jason",
+    "last": "Behrendorff",
+    "birth": "20/04/1990",
+    "ipl_matches": "5",
+    "teams": "MI, CSK"
+  },
+  {
+    "first": "Nathan",
+    "last": "Ellis",
+    "birth": "22/09/1994",
+    "ipl_matches": "",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Fazalhaq",
+    "last": "Farooqi",
+    "birth": "22/09/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Siddharth",
+    "last": "Kaul",
+    "birth": "19/05/1990",
+    "ipl_matches": "54",
+    "teams": "KKR, DD, SRH"
+  },
+  {
+    "first": "Obed",
+    "last": "McCoy",
+    "birth": "04/01/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tymal",
+    "last": "Mills",
+    "birth": "12/08/1992",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Adam",
+    "last": "Milne",
+    "birth": "13/04/1992",
+    "ipl_matches": "9",
+    "teams": "RCB, MI"
+  },
+  {
+    "first": "Reece",
+    "last": "Topley",
+    "birth": "21/02/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Andrew",
+    "last": "Tye",
+    "birth": "12/12/1986",
+    "ipl_matches": "27",
+    "teams": "GL, KXIP, RR"
+  },
+  {
+    "first": "Sandeep",
+    "last": "Warrier",
+    "birth": "04/04/1991",
+    "ipl_matches": "5",
+    "teams": "KKR"
+  },
+  {
+    "first": "Todd",
+    "last": "Astle",
+    "birth": "24/09/1986",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akila",
+    "last": "Dhananjaya",
+    "birth": "04/10/1993",
+    "ipl_matches": "1",
+    "teams": "MI"
+  },
+  {
+    "first": "Zahir",
+    "last": "Khan",
+    "birth": "20/12/1998",
+    "ipl_matches": "0",
+    "teams": "RR"
+  },
+  {
+    "first": "Keshav",
+    "last": "Maharaj",
+    "birth": "07/02/1990",
+    "ipl_matches": "8",
+    "teams": ""
+  },
+  {
+    "first": "Waqar",
+    "last": "Salamkheil",
+    "birth": "02/10/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rahul",
+    "last": "Sharma",
+    "birth": "30/11/1986",
+    "ipl_matches": "44",
+    "teams": "DCH, PWI, DD, CSK"
+  },
+  {
+    "first": "Hayden",
+    "last": "Walsh",
+    "birth": "23/04/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanmay",
+    "last": "Agarwal",
+    "birth": "03/05/1995",
+    "ipl_matches": "0",
+    "teams": "SRH"
+  },
+  {
+    "first": "Shivam",
+    "last": "Chauhan",
+    "birth": "14/10/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nikhil",
+    "last": "Gangta",
+    "birth": "01/09/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rohan",
+    "last": "Kadam",
+    "birth": "05/07/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tom",
+    "last": "Kohler-Cadmore",
+    "birth": "19/08/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Priyank",
+    "last": "Panchal",
+    "birth": "09/04/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sameer",
+    "last": "Rizvi",
+    "birth": "06/12/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ritwik",
+    "last": "Roy Chowdhury",
+    "birth": "20/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Subhranshu",
+    "last": "Senapati",
+    "birth": "30/12/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Apoorv",
+    "last": "Wankhade",
+    "birth": "14/03/1992",
+    "ipl_matches": "",
+    "teams": "MI, KKR"
+  },
+  {
+    "first": "Atharva",
+    "last": "Ankolekar",
+    "birth": "26/09/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tim",
+    "last": "David",
+    "birth": "16/03/1996",
+    "ipl_matches": "1",
+    "teams": "RCB"
+  },
+  {
+    "first": "Pravin",
+    "last": "Dubey",
+    "birth": "01/07/1993",
+    "ipl_matches": "3",
+    "teams": "RCB, DC"
+  },
+  {
+    "first": "Prerak",
+    "last": "Mankad",
+    "birth": "23/04/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Suyash",
+    "last": "Prabhudessai",
+    "birth": "06/12/1997",
+    "ipl_matches": "0",
+    "teams": "RCB"
+  },
+  {
+    "first": "Ramandeep",
+    "last": "Singh",
+    "birth": "13/04/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "B. Sai",
+    "last": "Sudharsan",
+    "birth": "15/10/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Atharva",
+    "last": "Taide",
+    "birth": "26/04/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanay",
+    "last": "Thyagarajan",
+    "birth": "15/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ankush",
+    "last": "Bains",
+    "birth": "16/12/1995",
+    "ipl_matches": "0",
+    "teams": "RPS, DC"
+  },
+  {
+    "first": "Prashant",
+    "last": "Chopra",
+    "birth": "07/10/1992",
+    "ipl_matches": "2",
+    "teams": "RR"
+  },
+  {
+    "first": "Kedar",
+    "last": "Devdhar",
+    "birth": "14/12/1989",
+    "ipl_matches": "1",
+    "teams": "DCH"
+  },
+  {
+    "first": "Shreevats",
+    "last": "Goswami",
+    "birth": "18/05/1989",
+    "ipl_matches": "31",
+    "teams": "RCB, KKR, RR, SRH"
+  },
+  {
+    "first": "Dhruv",
+    "last": "Jurel",
+    "birth": "21/01/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aryan",
+    "last": "Juyal",
+    "birth": "11/11/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akshdeep",
+    "last": "Nath",
+    "birth": "10/05/1993",
+    "ipl_matches": "",
+    "teams": "GL, KXIP, RCB"
+  },
+  {
+    "first": "Luvnith",
+    "last": "Sisodia",
+    "birth": "15/01/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aditya",
+    "last": "Tare",
+    "birth": "07/11/1987",
+    "ipl_matches": "35",
+    "teams": "SRH,DD, MI"
+  },
+  {
+    "first": "Upendra Singh",
+    "last": "Yadav",
+    "birth": "08/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vaibhav",
+    "last": "Arora",
+    "birth": "14/12/1997",
+    "ipl_matches": "0",
+    "teams": "KKR"
+  },
+  {
+    "first": "Mukesh",
+    "last": "Choudhary",
+    "birth": "06/07/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rasikh",
+    "last": "Dar",
+    "birth": "05/04/2000",
+    "ipl_matches": "1",
+    "teams": "MI"
+  },
+  {
+    "first": "Ben",
+    "last": "Dwarshuis",
+    "birth": "23/06/1994",
+    "ipl_matches": "0",
+    "teams": "KXIP, DC"
+  },
+  {
+    "first": "Pankaj",
+    "last": "Jaiswal",
+    "birth": "20/09/1995",
+    "ipl_matches": "0",
+    "teams": "MI"
+  },
+  {
+    "first": "Mohsin",
+    "last": "Khan",
+    "birth": "15/07/1998",
+    "ipl_matches": "0",
+    "teams": "MI"
+  },
+  {
+    "first": "Lukman Hussain",
+    "last": "Meriwala",
+    "birth": "11/12/1991",
+    "ipl_matches": "1",
+    "teams": "DC"
+  },
+  {
+    "first": "Chama",
+    "last": "Milind",
+    "birth": "04/09/1994",
+    "ipl_matches": "0",
+    "teams": "SRH, DD"
+  },
+  {
+    "first": "Vyshak",
+    "last": "Vijay Kumar",
+    "birth": "31/01/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mayank",
+    "last": "Yadav",
+    "birth": "17/06/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Zeeshan",
+    "last": "Ansari",
+    "birth": "16/12/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tejas",
+    "last": "Baroka",
+    "birth": "01/02/1996",
+    "ipl_matches": "1",
+    "teams": "GL"
+  },
+  {
+    "first": "Yuvraj",
+    "last": "Chudasama",
+    "birth": "23/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dharamendrasinh",
+    "last": "Jadeja",
+    "birth": "04/08/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Khrievitso",
+    "last": "Kense",
+    "birth": "06/03/2004",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Prince Balwant",
+    "last": "Rai",
+    "birth": "05/05/1999",
+    "ipl_matches": "0",
+    "teams": "MI"
+  },
+  {
+    "first": "Pardeep",
+    "last": "Sahu",
+    "birth": "21/08/1985",
+    "ipl_matches": "5",
+    "teams": "RR, KXIP"
+  },
+  {
+    "first": "Jalaj",
+    "last": "Saxena",
+    "birth": "15/12/1986",
+    "ipl_matches": "1",
+    "teams": "MI, RCB, DC,PBKS"
+  },
+  {
+    "first": "Prashant",
+    "last": "Solanki",
+    "birth": "22/02/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Midhun",
+    "last": "Sudhesan",
+    "birth": "07/10/1994",
+    "ipl_matches": "1",
+    "teams": "RR"
+  },
+  {
+    "first": "Martin",
+    "last": "Guptill",
+    "birth": "30/09/1986",
+    "ipl_matches": "13",
+    "teams": "MI,KXIP,SRH"
+  },
+  {
+    "first": "Usman",
+    "last": "Khawaja",
+    "birth": "18/12/1986",
+    "ipl_matches": "6",
+    "teams": "RPS"
+  },
+  {
+    "first": "Brandon",
+    "last": "King",
+    "birth": "16/12/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Janneman",
+    "last": "Malan",
+    "birth": "18/04/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Bhanuka",
+    "last": "Rajapaksa",
+    "birth": "24/10/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rilee",
+    "last": "Rossouw",
+    "birth": "09/10/1989",
+    "ipl_matches": "5",
+    "teams": "RCB"
+  },
+  {
+    "first": "Paul",
+    "last": "Stirling",
+    "birth": "03/09/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hanuma",
+    "last": "Vihari",
+    "birth": "13/10/1993",
+    "ipl_matches": "24",
+    "teams": "SRH, DC"
+  },
+  {
+    "first": "James",
+    "last": "Vince",
+    "birth": "14/03/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hazratullah",
+    "last": "Zazai",
+    "birth": "23/03/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Fabian",
+    "last": "Allen",
+    "birth": "07/05/1995",
+    "ipl_matches": "4",
+    "teams": ""
+  },
+  {
+    "first": "Roston",
+    "last": "Chase",
+    "birth": "22/03/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ben",
+    "last": "Cutting",
+    "birth": "30/01/1987",
+    "ipl_matches": "21",
+    "teams": "RR, SRH, MI, KKR"
+  },
+  {
+    "first": "Lewis",
+    "last": "Gregory",
+    "birth": "24/05/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mosies",
+    "last": "Henriques",
+    "birth": "01/02/1987",
+    "ipl_matches": "62",
+    "teams": "KKR, DD, RCB, SRH, PBKS"
+  },
+  {
+    "first": "Akeal",
+    "last": "Hosein",
+    "birth": "25/04/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Karim",
+    "last": "Janat",
+    "birth": "11/08/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Scott",
+    "last": "Kuggeleijn",
+    "birth": "03/01/1992",
+    "ipl_matches": "2",
+    "teams": "CSK, RCB"
+  },
+  {
+    "first": "Pawan",
+    "last": "Negi",
+    "birth": "06/01/1993",
+    "ipl_matches": "50",
+    "teams": "CSK, DD, RCB, KKR"
+  },
+  {
+    "first": "Gurkeerat",
+    "last": "Singh",
+    "birth": "29/06/1990",
+    "ipl_matches": "41",
+    "teams": ""
+  },
+  {
+    "first": "Sean",
+    "last": "Abbott",
+    "birth": "29/02/1992",
+    "ipl_matches": "2",
+    "teams": "RCB"
+  },
+  {
+    "first": "Taskin",
+    "last": "Ahmed",
+    "birth": "03/04/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Marchant",
+    "last": "de Lange",
+    "birth": "13/10/1990",
+    "ipl_matches": "5",
+    "teams": "KKR, MI"
+  },
+  {
+    "first": "Alzarri",
+    "last": "Joseph",
+    "birth": "20/11/1996",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "Dhawal",
+    "last": "Kulkarni",
+    "birth": "10/12/1988",
+    "ipl_matches": "92",
+    "teams": "GL, RR, MI"
+  },
+  {
+    "first": "Saqib",
+    "last": "Mahmood",
+    "birth": "25/02/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Riley",
+    "last": "Meredith",
+    "birth": "21/06/1996",
+    "ipl_matches": "5",
+    "teams": "PBKS"
+  },
+  {
+    "first": "Kane",
+    "last": "Richardson",
+    "birth": "31",
+    "ipl_matches": "PWI, RR, RCB",
+    "teams": "RCB"
+  },
+  {
+    "first": "Tim",
+    "last": "Southee",
+    "birth": "11/12/1988",
+    "ipl_matches": "43",
+    "teams": "CSK, RR, MI, RCB, KKR"
+  },
+  {
+    "first": "Naveen",
+    "last": "Ul Haq",
+    "birth": "23/09/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Harpreet",
+    "last": "Bhatia",
+    "birth": "11/08/1991",
+    "ipl_matches": "",
+    "teams": "KKR, PWI, RCB"
+  },
+  {
+    "first": "Rahul",
+    "last": "Buddhi",
+    "birth": "20/09/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sudip",
+    "last": "Chatterjee",
+    "birth": "11/11/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hiten",
+    "last": "Dalal",
+    "birth": "25/09/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Abhimanyu",
+    "last": "Easwaran",
+    "birth": "06/09/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Laurie",
+    "last": "Evans",
+    "birth": "12/10/1987",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rahul",
+    "last": "Gahlaut",
+    "birth": "18/09/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Amandeep",
+    "last": "Khare",
+    "birth": "05/08/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mayank",
+    "last": "Rawat",
+    "birth": "04/12/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dhruv",
+    "last": "Shorey",
+    "birth": "06/06/1992",
+    "ipl_matches": "",
+    "teams": "CSK"
+  },
+  {
+    "first": "Ayush",
+    "last": "Badoni",
+    "birth": "03/12/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aneeshwar",
+    "last": "Gautam",
+    "birth": "16/01/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Benny",
+    "last": "Howell",
+    "birth": "05/10/1988",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hayden",
+    "last": "Kerr",
+    "birth": "10/07/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Saurabh",
+    "last": "Kumar",
+    "birth": "01/05/1993",
+    "ipl_matches": "",
+    "teams": "RPS, PBKS"
+  },
+  {
+    "first": "Shams",
+    "last": "Mulani",
+    "birth": "13/03/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dhruv",
+    "last": "Patel",
+    "birth": "12/09/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Atit",
+    "last": "Sheth",
+    "birth": "03/02/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Utkarsh",
+    "last": "Singh",
+    "birth": "07/05/1998",
+    "ipl_matches": "",
+    "teams": "PBKS"
+  },
+  {
+    "first": "David",
+    "last": "Wiese",
+    "birth": "15/05/1985",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Kaif",
+    "last": "Ahmad",
+    "birth": "05/05/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubhum",
+    "last": "Arora",
+    "birth": "26/10/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Baba",
+    "last": "Indrajith",
+    "birth": "08/07/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Arun",
+    "last": "Karthick",
+    "birth": "15/02/1986",
+    "ipl_matches": "",
+    "teams": "CSK, RCB"
+  },
+  {
+    "first": "Eknath",
+    "last": "Kerkar",
+    "birth": "10/09/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kennar",
+    "last": "Lewis",
+    "birth": "18/08/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nikhil",
+    "last": "Naik",
+    "birth": "09/11/1994",
+    "ipl_matches": "",
+    "teams": "KXIP, KKR"
+  },
+  {
+    "first": "Urvil",
+    "last": "Patel",
+    "birth": "17/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "B.R.",
+    "last": "Sharath",
+    "birth": "28/09/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "K.L.",
+    "last": "Shrijith",
+    "birth": "12/08/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mohit",
+    "last": "Avasthi",
+    "birth": "18/11/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sushant",
+    "last": "Mishra",
+    "birth": "23/12/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Matheesha",
+    "last": "Pathirana",
+    "birth": "18/12/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "G",
+    "last": "Periyasamy",
+    "birth": "05/03/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "M.Harishankar",
+    "last": "Reddy",
+    "birth": "02/06/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "R.",
+    "last": "Sambasivam",
+    "birth": "07/03/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aditya",
+    "last": "Thakare",
+    "birth": "08/11/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanveer",
+    "last": "Ul Haq",
+    "birth": "03/12/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kuldip",
+    "last": "Yadav",
+    "birth": "15/10/1996",
+    "ipl_matches": "1",
+    "teams": ""
+  },
+  {
+    "first": "Prithviraj",
+    "last": "Yarra",
+    "birth": "20/02/1998",
+    "ipl_matches": "2",
+    "teams": "KKR, SRH"
+  },
+  {
+    "first": "Satyajeet",
+    "last": "Bachhav",
+    "birth": "28/11/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Chintal",
+    "last": "Gandhi",
+    "birth": "25/08/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jacob",
+    "last": "Lintott",
+    "birth": "22/04/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Izharulhuq",
+    "last": "Naweed",
+    "birth": "10/11/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanveer",
+    "last": "Sangha",
+    "birth": "26/11/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Manav",
+    "last": "Suthar",
+    "birth": "03/08/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Milind",
+    "last": "Tandon",
+    "birth": "29/10/1993",
+    "ipl_matches": "",
+    "teams": "RPS"
+  },
+  {
+    "first": "Sagar",
+    "last": "Udeshi",
+    "birth": "14/10/1986",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kushaal",
+    "last": "Wadhwani",
+    "birth": "01/11/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akshay",
+    "last": "Wakhare",
+    "birth": "03/10/1985",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Darren",
+    "last": "Bravo",
+    "birth": "06/02/1989",
+    "ipl_matches": "1",
+    "teams": "KKR"
+  },
+  {
+    "first": "Shamrah",
+    "last": "Brooks",
+    "birth": "01/10/1988",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Avishka",
+    "last": "Fernando",
+    "birth": "05/04/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Zubayr",
+    "last": "Hamza",
+    "birth": "19/06/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pathum",
+    "last": "Nissanka",
+    "birth": "18/05/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kurtis",
+    "last": "Patterson",
+    "birth": "05/04/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hashmatullah",
+    "last": "Shahidi",
+    "birth": "04/11/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Manoj",
+    "last": "Tiwary",
+    "birth": "14/11/1985",
+    "ipl_matches": "98",
+    "teams": "DD, KKR, RPS, KXIP"
+  },
+  {
+    "first": "Ashton",
+    "last": "Agar",
+    "birth": "14/10/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Carlos",
+    "last": "Brathwaite",
+    "birth": "18/07/1988",
+    "ipl_matches": "16",
+    "teams": "DD, SRH, KKR"
+  },
+  {
+    "first": "Kedar",
+    "last": "Jadhav",
+    "birth": "26/03/1985",
+    "ipl_matches": "93",
+    "teams": "KTK, DD, RCB, CSK, SRH"
+  },
+  {
+    "first": "Chamika",
+    "last": "Karunaratne",
+    "birth": "29/05/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Colin",
+    "last": "Munro",
+    "birth": "11/03/1987",
+    "ipl_matches": "13",
+    "teams": "KKR, DC"
+  },
+  {
+    "first": "Gulbadin",
+    "last": "Naib",
+    "birth": "04/06/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Keemo",
+    "last": "Paul",
+    "birth": "21/02/1998",
+    "ipl_matches": "",
+    "teams": "DC"
+  },
+  {
+    "first": "Parvez",
+    "last": "Rasool",
+    "birth": "13/02/1989",
+    "ipl_matches": "11",
+    "teams": "PWI,SRH, RCB"
+  },
+  {
+    "first": "Dasun",
+    "last": "Shanaka",
+    "birth": "09/09/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "David",
+    "last": "Willey",
+    "birth": "28/02/1990",
+    "ipl_matches": "3",
+    "teams": "CSK"
+  },
+  {
+    "first": "Varun",
+    "last": "Aaron",
+    "birth": "29/10/1989",
+    "ipl_matches": "50",
+    "teams": "DD, RCB,KXIP, RR"
+  },
+  {
+    "first": "Wesley",
+    "last": "Agar",
+    "birth": "05/02/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shoriful",
+    "last": "Islam",
+    "birth": "03/06/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Josh",
+    "last": "Little",
+    "birth": "01/11/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Blessing",
+    "last": "Muzarabani",
+    "birth": "02/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jayden",
+    "last": "Seales",
+    "birth": "10/09/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mohit",
+    "last": "Sharma",
+    "birth": "18/09/1988",
+    "ipl_matches": "86",
+    "teams": "KXIP, CSK, DC"
+  },
+  {
+    "first": "Barinder",
+    "last": "Sran",
+    "birth": "10/12/1992",
+    "ipl_matches": "24",
+    "teams": "RR, SRH, KXIP, MI"
+  },
+  {
+    "first": "Billy",
+    "last": "Stanlake",
+    "birth": "04/11/1994",
+    "ipl_matches": "6",
+    "teams": "RCB, SRH"
+  },
+  {
+    "first": "Neil",
+    "last": "Wagner",
+    "birth": "13/03/86",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Qamran",
+    "last": "Iqbal",
+    "birth": "17/10/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ishank",
+    "last": "Jaggi",
+    "birth": "27/01/1989",
+    "ipl_matches": "",
+    "teams": "DCH, KKR"
+  },
+  {
+    "first": "Rohan",
+    "last": "Kunnummal",
+    "birth": "10/05/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanmay",
+    "last": "Mishra",
+    "birth": "22/12/1986",
+    "ipl_matches": "1",
+    "teams": "DCH"
+  },
+  {
+    "first": "Yash",
+    "last": "Nahar",
+    "birth": "10/10/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham Singh",
+    "last": "Rohilla",
+    "birth": "10/03/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Alex",
+    "last": "Ross",
+    "birth": "17/04/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "R",
+    "last": "Samarth",
+    "birth": "22/01/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Naushad",
+    "last": "Shaikh",
+    "birth": "15/10/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Abhijeet",
+    "last": "Tomar",
+    "birth": "14/03/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Baba",
+    "last": "Aparajith",
+    "birth": "08/07/1994",
+    "ipl_matches": "",
+    "teams": "RPS"
+  },
+  {
+    "first": "Prayas",
+    "last": "Barman",
+    "birth": "25/10/2002",
+    "ipl_matches": "",
+    "teams": "RCB"
+  },
+  {
+    "first": "Yudhvir",
+    "last": "Charak",
+    "birth": "13/09/1997",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "Shubhang",
+    "last": "Hegde",
+    "birth": "30/03/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Roosh",
+    "last": "Kalaria",
+    "birth": "16/01/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aman",
+    "last": "Khan",
+    "birth": "23/11/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tanush",
+    "last": "Kotian",
+    "birth": "16/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pradeep",
+    "last": "Sangwan",
+    "birth": "05/11/1990",
+    "ipl_matches": "",
+    "teams": "DD, GL, MI"
+  },
+  {
+    "first": "Kaushal",
+    "last": "Tambe",
+    "birth": "14/10/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shivank",
+    "last": "Vashisth",
+    "birth": "17/09/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rahul",
+    "last": "Chandrol",
+    "birth": "13/10/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Harvik",
+    "last": "Desai",
+    "birth": "04/10/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Cam",
+    "last": "Fletcher",
+    "birth": "01/03/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tarang",
+    "last": "Gohel",
+    "birth": "17/08/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Fazil",
+    "last": "Makaya",
+    "birth": "11/12/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ryan",
+    "last": "Rickelton",
+    "birth": "11/07/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sandeep Kumar",
+    "last": "Tomar",
+    "birth": "23/08/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Siddhesh",
+    "last": "Wath",
+    "birth": "03/07/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Stephen",
+    "last": "Cheepurupalli",
+    "birth": "03/12/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aniket",
+    "last": "Choudhary",
+    "birth": "28/01/1990",
+    "ipl_matches": "5",
+    "teams": "RCB"
+  },
+  {
+    "first": "Kartikeya",
+    "last": "Kak",
+    "birth": "04/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ali",
+    "last": "Khan",
+    "birth": "13/12/1990",
+    "ipl_matches": "",
+    "teams": "KKR"
+  },
+  {
+    "first": "Kulwant",
+    "last": "Khejroliya",
+    "birth": "13/03/1992",
+    "ipl_matches": "",
+    "teams": "MI, RCB, DC"
+  },
+  {
+    "first": "Ronit",
+    "last": "More",
+    "birth": "02/02/1992",
+    "ipl_matches": "",
+    "teams": "CSK"
+  },
+  {
+    "first": "M",
+    "last": "Nidheesh",
+    "birth": "05/09/1991",
+    "ipl_matches": "",
+    "teams": "MI"
+  },
+  {
+    "first": "Babasafi",
+    "last": "Pathan",
+    "birth": "19/08/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vidyadhar",
+    "last": "Patil",
+    "birth": "05/09/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mukesh Kumar",
+    "last": "Singh",
+    "birth": "12/10/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "R.",
+    "last": "Alexander",
+    "birth": "10/05/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Adithya",
+    "last": "Ashok",
+    "birth": "05/09/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jasmer",
+    "last": "Dhankhar",
+    "birth": "16/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Prerit",
+    "last": "Dutta",
+    "birth": "22/09/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jon Russ",
+    "last": "Jaggesar",
+    "birth": "19/03/1986",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "S.",
+    "last": "Kishan Kumar",
+    "birth": "06/02/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kevin",
+    "last": "Koththigoda",
+    "birth": "04/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Swaraj",
+    "last": "Wable",
+    "birth": "16/12/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Curtis",
+    "last": "Campher",
+    "birth": "20/04/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Colin",
+    "last": "De Grandhomme",
+    "birth": "22/07/1986",
+    "ipl_matches": "25",
+    "teams": "KKR, RCB"
+  },
+  {
+    "first": "James",
+    "last": "Faulkner",
+    "birth": "29/04/1990",
+    "ipl_matches": "60",
+    "teams": "PWI, KXIP, RR, GL"
+  },
+  {
+    "first": "Craig",
+    "last": "Overton",
+    "birth": "10/04/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Wayne",
+    "last": "Parnell",
+    "birth": "30/07/1989",
+    "ipl_matches": "26",
+    "teams": "PWI, DD"
+  },
+  {
+    "first": "Samit",
+    "last": "Patel",
+    "birth": "30/11/1984",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Thisara",
+    "last": "Perera",
+    "birth": "03/04/1989",
+    "ipl_matches": "37",
+    "teams": "CSK, KTK, MI, SRH, KXIP, RPS"
+  },
+  {
+    "first": "Darcy",
+    "last": "Short",
+    "birth": "09/08/1990",
+    "ipl_matches": "7",
+    "teams": "RR"
+  },
+  {
+    "first": "Murali",
+    "last": "Vijay",
+    "birth": "01/04/1984",
+    "ipl_matches": "106",
+    "teams": "DD, KXIP, CSK"
+  },
+  {
+    "first": "Jack",
+    "last": "Wildermuth",
+    "birth": "01/09/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hamish",
+    "last": "Bennett",
+    "birth": "22/02/1987",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Daryn",
+    "last": "Dupavillon",
+    "birth": "15/07/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Fidel",
+    "last": "Edwards",
+    "birth": "06/02/1982",
+    "ipl_matches": "6",
+    "teams": "DCH"
+  },
+  {
+    "first": "Hamid",
+    "last": "Hassan",
+    "birth": "01/06/1987",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Lahiru",
+    "last": "Kumara",
+    "birth": "13/02/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Joel",
+    "last": "Paris",
+    "birth": "11/12/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "S.",
+    "last": "Sreesanth",
+    "birth": "06/02/1983",
+    "ipl_matches": "44",
+    "teams": "KXIP, KTK, RR"
+  },
+  {
+    "first": "Oshane",
+    "last": "Thomas",
+    "birth": "18/02/1997",
+    "ipl_matches": "4",
+    "teams": "RR"
+  },
+  {
+    "first": "Blair",
+    "last": "Tickner",
+    "birth": "13/10/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Isuru",
+    "last": "Udana",
+    "birth": "17/02/1988",
+    "ipl_matches": "10",
+    "teams": "RCB"
+  },
+  {
+    "first": "Donavon",
+    "last": "Ferreira",
+    "birth": "21/07/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ramesh",
+    "last": "Kumar",
+    "birth": "01/01/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Bhupen",
+    "last": "Lalwani",
+    "birth": "07/04/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Henan",
+    "last": "Malik",
+    "birth": "25/03/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pukhraj",
+    "last": "Mann",
+    "birth": "07/06/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shashwat",
+    "last": "Rawat",
+    "birth": "06/04/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pratham",
+    "last": "Singh",
+    "birth": "31/08/1992",
+    "ipl_matches": "0",
+    "teams": "GL"
+  },
+  {
+    "first": "Jake",
+    "last": "Weatherald",
+    "birth": "04/11/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Writtick",
+    "last": "Chatterjee",
+    "birth": "28/09/1992",
+    "ipl_matches": "0",
+    "teams": "DD, RR"
+  },
+  {
+    "first": "Gerald",
+    "last": "Coetzee",
+    "birth": "02/10/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akshay",
+    "last": "Karnewar",
+    "birth": "12/10/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sumit",
+    "last": "Kumar",
+    "birth": "12/12/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Abid",
+    "last": "Mushtaq",
+    "birth": "17/01/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Lone",
+    "last": "Muzaffar",
+    "birth": "05/09/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ninad",
+    "last": "Rathva",
+    "birth": "10/03/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shoun",
+    "last": "Roger",
+    "birth": "16/10/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hrithik",
+    "last": "Shokeen",
+    "birth": "14/08/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shashank",
+    "last": "Singh",
+    "birth": "21/11/1991",
+    "ipl_matches": "0",
+    "teams": "DD, RR"
+  },
+  {
+    "first": "Jaideep",
+    "last": "Bhambhu",
+    "birth": "19/03/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nandre",
+    "last": "Burger",
+    "birth": "11/08/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Matt",
+    "last": "Kelly",
+    "birth": "07/12/1994",
+    "ipl_matches": "0",
+    "teams": "KKR"
+  },
+  {
+    "first": "V",
+    "last": "Koushik",
+    "birth": "19/09/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akash",
+    "last": "Madhwal",
+    "birth": "25/11/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Amit",
+    "last": "Mishra",
+    "birth": "11/11/1981",
+    "ipl_matches": "0",
+    "teams": "RR, GL"
+  },
+  {
+    "first": "Anuj",
+    "last": "Raj",
+    "birth": "01/11/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Abhijeet",
+    "last": "Saket",
+    "birth": "03/08/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Rahul",
+    "last": "Shukla",
+    "birth": "28/08/1990",
+    "ipl_matches": "7",
+    "teams": "MI, RR, DD"
+  },
+  {
+    "first": "Nuwan",
+    "last": "Thushara",
+    "birth": "06/08/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mark",
+    "last": "Adair",
+    "birth": "27/03/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Hilton",
+    "last": "Cartwright",
+    "birth": "14/02/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Gareth",
+    "last": "Delany",
+    "birth": "28/04/1997",
+    "ipl_matches": "29",
+    "teams": ""
+  },
+  {
+    "first": "Danushka",
+    "last": "Gunathilaka",
+    "birth": "17/03/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Anaru",
+    "last": "Kitchen",
+    "birth": "21/02/1984",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dhananjaya",
+    "last": "Lakshan",
+    "birth": "05/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sisanda",
+    "last": "Magala",
+    "birth": "07/01/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kyle",
+    "last": "Mayers",
+    "birth": "08/09/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Andile",
+    "last": "Phehlukwayo",
+    "birth": "03/03/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Seekkuge",
+    "last": "Prasanna",
+    "birth": "27/06/1985",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Raymon",
+    "last": "Reifer",
+    "birth": "11/05/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Amit",
+    "last": "Ali",
+    "birth": "28/10/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Chaitanya",
+    "last": "Bishnoi",
+    "birth": "25/08/1994",
+    "ipl_matches": "CSK",
+    "teams": ""
+  },
+  {
+    "first": "Mayank",
+    "last": "Dagar",
+    "birth": "11/11/1996",
+    "ipl_matches": "KXIP",
+    "teams": ""
+  },
+  {
+    "first": "Migael",
+    "last": "Pretorius",
+    "birth": "24/03/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Karan",
+    "last": "Sharma",
+    "birth": "31/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shivam",
+    "last": "Sharma",
+    "birth": "09/09/1993",
+    "ipl_matches": "KXIP",
+    "teams": ""
+  },
+  {
+    "first": "Pratyush",
+    "last": "Singh",
+    "birth": "04/09/1994",
+    "ipl_matches": "CSK, DD",
+    "teams": ""
+  },
+  {
+    "first": "Sanvir",
+    "last": "Singh",
+    "birth": "12/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dhrushant",
+    "last": "Soni",
+    "birth": "09/10/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "M",
+    "last": "Venkatesh",
+    "birth": "12/05/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Bandaru",
+    "last": "Ayyappa",
+    "birth": "27/10/1992",
+    "ipl_matches": "DC",
+    "teams": ""
+  },
+  {
+    "first": "Gurnoor Singh",
+    "last": "Brar",
+    "birth": "25/05/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Akash",
+    "last": "Choudhary",
+    "birth": "28/11/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Baltej",
+    "last": "Dhanda",
+    "birth": "04/11/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Saurabh",
+    "last": "Dubey",
+    "birth": "23/01/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mohit",
+    "last": "Jangra",
+    "birth": "27/09/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aaqib",
+    "last": "Khan",
+    "birth": "25/12/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ruben",
+    "last": "Trumpelmann",
+    "birth": "01/02/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Brad",
+    "last": "Wheal",
+    "birth": "28/08/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Lalit",
+    "last": "Yadav",
+    "birth": "17/12/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aquib",
+    "last": "Dar",
+    "birth": "04/11/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Chirag",
+    "last": "Gandhi",
+    "birth": "18/06/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Chris",
+    "last": "Green",
+    "birth": "01/10/1993",
+    "ipl_matches": "KKR",
+    "teams": ""
+  },
+  {
+    "first": "Sijomon",
+    "last": "Joseph",
+    "birth": "28/09/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Anirudha",
+    "last": "Joshi",
+    "birth": "07/11/1987",
+    "ipl_matches": "RCB, RR, DC",
+    "teams": "DC"
+  },
+  {
+    "first": "Mohd. Arshad",
+    "last": "Khan",
+    "birth": "20/12/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ansh",
+    "last": "Patel",
+    "birth": "19/02/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham",
+    "last": "Sharma",
+    "birth": "26/03/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham",
+    "last": "Singh",
+    "birth": "05/01/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "K.Bhagath",
+    "last": "Varma",
+    "birth": "21/09/1998",
+    "ipl_matches": "CSK",
+    "teams": "CSK"
+  },
+  {
+    "first": "Arpit",
+    "last": "Guleria",
+    "birth": "26/04/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vipul",
+    "last": "Krishna",
+    "birth": "09/02/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Safvan",
+    "last": "Patel",
+    "birth": "03/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Chinntla",
+    "last": "Readdi",
+    "birth": "29/09/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Manish",
+    "last": "Reddy",
+    "birth": "07/19/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ashok",
+    "last": "Sharma",
+    "birth": "17/06/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ravi",
+    "last": "Sharma",
+    "birth": "14/10/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham",
+    "last": "Singh",
+    "birth": "06/12/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Corbin",
+    "last": "Bosch",
+    "birth": "10/09/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nathan",
+    "last": "McAndrew",
+    "birth": "14/07/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Diwesh",
+    "last": "Pathania",
+    "birth": "22/06/1989",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham",
+    "last": "Ranjane",
+    "birth": "26/03/1994",
+    "ipl_matches": "RR",
+    "teams": ""
+  },
+  {
+    "first": "Tom",
+    "last": "Rogers",
+    "birth": "03/03/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Johannes",
+    "last": "Smit",
+    "birth": "10/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sagar",
+    "last": "Trivedi",
+    "birth": "20/10/1991",
+    "ipl_matches": "RR",
+    "teams": ""
+  },
+  {
+    "first": "Harsh",
+    "last": "Tyagi",
+    "birth": "23/12/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "R.",
+    "last": "Vivek",
+    "birth": "10/06/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "R.Sonu",
+    "last": "Yadav",
+    "birth": "11/11/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "V.",
+    "last": "Athisayaraj",
+    "birth": "06/06/1992",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ottneil",
+    "last": "Baartman",
+    "birth": "18/03/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "M.B.",
+    "last": "Darshan",
+    "birth": "19/01/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "V.",
+    "last": "Gowtham",
+    "birth": "09/07/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Khwezi",
+    "last": "Gumede",
+    "birth": "19/06/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Liam",
+    "last": "Guthrie",
+    "birth": "09/04/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Liam",
+    "last": "Hatcher",
+    "birth": "17/09/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jay",
+    "last": "Bista",
+    "birth": "23/12/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Saurav",
+    "last": "Chauhan",
+    "birth": "27/05/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Tajinder",
+    "last": "Dhillon",
+    "birth": "25/05/1992",
+    "ipl_matches": "0",
+    "teams": "MI, KXIP"
+  },
+  {
+    "first": "Dikshanshu",
+    "last": "Negi",
+    "birth": "05/10/1990",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Abhishek",
+    "last": "Raut",
+    "birth": "03/03/1987",
+    "ipl_matches": "22",
+    "teams": "RR"
+  },
+  {
+    "first": "K.V.",
+    "last": "Sasikanth",
+    "birth": "17/07/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Bharat",
+    "last": "Sharma",
+    "birth": "15/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shivam",
+    "last": "Sharma",
+    "birth": "14/11/1995",
+    "ipl_matches": "5",
+    "teams": "KXIP"
+  },
+  {
+    "first": "Arjun",
+    "last": "Tendulkar",
+    "birth": "24/09/1999",
+    "ipl_matches": "0",
+    "teams": "MI"
+  },
+  {
+    "first": "Amit",
+    "last": "Yadav",
+    "birth": "10/10/1989",
+    "ipl_matches": "0",
+    "teams": "KXIP"
+  },
+  {
+    "first": "Manoj",
+    "last": "Bhandage",
+    "birth": "05/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Arun",
+    "last": "Chaprana",
+    "birth": "05/01/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ajay Dev",
+    "last": "Goud",
+    "birth": "15/02/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Divyang",
+    "last": "Hingankar",
+    "birth": "14/10/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Azim",
+    "last": "Kazi",
+    "birth": "14/10/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sujit",
+    "last": "Nayak",
+    "birth": "23/06/1989",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Parth",
+    "last": "Sahani",
+    "birth": "09/03/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ashutosh",
+    "last": "Sharma",
+    "birth": "15/09/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Vivek",
+    "last": "Sharma",
+    "birth": "30/10/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Kumar Kartikeya",
+    "last": "Singh",
+    "birth": "26/12/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ravi",
+    "last": "Chauhan",
+    "birth": "17/09/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shubham",
+    "last": "Garhwal",
+    "birth": "14/05/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Shafiqullah",
+    "last": "Ghaffari",
+    "birth": "08/10/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "M.",
+    "last": "Mohammed",
+    "birth": "03/12/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pulkit",
+    "last": "Narang",
+    "birth": "18/06/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pradosh",
+    "last": "Paul",
+    "birth": "21/12/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pushpendra Singh",
+    "last": "Rathore",
+    "birth": "14/02/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jason",
+    "last": "Sangha",
+    "birth": "08/09/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Purnank",
+    "last": "Tyagi",
+    "birth": "20/01/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Samarth",
+    "last": "Vyas",
+    "birth": "28/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Duan",
+    "last": "Jansen",
+    "birth": "01/05/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dev",
+    "last": "Lakra",
+    "birth": "27/01/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ajay",
+    "last": "Mandal",
+    "birth": "25/02/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Lakhan",
+    "last": "Raja",
+    "birth": "15/10/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Girinath",
+    "last": "Reddy",
+    "birth": "08/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Siddhant",
+    "last": "Sharma",
+    "birth": "11/12/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Matthew",
+    "last": "Short",
+    "birth": "08/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Anunay",
+    "last": "Singh",
+    "birth": "03/01/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Saurin",
+    "last": "Thakar",
+    "birth": "04/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nyeem",
+    "last": "Young",
+    "birth": "22/09/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Yuvraj",
+    "last": "Chaudhary",
+    "birth": "06/10/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Khizar",
+    "last": "Dafedar",
+    "birth": "10/10/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Sahil",
+    "last": "Dhiwan",
+    "birth": "03/07/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Arjit",
+    "last": "Gupta",
+    "birth": "12/09/1989",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mickil",
+    "last": "Jaiswal",
+    "birth": "10/05/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ryan",
+    "last": "John",
+    "birth": "25/09/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "J.",
+    "last": "Kousik",
+    "birth": "23/05/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jitender",
+    "last": "Pal",
+    "birth": "20/12/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Jonty",
+    "last": "Sidhu",
+    "birth": "09/12/1997",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Yashovardhan",
+    "last": "Singh",
+    "birth": "21/08/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Beyers",
+    "last": "Swanepoel",
+    "birth": "06/05/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Pranshu",
+    "last": "Vijayran",
+    "birth": "18/11/1995",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Ishan",
+    "last": "Afridi",
+    "birth": "15/10/2002",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mohammed",
+    "last": "Afridi",
+    "birth": "18/10/1998",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Prerit",
+    "last": "Agrawal",
+    "birth": "11/04/2001",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Aidan",
+    "last": "Cahill",
+    "birth": "20/03/2003",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Mark",
+    "last": "Deyal",
+    "birth": "07/04/1993",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Nidhish",
+    "last": "Rajagopal",
+    "birth": "30/01/2000",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Bavanaka",
+    "last": "Sandeep",
+    "birth": "25/04/1992",
+    "ipl_matches": "0",
+    "teams": "SRH"
+  },
+  {
+    "first": "Safyaan",
+    "last": "Sharif",
+    "birth": "24/05/1991",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Henry",
+    "last": "Shipley",
+    "birth": "10/05/1996",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Maxwell",
+    "last": "Swaminathan",
+    "birth": "18/01/1999",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Johan",
+    "last": "Van Dyk",
+    "birth": "23/01/1994",
+    "ipl_matches": "",
+    "teams": ""
+  },
+  {
+    "first": "Dunith",
+    "last": "Wellalage",
+    "birth": "09/01/2003",
+    "ipl_matches": "",
+    "teams": ""
+  }
+]

@@ -1,0 +1,12 @@
+.git
+.next
+node_modules
+scratch
+data/cricsheet
+data/profile_cache.json
+data/ipl_auction_2020.json
+data/ipl_auction_2021.json
+data/ipl_auction_2022.json
+data/ipl_auction_2025.json
+data/seasons.txt
+scripts
