@@ -8,12 +8,12 @@ const KEY='ipl-climb-daily-v4';
 const SUMMIT=7000;
 
 function tier(r:Result){
- if(!r.correct)return {name:r.answer?'NO GRIP':'TIME OUT',color:'var(--tier-miss-lit)'};
- if(r.points>=1000)return {name:'ONE IN A BILLION',color:'var(--tier-gold)'};
- if(r.points>=750)return {name:'DEEP CUT',color:'var(--tier-deepcut)'};
- if(r.points>=500)return {name:'RARE FIND',color:'var(--tier-rare)'};
- if(r.points>=250)return {name:'SOLID HOLD',color:'var(--tier-solid)'};
- return {name:'OBVIOUS',color:'var(--tier-obvious)'};
+ if(!r.correct)return {name:r.answer?'DUCK':'TIMED OUT',color:'var(--tier-miss-lit)'};
+ if(r.points>=1000)return {name:'CENTURY',color:'var(--tier-gold)'};
+ if(r.points>=750)return {name:'HAT-TRICK',color:'var(--tier-deepcut)'};
+ if(r.points>=500)return {name:'MAXIMUM',color:'var(--tier-rare)'};
+ if(r.points>=250)return {name:'BOUNDARY',color:'var(--tier-solid)'};
+ return {name:'SINGLE',color:'var(--tier-obvious)'};
 }
 
 const BALL=Array.from({length:12},(_,y)=>Array.from({length:12},(_,x)=>{
@@ -58,7 +58,7 @@ function AnimatedScore({ value }: { value: number }) {
 }
 
 export default function Page(){
- const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
+ const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [picked,setPicked]=useState(false);const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
  useEffect(()=>{setSoundOn(localStorage.getItem('ipl-climb-sound') !== 'off');setNow(Date.now());setHydrated(true);const saved=localStorage.getItem(KEY);if(saved){try{const s=JSON.parse(saved) as Session;if(s.date===dateKey()||s.phase!=='summary')setSession(s)}catch{localStorage.removeItem(KEY)}}const id=setInterval(()=>setNow(Date.now()),250);return()=>clearInterval(id)},[]);
  useEffect(()=>{if(session?.mode==='daily')localStorage.setItem(KEY,JSON.stringify(session))},[session]);
  useEffect(()=>{if(session?.phase==='question')answerInput.current?.focus()},[session?.phase,session?.results.length]);
@@ -70,7 +70,7 @@ export default function Page(){
  function submit(value=input, userInitiated=true){if(!session||session.phase!=='question')return;const q=session.questions[session.results.length];const match=resolvePlayer(value);const accepted=match&&q.answers.find(p=>p.name===match.name);const valid=!!accepted;if(userInitiated)playSound(valid?'success-chime':'error-004');if(userInitiated && typeof navigator !== 'undefined' && 'vibrate' in navigator && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(valid ? [35, 55, 45] : [90]);if(userInitiated&&!valid){setAnswerError('NOT IN BOTH SQUADS — TRY ANOTHER NAME');requestAnimationFrame(()=>answerInput.current?.focus());return}setAnswerError('');const result:Result={question:q,answer:match?.name||value.trim(),correct:!!valid,points:accepted?score(q,accepted):0,appearances:accepted?accepted.appearances??null:null,appearanceSource:accepted?accepted.appearanceSource:undefined};setSession({...session,results:[...session.results,result],phase:'feedback'});setInput('')}
  useEffect(()=>{if(session?.phase==='question'&&now>0&&session.deadline<=now)submit('',false)},[now,session]);
  function next(){if(!session)return;playSound('click-soft');setSession({...session,phase:session.results.length===7?'summary':'question',deadline:Date.now()+25000})}
- const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);const suggestions=input.trim().length>=2?players.filter(p=>normalize(p.name).includes(normalize(input))).slice(0,5):[];
+ const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);const suggestions=!picked&&input.trim().length>=2?players.filter(p=>normalize(p.name).includes(normalize(input))).slice(0,5):[];
  const phase=!session?'intro':session.phase==='question'?'answering':session.phase;
  const hot=remaining<=5;
  const lastTier=last&&tier(last);
@@ -105,6 +105,7 @@ export default function Page(){
       <li>Name a player who was in both squads.</li>
       <li>25 seconds each. Rarer players climb higher.</li>
       <li>Squad members count even with zero matches.</li>
+      <li>Single · Boundary · Maximum · Hat-trick · Century</li>
      </ul></details>
      <div className="ds-intro-meta"><span>{hydrated?dateKey():'—'} · RESETS 00:00 IST</span><a href="https://cricsheet.org/" target="_blank" rel="noreferrer">DATA: CRICSHEET ↗</a></div>
     </div>
@@ -121,9 +122,9 @@ export default function Page(){
    <form className={'ds-dock'+(hot?' hot':'')} onSubmit={e=>{e.preventDefault();submit()}}>
     <div className="ds-dock-inner">
      <div className="ds-input-col">
-      {suggestions.length>0&&<div className="ds-suggest">{suggestions.map(p=><button type="button" key={p.name} onClick={()=>{setInput(p.name);setAnswerError('');answerInput.current?.focus()}}>{p.name}</button>)}</div>}
+      {suggestions.length>0&&<div className="ds-suggest">{suggestions.map(p=><button type="button" key={p.name} onClick={()=>{setInput(p.name);setPicked(true);setAnswerError('');answerInput.current?.focus()}}>{p.name}</button>)}</div>}
       <label htmlFor="answer" className="sr-only">Your answer</label>
-      <input ref={answerInput} id="answer" className={'ds-input'+(answerError?' ds-shake':'')} autoComplete="off" value={input} aria-invalid={!!answerError} aria-describedby={answerError ? 'answer-error' : undefined} onChange={e=>{setInput(e.target.value);if(answerError)setAnswerError('')}} placeholder="type a player…"/>
+      <input ref={answerInput} id="answer" className={'ds-input'+(answerError?' ds-shake':'')} autoComplete="off" value={input} aria-invalid={!!answerError} aria-describedby={answerError ? 'answer-error' : undefined} onChange={e=>{setInput(e.target.value);setPicked(false);if(answerError)setAnswerError('')}} placeholder="type a player…"/>
       <div className="ds-fuse" aria-hidden="true"><div className="ds-fuse-fill" style={{transform:'scaleX('+(remaining/25)+')'}}/></div>
      </div>
      <button className="ds-dive-btn" type="submit" aria-label="Submit answer">CLIMB</button>
