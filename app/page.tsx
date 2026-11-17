@@ -5,6 +5,9 @@ import { dateKey, makeQuestions, normalize, players, score, resolvePlayer, type 
 type Result={question:Question; answer:string; correct:boolean; points:number; appearances:number|null; appearanceSource?:string};
 type Session={mode:'daily'|'practice'; date:string; questions:Question[]; results:Result[]; deadline:number; phase:'question'|'feedback'|'summary'};
 const KEY='ipl-climb-daily-v4';
+type Stats={players:number; total:number|null; higher:number; average:number; buckets:number[]};
+const SUPABASE_URL=process.env.NEXT_PUBLIC_SUPABASE_URL;
+const SUPABASE_KEY=process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 const SUMMIT=7000;
 
 function tier(r:Result){
@@ -46,6 +49,25 @@ function Sky({altitude,mood}:{altitude:number; mood:''|'up'|'miss'}){
  </div>;
 }
 
+function Curve({stats}:{stats:Stats|'loading'|'error'}){
+ if(stats==='loading')return <div className="ds-curve"><p className="ds-curve-note">COUNTING TODAY’S CLIMBERS…</p></div>;
+ if(stats==='error'||stats.total===null)return <div className="ds-curve"><p className="ds-curve-note">COULDN’T REACH THE LEADERBOARD</p></div>;
+ const mine=Math.min(Math.floor(stats.total/500),13);
+ const max=Math.max(...stats.buckets,1);
+ const top=Math.max(1,Math.ceil((stats.higher+1)/stats.players*100));
+ return <div className="ds-curve">
+  <p className="ds-curve-top">{stats.players===1?'FIRST CLIMBER TODAY':'TOP '+top+'%'}</p>
+  <p className="ds-curve-note">#{stats.higher+1} OF {stats.players.toLocaleString()} {stats.players===1?'CLIMBER':'CLIMBERS'} · AVG {stats.average.toLocaleString()} M</p>
+  <div className="ds-curve-plot">
+   <span className="ds-curve-you" style={{left:((mine+.5)/14*100)+'%'}}>YOU ▼</span>
+   <svg viewBox="0 0 140 52" preserveAspectRatio="none" shapeRendering="crispEdges" role="img" aria-label={'Distribution of '+stats.players+' daily scores; you are in the top '+top+' percent'}>
+    {stats.buckets.map((n,i)=>{const h=n?Math.max(2,Math.round(n/max*50)):1;return <rect key={i} x={i*10+1} y={52-h} width="8" height={h} fill={i===mine?'#ff5d8f':n?'#4de3ff66':'#1b3050'}/>})}
+   </svg>
+  </div>
+  <div className="ds-curve-axis"><span>0 M</span><span>3,500 M</span><span>7,000 M</span></div>
+ </div>;
+}
+
 function AnimatedScore({ value }: { value: number }) {
  const [shown, setShown] = useState(0);
  useEffect(() => {
@@ -58,9 +80,17 @@ function AnimatedScore({ value }: { value: number }) {
 }
 
 export default function Page(){
- const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [picked,setPicked]=useState(false);const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
+ const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [picked,setPicked]=useState(false);const [stats,setStats]=useState<Stats|'loading'|'error'|null>(null);const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
  useEffect(()=>{setSoundOn(localStorage.getItem('ipl-climb-sound') !== 'off');setNow(Date.now());setHydrated(true);const saved=localStorage.getItem(KEY);if(saved){try{const s=JSON.parse(saved) as Session;if(s.date===dateKey()||s.phase!=='summary')setSession(s)}catch{localStorage.removeItem(KEY)}}const id=setInterval(()=>setNow(Date.now()),250);return()=>clearInterval(id)},[]);
  useEffect(()=>{if(session?.mode==='daily')localStorage.setItem(KEY,JSON.stringify(session))},[session]);
+ useEffect(()=>{
+  if(session?.phase!=='summary'||session.mode!=='daily'||!SUPABASE_URL||!SUPABASE_KEY){setStats(null);return}
+  let player=localStorage.getItem('ipl-climb-player');if(!player){player=crypto.randomUUID();localStorage.setItem('ipl-climb-player',player)}
+  let cancelled=false;setStats('loading');
+  fetch(SUPABASE_URL+'/rest/v1/rpc/ipl_climb_submit',{method:'POST',headers:{apikey:SUPABASE_KEY,Authorization:'Bearer '+SUPABASE_KEY,'Content-Type':'application/json'},body:JSON.stringify({p_date:session.date,p_player:player,p_points:session.results.map(r=>r.points)})})
+   .then(r=>r.ok?r.json():Promise.reject(r.status)).then((s:Stats)=>{if(!cancelled)setStats(s)}).catch(()=>{if(!cancelled)setStats('error')});
+  return()=>{cancelled=true};
+ },[session?.phase,session?.mode,session?.date]);
  useEffect(()=>{if(session?.phase==='question')answerInput.current?.focus()},[session?.phase,session?.results.length]);
  function playSound(name:'click-soft'|'success-chime'|'error-004') { if (!soundOn) return; try { const sound=audio.current[name] || new Audio('/sounds/'+name+'.mp3'); audio.current[name]=sound; sound.volume=0.35; sound.currentTime=0; void sound.play().catch(()=>{}); } catch { /* Audio is optional. */ } }
  function toggleSound(){const next=!soundOn;setSoundOn(next);localStorage.setItem('ipl-climb-sound',next?'on':'off');}
@@ -145,6 +175,7 @@ export default function Page(){
     <p className="ds-tagline">{session.mode==='daily'?'DAILY CLIMB · '+session.date:'PRACTICE CLIMB'}</p>
     <h1 className="ds-done-total">{total.toLocaleString()}<small> M</small></h1>
     <p className="ds-sub">{total>=SUMMIT?'SUMMIT REACHED.':Math.round(total/SUMMIT*100)+'% OF THE WAY TO THE SUMMIT'}</p>
+    {stats&&<Curve stats={stats}/>}
     <ol className="ds-results">{session.results.map((r,i)=>{const t=tier(r);return <li key={i} style={{'--tc':t.color} as CSSProperties}><span className="n">{String(i+1).padStart(2,'0')}</span><span className="a">{r.answer||'—'}<small>{r.question.teams.join(' × ')}</small></span><b>{r.points?'+'+r.points:'0'}</b></li>})}</ol>
     <div className="ds-done-actions">
      <button className="btn-descend" onClick={()=>start('practice')}>PRACTICE CLIMB ▲</button>

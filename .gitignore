@@ -4,3 +4,5 @@ out
 *.tsbuildinfo
 .vercel
 __pycache__/
+.env*.local
+supabase/.temp

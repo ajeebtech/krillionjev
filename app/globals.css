@@ -119,6 +119,15 @@ h1,p,ol{margin:0}
 .ds-done-inner{max-width:30rem;margin:0 auto;text-align:center;animation:ds-card-in .7s var(--ease-out) backwards}
 .ds-done-total{font-weight:400;font-size:clamp(64px,18vw,104px);line-height:1;margin-top:10px;color:var(--cyan);text-shadow:0 0 24px #4de3ff8c,3px 0 #ff5d8f40}
 .ds-done-total small{font-size:.4em;color:var(--muted);text-shadow:none}
+.ds-root[data-phase=summary] .ds-hud{display:none}
+.ds-done .ds-tagline{letter-spacing:.2em;font-size:18px}
+.ds-curve{margin-top:20px;padding:14px 16px 10px;background:#101d33cc;box-shadow:0 0 0 2px #060d1a,0 0 0 4px var(--edge)}
+.ds-curve-top{color:var(--gold);font-size:40px;line-height:1;letter-spacing:.08em;text-shadow:0 0 18px #ffd16680,2px 0 #ff5d8f40}
+.ds-curve-note{color:var(--muted);letter-spacing:.12em;font-size:15px;margin-top:4px}
+.ds-curve-plot{position:relative;margin-top:30px;height:96px}
+.ds-curve-plot svg{display:block;width:100%;height:100%;border-bottom:2px solid var(--edge)}
+.ds-curve-you{position:absolute;top:-24px;transform:translateX(-50%);color:var(--pink);font-size:15px;letter-spacing:.1em;white-space:nowrap;text-shadow:0 0 10px #ff5d8fb3}
+.ds-curve-axis{display:flex;justify-content:space-between;color:var(--muted);font-size:13px;letter-spacing:.1em;margin-top:4px}
 .ds-results{list-style:none;padding:0;margin:22px 0;text-align:left;background:#101d33cc;box-shadow:0 0 0 2px #060d1a,0 0 0 4px var(--edge)}
 .ds-results li{display:grid;grid-template-columns:32px 1fr auto;gap:10px;align-items:center;padding:9px 14px 7px;font-size:20px;border-left:4px solid var(--tc)}
 .ds-results li+li{border-top:1px solid #1b305080}
