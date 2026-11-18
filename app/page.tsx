@@ -1,10 +1,11 @@
 'use client';
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
-import { dateKey, makeQuestions, normalize, players, score, resolvePlayer, type Question } from '../lib/game';
+import { catalog, dateKey, makeQuestions, normalize, resolveAnswer, score, viewsMonth, type Question } from '../lib/game';
 
-type Result={question:Question; answer:string; correct:boolean; points:number; appearances:number|null; appearanceSource?:string};
+type Result={question:Question; answer:string; correct:boolean; points:number; views:number|null};
+const VIEWS_MONTH=new Date(viewsMonth+'-01T00:00:00Z').toLocaleString('en-GB',{month:'short',year:'numeric',timeZone:'UTC'}).toUpperCase();
 type Session={mode:'daily'|'practice'; date:string; questions:Question[]; results:Result[]; deadline:number; phase:'question'|'feedback'|'summary'};
-const KEY='ipl-climb-daily-v4';
+const KEY='ipl-climb-daily-v5';
 type Stats={players:number; total:number|null; higher:number; average:number; buckets:number[]};
 const SUPABASE_URL=process.env.NEXT_PUBLIC_SUPABASE_URL;
 const SUPABASE_KEY=process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
@@ -97,10 +98,10 @@ export default function Page(){
  const remaining=session?Math.max(0,Math.ceil((session.deadline-now)/1000)):25;
  function start(mode:'daily'|'practice'){playSound('click-soft');const date=dateKey();setInput('');setAnswerError('');setSession({mode,date,questions:makeQuestions(mode==='daily'?date:String(Date.now())+Math.random()),results:[],deadline:Date.now()+25000,phase:'question'})}
  function startDaily(){const saved=localStorage.getItem(KEY);if(saved){try{const s=JSON.parse(saved);if(s.date===dateKey()){setSession(s);return}}catch{}}start('daily')}
- function submit(value=input, userInitiated=true){if(!session||session.phase!=='question')return;const q=session.questions[session.results.length];const match=resolvePlayer(value);const accepted=match&&q.answers.find(p=>p.name===match.name);const valid=!!accepted;if(userInitiated)playSound(valid?'success-chime':'error-004');if(userInitiated && typeof navigator !== 'undefined' && 'vibrate' in navigator && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(valid ? [35, 55, 45] : [90]);if(userInitiated&&!valid){setAnswerError('NOT IN BOTH SQUADS — TRY ANOTHER NAME');requestAnimationFrame(()=>answerInput.current?.focus());return}setAnswerError('');const result:Result={question:q,answer:match?.name||value.trim(),correct:!!valid,points:accepted?score(q,accepted):0,appearances:accepted?accepted.appearances??null:null,appearanceSource:accepted?accepted.appearanceSource:undefined};setSession({...session,results:[...session.results,result],phase:'feedback'});setInput('')}
+ function submit(value=input, userInitiated=true){if(!session||session.phase!=='question')return;const q=session.questions[session.results.length];const accepted=resolveAnswer(q,value);const valid=!!accepted;if(userInitiated)playSound(valid?'success-chime':'error-004');if(userInitiated && typeof navigator !== 'undefined' && 'vibrate' in navigator && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(valid ? [35, 55, 45] : [90]);if(userInitiated&&!valid){setAnswerError('DOESN’T FIT THIS PROMPT — TRY ANOTHER');requestAnimationFrame(()=>answerInput.current?.focus());return}setAnswerError('');const result:Result={question:q,answer:accepted?.name||value.trim(),correct:valid,points:accepted?score(q,accepted):0,views:accepted?accepted.views:null};setSession({...session,results:[...session.results,result],phase:'feedback'});setInput('')}
  useEffect(()=>{if(session?.phase==='question'&&now>0&&session.deadline<=now)submit('',false)},[now,session]);
  function next(){if(!session)return;playSound('click-soft');setSession({...session,phase:session.results.length===7?'summary':'question',deadline:Date.now()+25000})}
- const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);const suggestions=!picked&&input.trim().length>=2?players.filter(p=>normalize(p.name).includes(normalize(input))).slice(0,5):[];
+ const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);const suggestions=!picked&&input.trim().length>=2?catalog.filter(name=>normalize(name).includes(normalize(input))).slice(0,5):[];
  const phase=!session?'intro':session.phase==='question'?'answering':session.phase;
  const hot=remaining<=5;
  const lastTier=last&&tier(last);
@@ -124,7 +125,7 @@ export default function Page(){
    <section className="ds-title">
     <h1>IPL CLIMB</h1>
     <p className="ds-tagline">THE DAILY ASCENT</p>
-    <p className="ds-sub">Two teams. One player in both. Rare answers climb you higher.</p>
+    <p className="ds-sub">Seven cricket prompts. Obscure answers climb you higher.</p>
    </section>
    <section className="ds-intro">
     <div className="ds-intro-inner">
@@ -132,12 +133,12 @@ export default function Page(){
      <button className="btn-quiet" onClick={()=>start('practice')}>∞ PRACTICE CLIMB</button>
      <details className="ds-howto"><summary>How to play</summary><ul>
       <li>Seven prompts a day, same for everyone.</li>
-      <li>Name a player who was in both squads.</li>
-      <li>25 seconds each. Rarer players climb higher.</li>
-      <li>Squad members count even with zero matches.</li>
+      <li>25 seconds to name anything that fits.</li>
+      <li>Answers need an English Wikipedia page.</li>
+      <li>Fewer page views last month = higher climb.</li>
       <li>Single · Boundary · Maximum · Hat-trick · Century</li>
      </ul></details>
-     <div className="ds-intro-meta"><span>{hydrated?dateKey():'—'} · RESETS 00:00 IST</span><a href="https://cricsheet.org/" target="_blank" rel="noreferrer">DATA: CRICSHEET ↗</a></div>
+     <div className="ds-intro-meta"><span>{hydrated?dateKey():'—'} · RESETS 00:00 IST</span><a href="https://www.wikidata.org/" target="_blank" rel="noreferrer">DATA: WIKIPEDIA ↗</a></div>
     </div>
    </section>
   </>}
@@ -145,14 +146,14 @@ export default function Page(){
   {session?.phase==='question'&&q&&<>
    <section key={session.results.length} className="ds-card ds-px">
     <div className="rnd">PROMPT {String(session.results.length+1).padStart(2,'0')} / 07</div>
-    <h1 className="prompt">{q.teams[0]}<span> × </span>{q.teams[1]}</h1>
-    <div className="hint">NAME A PLAYER WHO WAS IN BOTH SQUADS</div>
+    <h1 className="prompt">{q.prompt}</h1>
+    <div className="hint">{q.hint}</div>
    </section>
    {answerError&&<p className="ds-reject" id="answer-error" role="alert">{answerError}</p>}
    <form className={'ds-dock'+(hot?' hot':'')} onSubmit={e=>{e.preventDefault();submit()}}>
     <div className="ds-dock-inner">
      <div className="ds-input-col">
-      {suggestions.length>0&&<div className="ds-suggest">{suggestions.map(p=><button type="button" key={p.name} onClick={()=>{setInput(p.name);setPicked(true);setAnswerError('');answerInput.current?.focus()}}>{p.name}</button>)}</div>}
+      {suggestions.length>0&&<div className="ds-suggest">{suggestions.map(name=><button type="button" key={name} onClick={()=>{setInput(name);setPicked(true);setAnswerError('');answerInput.current?.focus()}}>{name}</button>)}</div>}
       <label htmlFor="answer" className="sr-only">Your answer</label>
       <input ref={answerInput} id="answer" className={'ds-input'+(answerError?' ds-shake':'')} autoComplete="off" value={input} aria-invalid={!!answerError} aria-describedby={answerError ? 'answer-error' : undefined} onChange={e=>{setInput(e.target.value);setPicked(false);if(answerError)setAnswerError('')}} placeholder="type a player…"/>
       <div className="ds-fuse" aria-hidden="true"><div className="ds-fuse-fill" style={{transform:'scaleX('+(remaining/25)+')'}}/></div>
@@ -166,7 +167,7 @@ export default function Page(){
    <div className="tname">{lastTier.name}</div>
    <div className="tans">{last.answer||'NO ANSWER'}</div>
    <div className="tpts"><AnimatedScore value={last.points}/></div>
-   <div className="tsub">{last.correct?(last.appearances===null?'APPEARANCES UNKNOWN · MINIMUM HEIGHT':last.appearances+' IPL '+(last.appearanceSource === 'Cricsheet' ? 'MATCHES IN CRICSHEET LINEUPS' : 'APPEARANCES')):last.answer?'NOT IN BOTH SQUADS':'THE CLOCK RAN OUT'}</div>
+   <div className="tsub">{last.correct?(last.views??0).toLocaleString()+' WIKIPEDIA VIEWS IN '+VIEWS_MONTH:last.answer?'DOESN’T FIT THE PROMPT':'THE CLOCK RAN OUT'}</div>
    <button className="ds-next-btn" onClick={next} autoFocus>{session.results.length===7?'RESULTS ▲':'NEXT ▲'}</button>
   </section>}
 
@@ -176,7 +177,7 @@ export default function Page(){
     <h1 className="ds-done-total">{total.toLocaleString()}<small> M</small></h1>
     <p className="ds-sub">{total>=SUMMIT?'SUMMIT REACHED.':Math.round(total/SUMMIT*100)+'% OF THE WAY TO THE SUMMIT'}</p>
     {stats&&<Curve stats={stats}/>}
-    <ol className="ds-results">{session.results.map((r,i)=>{const t=tier(r);return <li key={i} style={{'--tc':t.color} as CSSProperties}><span className="n">{String(i+1).padStart(2,'0')}</span><span className="a">{r.answer||'—'}<small>{r.question.teams.join(' × ')}</small></span><b>{r.points?'+'+r.points:'0'}</b></li>})}</ol>
+    <ol className="ds-results">{session.results.map((r,i)=>{const t=tier(r);return <li key={i} style={{'--tc':t.color} as CSSProperties}><span className="n">{String(i+1).padStart(2,'0')}</span><span className="a">{r.answer||'—'}<small>{r.question.prompt}</small></span><b>{r.points?'+'+r.points:'0'}</b></li>})}</ol>
     <div className="ds-done-actions">
      <button className="btn-descend" onClick={()=>start('practice')}>PRACTICE CLIMB ▲</button>
      <button className="btn-quiet" onClick={()=>setSession(null)}>HOME</button>
