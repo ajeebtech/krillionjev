@@ -1,11 +1,13 @@
 'use client';
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
-import { catalog, dateKey, makeQuestions, normalize, resolveAnswer, score, viewsMonth, type Question } from '../lib/game';
+import { dateKey, makeQuestions, type Candidate, type Question, type Verdict } from '../lib/game';
 
-type Result={question:Question; answer:string; correct:boolean; points:number; views:number|null};
-const VIEWS_MONTH=new Date(viewsMonth+'-01T00:00:00Z').toLocaleString('en-GB',{month:'short',year:'numeric',timeZone:'UTC'}).toUpperCase();
+type Result={question:Question; answer:string; correct:boolean; points:number; views:number|null; month?:string};
+const monthLabel=(month:string)=>new Date(month+'-01T00:00:00Z').toLocaleString('en-GB',{month:'short',year:'numeric',timeZone:'UTC'}).toUpperCase();
 type Session={mode:'daily'|'practice'; date:string; questions:Question[]; results:Result[]; deadline:number; phase:'question'|'feedback'|'summary'};
-const KEY='ipl-climb-daily-v5';
+const KEY='ipl-climb-daily-v7';
+type Pending={stage:'searching'|'confirm'|'judging'; since:number; candidate?:Candidate};
+const post=(path:string,body:object)=>fetch(path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}).then(r=>r.ok?r.json():Promise.reject(r.status));
 type Stats={players:number; total:number|null; higher:number; average:number; buckets:number[]};
 const SUPABASE_URL=process.env.NEXT_PUBLIC_SUPABASE_URL;
 const SUPABASE_KEY=process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
@@ -81,7 +83,7 @@ function AnimatedScore({ value }: { value: number }) {
 }
 
 export default function Page(){
- const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [picked,setPicked]=useState(false);const [stats,setStats]=useState<Stats|'loading'|'error'|null>(null);const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
+ const [soundOn,setSoundOn]=useState(true);const audio=useRef<Record<string,HTMLAudioElement>>({});const answerInput=useRef<HTMLInputElement>(null);const [session,setSession]=useState<Session|null>(null);const [input,setInput]=useState('');const [pending,setPending]=useState<Pending|null>(null);const [stats,setStats]=useState<Stats|'loading'|'error'|null>(null);const [answerError,setAnswerError]=useState('');const [now,setNow]=useState(0);const [hydrated,setHydrated]=useState(false);
  useEffect(()=>{setSoundOn(localStorage.getItem('ipl-climb-sound') !== 'off');setNow(Date.now());setHydrated(true);const saved=localStorage.getItem(KEY);if(saved){try{const s=JSON.parse(saved) as Session;if(s.date===dateKey()||s.phase!=='summary')setSession(s)}catch{localStorage.removeItem(KEY)}}const id=setInterval(()=>setNow(Date.now()),250);return()=>clearInterval(id)},[]);
  useEffect(()=>{if(session?.mode==='daily')localStorage.setItem(KEY,JSON.stringify(session))},[session]);
  useEffect(()=>{
@@ -92,16 +94,33 @@ export default function Page(){
    .then(r=>r.ok?r.json():Promise.reject(r.status)).then((s:Stats)=>{if(!cancelled)setStats(s)}).catch(()=>{if(!cancelled)setStats('error')});
   return()=>{cancelled=true};
  },[session?.phase,session?.mode,session?.date]);
- useEffect(()=>{if(session?.phase==='question')answerInput.current?.focus()},[session?.phase,session?.results.length]);
+ useEffect(()=>{if(session?.phase==='question'&&!pending)answerInput.current?.focus()},[session?.phase,session?.results.length,pending]);
  function playSound(name:'click-soft'|'success-chime'|'error-004') { if (!soundOn) return; try { const sound=audio.current[name] || new Audio('/sounds/'+name+'.mp3'); audio.current[name]=sound; sound.volume=0.35; sound.currentTime=0; void sound.play().catch(()=>{}); } catch { /* Audio is optional. */ } }
  function toggleSound(){const next=!soundOn;setSoundOn(next);localStorage.setItem('ipl-climb-sound',next?'on':'off');}
- const remaining=session?Math.max(0,Math.ceil((session.deadline-now)/1000)):25;
- function start(mode:'daily'|'practice'){playSound('click-soft');const date=dateKey();setInput('');setAnswerError('');setSession({mode,date,questions:makeQuestions(mode==='daily'?date:String(Date.now())+Math.random()),results:[],deadline:Date.now()+25000,phase:'question'})}
+ const remaining=session?Math.max(0,Math.ceil((session.deadline-(pending?pending.since:now))/1000)):25;
+ function start(mode:'daily'|'practice'){playSound('click-soft');const date=dateKey();setInput('');setAnswerError('');setPending(null);setSession({mode,date,questions:makeQuestions(mode==='daily'?date:String(Date.now())+Math.random()),results:[],deadline:Date.now()+25000,phase:'question'})}
  function startDaily(){const saved=localStorage.getItem(KEY);if(saved){try{const s=JSON.parse(saved);if(s.date===dateKey()){setSession(s);return}}catch{}}start('daily')}
- function submit(value=input, userInitiated=true){if(!session||session.phase!=='question')return;const q=session.questions[session.results.length];const accepted=resolveAnswer(q,value);const valid=!!accepted;if(userInitiated)playSound(valid?'success-chime':'error-004');if(userInitiated && typeof navigator !== 'undefined' && 'vibrate' in navigator && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(valid ? [35, 55, 45] : [90]);if(userInitiated&&!valid){setAnswerError('DOESN’T FIT THIS PROMPT — TRY ANOTHER');requestAnimationFrame(()=>answerInput.current?.focus());return}setAnswerError('');const result:Result={question:q,answer:accepted?.name||value.trim(),correct:valid,points:accepted?score(q,accepted):0,views:accepted?accepted.views:null};setSession({...session,results:[...session.results,result],phase:'feedback'});setInput('')}
- useEffect(()=>{if(session?.phase==='question'&&now>0&&session.deadline<=now)submit('',false)},[now,session]);
+ function buzz(pattern:number[]){if(typeof navigator !== 'undefined' && 'vibrate' in navigator && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) navigator.vibrate(pattern)}
+ function resume(since:number,message=''){if(message){playSound('error-004');buzz([90])}setSession(s=>s&&{...s,deadline:s.deadline+Date.now()-since});setPending(null);setAnswerError(message)}
+ async function ask(){
+  const text=input.trim();if(!session||session.phase!=='question'||pending||!q||!text)return;
+  const since=Date.now();playSound('click-soft');setAnswerError('');setPending({stage:'searching',since});
+  try{const {candidate}=await post('/api/match',{promptId:q.id,text}) as {candidate:Candidate|null};if(candidate)setPending({stage:'confirm',since,candidate});else resume(since,'NO WIKIPEDIA MATCH — TRY ANOTHER')}
+  catch{resume(since,'COULDN’T REACH WIKIPEDIA — TRY AGAIN')}
+ }
+ async function confirm(){
+  if(pending?.stage!=='confirm'||!pending.candidate||!q)return;
+  const {since,candidate}=pending;setPending({stage:'judging',since,candidate});
+  try{
+   const verdict=await post('/api/judge',{promptId:q.id,title:candidate.title}) as Verdict;
+   if(!verdict.correct){resume(since,candidate.title.toUpperCase()+' DOESN’T FIT — TRY ANOTHER');return}
+   playSound('success-chime');buzz([35,55,45]);setPending(null);setInput('');
+   setSession(s=>s&&{...s,results:[...s.results,{question:q,answer:verdict.name,correct:true,points:verdict.points,views:verdict.views,month:verdict.month}],phase:'feedback'});
+  }catch{resume(since,'COULDN’T CHECK THAT — TRY AGAIN')}
+ }
+ useEffect(()=>{if(session?.phase!=='question'||pending||now===0||session.deadline>now)return;const question=session.questions[session.results.length];setSession({...session,results:[...session.results,{question,answer:input.trim(),correct:false,points:0,views:null}],phase:'feedback'});setInput('');setAnswerError('')},[now,session,pending]);
  function next(){if(!session)return;playSound('click-soft');setSession({...session,phase:session.results.length===7?'summary':'question',deadline:Date.now()+25000})}
- const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);const suggestions=!picked&&input.trim().length>=2?catalog.filter(name=>normalize(name).includes(normalize(input))).slice(0,5):[];
+ const total=session?.results.reduce((sum,r)=>sum+r.points,0)||0;const q=session?.questions[session.results.length];const last=session?.results.at(-1);
  const phase=!session?'intro':session.phase==='question'?'answering':session.phase;
  const hot=remaining<=5;
  const lastTier=last&&tier(last);
@@ -133,8 +152,9 @@ export default function Page(){
      <button className="btn-quiet" onClick={()=>start('practice')}>∞ PRACTICE CLIMB</button>
      <details className="ds-howto"><summary>How to play</summary><ul>
       <li>Seven prompts a day, same for everyone.</li>
-      <li>25 seconds to name anything that fits.</li>
-      <li>Answers need an English Wikipedia page.</li>
+      <li>25 seconds to type anything that fits.</li>
+      <li>Jev finds it on Wikipedia, asks “this one?”, then judges it.</li>
+      <li>The clock stops while Jev checks.</li>
       <li>Fewer page views last month = higher climb.</li>
       <li>Single · Boundary · Maximum · Hat-trick · Century</li>
      </ul></details>
@@ -149,25 +169,31 @@ export default function Page(){
     <h1 className="prompt">{q.prompt}</h1>
     <div className="hint">{q.hint}</div>
    </section>
-   {answerError&&<p className="ds-reject" id="answer-error" role="alert">{answerError}</p>}
-   <form className={'ds-dock'+(hot?' hot':'')} onSubmit={e=>{e.preventDefault();submit()}}>
+   {answerError&&!pending&&<p className="ds-reject" id="answer-error" role="alert">{answerError}</p>}
+   {pending?<div className="ds-dock"><div className="ds-ask ds-px" role="status" aria-live="polite" onKeyDown={e=>{if(e.key==='Escape'&&pending.stage==='confirm')resume(pending.since)}}>
+    {pending.stage==='searching'?<p className="ds-ask-label">JEV IS CHECKING WIKIPEDIA…</p>:<>
+     <p className="ds-ask-label">JEV ASKS · THIS ONE?</p>
+     <p className="ds-ask-title">{pending.candidate?.title}</p>
+     {pending.candidate?.description&&<p className="ds-ask-desc">{pending.candidate.description}</p>}
+     <div className="ds-ask-actions"><button className="ds-dive-btn" type="button" autoFocus disabled={pending.stage==='judging'} onClick={confirm}>{pending.stage==='judging'?'CHECKING…':'YES ▲'}</button><button className="btn-quiet" type="button" disabled={pending.stage==='judging'} onClick={()=>resume(pending.since)}>NO, RETYPE</button></div>
+    </>}
+   </div></div>:<form className={'ds-dock'+(hot?' hot':'')} onSubmit={e=>{e.preventDefault();ask()}}>
     <div className="ds-dock-inner">
      <div className="ds-input-col">
-      {suggestions.length>0&&<div className="ds-suggest">{suggestions.map(name=><button type="button" key={name} onClick={()=>{setInput(name);setPicked(true);setAnswerError('');answerInput.current?.focus()}}>{name}</button>)}</div>}
       <label htmlFor="answer" className="sr-only">Your answer</label>
-      <input ref={answerInput} id="answer" className={'ds-input'+(answerError?' ds-shake':'')} autoComplete="off" value={input} aria-invalid={!!answerError} aria-describedby={answerError ? 'answer-error' : undefined} onChange={e=>{setInput(e.target.value);setPicked(false);if(answerError)setAnswerError('')}} placeholder="type a player…"/>
+      <input ref={answerInput} id="answer" className={'ds-input'+(answerError?' ds-shake':'')} autoComplete="off" value={input} aria-invalid={!!answerError} aria-describedby={answerError ? 'answer-error' : undefined} onChange={e=>{setInput(e.target.value);if(answerError)setAnswerError('')}} placeholder="type an answer…"/>
       <div className="ds-fuse" aria-hidden="true"><div className="ds-fuse-fill" style={{transform:'scaleX('+(remaining/25)+')'}}/></div>
      </div>
      <button className="ds-dive-btn" type="submit" aria-label="Submit answer">CLIMB</button>
     </div>
-   </form>
+   </form>}
   </>}
 
   {session?.phase==='feedback'&&last&&lastTier&&<section className={'ds-landed'+(last.correct?'':' miss')} style={{'--tc':lastTier.color} as CSSProperties} role="status" aria-live="polite">
    <div className="tname">{lastTier.name}</div>
    <div className="tans">{last.answer||'NO ANSWER'}</div>
    <div className="tpts"><AnimatedScore value={last.points}/></div>
-   <div className="tsub">{last.correct?(last.views??0).toLocaleString()+' WIKIPEDIA VIEWS IN '+VIEWS_MONTH:last.answer?'DOESN’T FIT THE PROMPT':'THE CLOCK RAN OUT'}</div>
+   <div className="tsub">{last.correct?(last.views??0).toLocaleString()+' WIKIPEDIA VIEWS IN '+monthLabel(last.month!):'THE CLOCK RAN OUT'}</div>
    <button className="ds-next-btn" onClick={next} autoFocus>{session.results.length===7?'RESULTS ▲':'NEXT ▲'}</button>
   </section>}
 

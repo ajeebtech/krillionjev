@@ -1,0 +1,92 @@
+[
+  {
+    "id": "india-women",
+    "prompt": "Name an Indian woman cricketer",
+    "hint": "ANY LEVEL · ANY ERA"
+  },
+  {
+    "id": "pakistan-men",
+    "prompt": "Name a cricketer who has played for Pakistan",
+    "hint": "MEN'S NATIONAL TEAM · ANY ERA"
+  },
+  {
+    "id": "australia-men",
+    "prompt": "Name a cricketer who has played for Australia",
+    "hint": "MEN'S NATIONAL TEAM · ANY ERA"
+  },
+  {
+    "id": "england-men",
+    "prompt": "Name a cricketer who has played for England",
+    "hint": "MEN'S NATIONAL TEAM · ANY ERA"
+  },
+  {
+    "id": "india-keepers",
+    "prompt": "Name an Indian wicket-keeper",
+    "hint": "ANY LEVEL · ANY ERA"
+  },
+  {
+    "id": "cricketer-politicians",
+    "prompt": "Name a cricketer who went into politics",
+    "hint": "ANY COUNTRY"
+  },
+  {
+    "id": "cricket-films",
+    "prompt": "Name a film about cricket",
+    "hint": "ANY LANGUAGE"
+  },
+  {
+    "id": "umpires",
+    "prompt": "Name a cricket umpire",
+    "hint": "ANY ERA"
+  },
+  {
+    "id": "india-grounds",
+    "prompt": "Name a cricket ground in India",
+    "hint": "STADIUMS COUNT"
+  },
+  {
+    "id": "uk-grounds",
+    "prompt": "Name a cricket ground in the UK",
+    "hint": "COUNTY GROUNDS COUNT"
+  },
+  {
+    "id": "cricketer-actors",
+    "prompt": "Name a cricketer who also acted in a film",
+    "hint": "ANY COUNTRY"
+  },
+  {
+    "id": "commentators",
+    "prompt": "Name a cricket commentator",
+    "hint": "TV OR RADIO"
+  },
+  {
+    "id": "world-cup-captains",
+    "prompt": "Name a captain who won a Cricket World Cup",
+    "hint": "MEN'S OR WOMEN'S · ODI OR T20"
+  },
+  {
+    "id": "left-arm-quicks",
+    "prompt": "Name a left-arm fast bowler",
+    "hint": "INTERNATIONAL CRICKET"
+  },
+  {
+    "id": "mystery-spinners",
+    "prompt": "Name a leg-spinner",
+    "hint": "INTERNATIONAL CRICKET"
+  },
+  {
+    "id": "kit-brands",
+    "prompt": "Name a company that makes cricket bats",
+    "hint": "ANY ERA"
+  },
+  {
+    "id": "ipl-coaches",
+    "prompt": "Name someone who has been head coach of an IPL team",
+    "hint": "ANY SEASON"
+  },
+  {
+    "id": "associate-players",
+    "prompt": "Name a cricketer from a country that has never played a Test",
+    "hint": "ASSOCIATE NATIONS"
+  }
+]

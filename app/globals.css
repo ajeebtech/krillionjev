@@ -100,10 +100,12 @@ h1,p,ol{margin:0}
 .ds-dock.hot .ds-fuse-fill{background:var(--pink)}
 .ds-dive-btn{flex:none;border:0;color:var(--abyss);background:var(--pink);letter-spacing:.12em;font-size:22px;padding:11px 16px 9px;box-shadow:0 0 0 2px var(--abyss),0 3px 0 2px #7d1d3c,0 0 16px #ff5d8f73}
 .ds-dive-btn:active{transform:translateY(2px);box-shadow:0 0 0 2px var(--abyss),0 1px 0 2px #7d1d3c}
-.ds-suggest{position:absolute;left:0;right:0;bottom:calc(100% + 8px);background:var(--panel);box-shadow:0 0 0 2px #060d1a,0 0 0 4px var(--edge),0 -10px 30px #0009}
-.ds-suggest button{display:block;width:100%;text-align:left;border:0;background:none;color:var(--ink);font-size:20px;letter-spacing:.04em;padding:8px 12px 6px}
-.ds-suggest button+button{border-top:1px solid #1b305080}
-.ds-suggest button:hover,.ds-suggest button:focus-visible{background:#16294a;color:var(--cyan);outline:0}
+.ds-ask{max-width:600px;margin:0 auto;padding:14px 16px 14px;text-align:center;background:#101d33f2;box-shadow:inset 0 0 0 3px #4de3ff40;animation:ds-card-in .35s var(--ease-out) backwards}
+.ds-ask-label{color:var(--cyan);letter-spacing:.24em;font-size:15px;text-shadow:0 0 10px #4de3ff73}
+.ds-ask-title{color:var(--ink);font-size:clamp(26px,6.5vw,34px);line-height:1.05;margin-top:6px;text-shadow:0 0 14px #e8f1ff40}
+.ds-ask-desc{color:var(--muted);letter-spacing:.06em;font-size:16px;margin-top:4px}
+.ds-ask-actions{display:flex;justify-content:center;align-items:center;gap:16px;margin-top:14px}
+.ds-ask button:disabled{opacity:.55;cursor:default}
 .ds-reject{position:absolute;z-index:10;left:12px;right:12px;bottom:calc(92px + env(safe-area-inset-bottom));text-align:center;letter-spacing:.08em;color:#ff9f43;text-shadow:0 1px #0009;font-size:17px;pointer-events:none}
 .ds-shake{animation:ds-shake .28s var(--ease-out)}
 
