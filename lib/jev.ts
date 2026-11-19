@@ -1,7 +1,7 @@
 import { questions, type Candidate, type Verdict } from './game';
 
 const WIKI = { 'User-Agent': 'ipl-climb/0.1 (https://github.com/ajeebtech/krillionjev)' };
-const MODEL = 'anthropic/claude-haiku-4.5';
+const MODEL = process.env.JEV_MODEL ?? 'openai/gpt-4.1-mini';
 
 async function wikipedia(params: Record<string, string>) {
   const response = await fetch('https://en.wikipedia.org/w/api.php?' + new URLSearchParams({ action: 'query', format: 'json', redirects: '1', ...params }), { headers: WIKI, cache: 'no-store' });
